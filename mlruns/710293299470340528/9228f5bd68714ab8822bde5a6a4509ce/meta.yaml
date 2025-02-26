@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/9228f5bd68714ab8822bde5a6a4509ce/artifacts
+end_time: 1740513295059
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 9228f5bd68714ab8822bde5a6a4509ce
+run_name: skillful-finch-375
+run_uuid: 9228f5bd68714ab8822bde5a6a4509ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513294867
+status: 3
+tags: []
+user_id: felip

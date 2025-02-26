@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/a7605e8150f34e8f8ba8e228bc884bd3/artifacts
+end_time: 1740513242637
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: a7605e8150f34e8f8ba8e228bc884bd3
+run_name: capable-hog-364
+run_uuid: a7605e8150f34e8f8ba8e228bc884bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513242474
+status: 3
+tags: []
+user_id: felip

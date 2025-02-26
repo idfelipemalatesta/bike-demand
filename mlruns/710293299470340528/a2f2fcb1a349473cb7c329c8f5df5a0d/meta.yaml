@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/a2f2fcb1a349473cb7c329c8f5df5a0d/artifacts
+end_time: 1740513260377
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: a2f2fcb1a349473cb7c329c8f5df5a0d
+run_name: delicate-croc-98
+run_uuid: a2f2fcb1a349473cb7c329c8f5df5a0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513260201
+status: 3
+tags: []
+user_id: felip

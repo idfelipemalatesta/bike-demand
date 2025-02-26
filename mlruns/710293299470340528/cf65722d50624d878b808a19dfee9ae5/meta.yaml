@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/cf65722d50624d878b808a19dfee9ae5/artifacts
+end_time: 1740513205443
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: cf65722d50624d878b808a19dfee9ae5
+run_name: skittish-turtle-314
+run_uuid: cf65722d50624d878b808a19dfee9ae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513205273
+status: 3
+tags: []
+user_id: felip

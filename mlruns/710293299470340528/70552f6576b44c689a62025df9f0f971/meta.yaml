@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/70552f6576b44c689a62025df9f0f971/artifacts
+end_time: 1740513276418
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 70552f6576b44c689a62025df9f0f971
+run_name: bouncy-sponge-972
+run_uuid: 70552f6576b44c689a62025df9f0f971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513276237
+status: 3
+tags: []
+user_id: felip

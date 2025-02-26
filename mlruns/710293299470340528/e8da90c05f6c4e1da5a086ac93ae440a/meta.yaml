@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/e8da90c05f6c4e1da5a086ac93ae440a/artifacts
+end_time: 1740513311846
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: e8da90c05f6c4e1da5a086ac93ae440a
+run_name: capable-wolf-32
+run_uuid: e8da90c05f6c4e1da5a086ac93ae440a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513311643
+status: 3
+tags: []
+user_id: felip

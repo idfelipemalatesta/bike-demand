@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/a830566a4aee46389b331e33ac50e762/artifacts
+end_time: 1740513275616
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: a830566a4aee46389b331e33ac50e762
+run_name: masked-ox-92
+run_uuid: a830566a4aee46389b331e33ac50e762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513275476
+status: 3
+tags: []
+user_id: felip

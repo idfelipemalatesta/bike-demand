@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/dbd606cf52d34bb9bb37b9b6d1361ca5/artifacts
+end_time: 1740513274300
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: dbd606cf52d34bb9bb37b9b6d1361ca5
+run_name: casual-lamb-839
+run_uuid: dbd606cf52d34bb9bb37b9b6d1361ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513274118
+status: 3
+tags: []
+user_id: felip

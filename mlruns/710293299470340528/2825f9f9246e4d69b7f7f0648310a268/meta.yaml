@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/2825f9f9246e4d69b7f7f0648310a268/artifacts
+end_time: 1740513303902
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 2825f9f9246e4d69b7f7f0648310a268
+run_name: upbeat-seal-178
+run_uuid: 2825f9f9246e4d69b7f7f0648310a268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513303706
+status: 3
+tags: []
+user_id: felip

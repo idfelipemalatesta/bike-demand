@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/d94d9d1ac03c42f18cc513eb997f1702/artifacts
+end_time: 1740513201100
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: d94d9d1ac03c42f18cc513eb997f1702
+run_name: learned-chimp-560
+run_uuid: d94d9d1ac03c42f18cc513eb997f1702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513200927
+status: 3
+tags: []
+user_id: felip

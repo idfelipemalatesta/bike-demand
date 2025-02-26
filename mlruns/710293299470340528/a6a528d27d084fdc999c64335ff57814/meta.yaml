@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/a6a528d27d084fdc999c64335ff57814/artifacts
+end_time: 1740513274014
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: a6a528d27d084fdc999c64335ff57814
+run_name: sincere-owl-150
+run_uuid: a6a528d27d084fdc999c64335ff57814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513273823
+status: 3
+tags: []
+user_id: felip

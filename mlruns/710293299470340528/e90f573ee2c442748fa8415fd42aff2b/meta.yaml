@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/e90f573ee2c442748fa8415fd42aff2b/artifacts
+end_time: 1740513211153
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: e90f573ee2c442748fa8415fd42aff2b
+run_name: lyrical-conch-64
+run_uuid: e90f573ee2c442748fa8415fd42aff2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513210985
+status: 3
+tags: []
+user_id: felip

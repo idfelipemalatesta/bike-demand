@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/dc2fd069df1f4560ba7f962d1f222a65/artifacts
+end_time: 1740513197779
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: dc2fd069df1f4560ba7f962d1f222a65
+run_name: aged-carp-783
+run_uuid: dc2fd069df1f4560ba7f962d1f222a65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513197593
+status: 3
+tags: []
+user_id: felip

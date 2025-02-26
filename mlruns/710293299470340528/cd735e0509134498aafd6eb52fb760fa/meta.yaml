@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/cd735e0509134498aafd6eb52fb760fa/artifacts
+end_time: 1740513219071
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: cd735e0509134498aafd6eb52fb760fa
+run_name: bittersweet-pug-942
+run_uuid: cd735e0509134498aafd6eb52fb760fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513218898
+status: 3
+tags: []
+user_id: felip

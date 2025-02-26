@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/bbc3d1c28d864e6f84c95b0f42bc9c12/artifacts
+end_time: 1740513261460
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: bbc3d1c28d864e6f84c95b0f42bc9c12
+run_name: likeable-mouse-926
+run_uuid: bbc3d1c28d864e6f84c95b0f42bc9c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513261289
+status: 3
+tags: []
+user_id: felip

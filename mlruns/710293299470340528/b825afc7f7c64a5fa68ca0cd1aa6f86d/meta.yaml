@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/b825afc7f7c64a5fa68ca0cd1aa6f86d/artifacts
+end_time: 1740513245777
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: b825afc7f7c64a5fa68ca0cd1aa6f86d
+run_name: classy-sloth-634
+run_uuid: b825afc7f7c64a5fa68ca0cd1aa6f86d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513245609
+status: 3
+tags: []
+user_id: felip

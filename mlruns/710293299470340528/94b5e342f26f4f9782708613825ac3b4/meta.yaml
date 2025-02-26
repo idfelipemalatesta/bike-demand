@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/94b5e342f26f4f9782708613825ac3b4/artifacts
+end_time: 1740513270415
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 94b5e342f26f4f9782708613825ac3b4
+run_name: capricious-moose-270
+run_uuid: 94b5e342f26f4f9782708613825ac3b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513270227
+status: 3
+tags: []
+user_id: felip

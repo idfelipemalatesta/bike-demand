@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/ba84499116b94251842c0b29011971ec/artifacts
+end_time: 1740513203864
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: ba84499116b94251842c0b29011971ec
+run_name: bouncy-bee-871
+run_uuid: ba84499116b94251842c0b29011971ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513203692
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/4ee0ab1e9f01451981109169d3f8928e/artifacts
+end_time: 1740513235127
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 4ee0ab1e9f01451981109169d3f8928e
+run_name: intrigued-newt-324
+run_uuid: 4ee0ab1e9f01451981109169d3f8928e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513234961
+status: 3
+tags: []
+user_id: felip

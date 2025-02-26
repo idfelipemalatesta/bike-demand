@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/8fdf22d5e7984439adb9b1cc21ec3f2a/artifacts
+end_time: 1740513204125
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 8fdf22d5e7984439adb9b1cc21ec3f2a
+run_name: welcoming-duck-549
+run_uuid: 8fdf22d5e7984439adb9b1cc21ec3f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513203963
+status: 3
+tags: []
+user_id: felip

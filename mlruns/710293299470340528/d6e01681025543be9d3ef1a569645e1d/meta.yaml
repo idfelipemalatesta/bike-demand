@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/d6e01681025543be9d3ef1a569645e1d/artifacts
+end_time: 1740513223707
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: d6e01681025543be9d3ef1a569645e1d
+run_name: bittersweet-elk-525
+run_uuid: d6e01681025543be9d3ef1a569645e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513223513
+status: 3
+tags: []
+user_id: felip

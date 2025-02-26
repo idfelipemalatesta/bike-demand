@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/abeec314f7a34c58b122a8babdda1da4/artifacts
+end_time: 1740513193392
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: abeec314f7a34c58b122a8babdda1da4
+run_name: capricious-pug-905
+run_uuid: abeec314f7a34c58b122a8babdda1da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513193272
+status: 3
+tags: []
+user_id: felip

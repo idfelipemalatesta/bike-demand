@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/3486f5d56bac4edfabab580769e8b467/artifacts
+end_time: 1740513254507
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 3486f5d56bac4edfabab580769e8b467
+run_name: bouncy-wolf-675
+run_uuid: 3486f5d56bac4edfabab580769e8b467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513254283
+status: 3
+tags: []
+user_id: felip

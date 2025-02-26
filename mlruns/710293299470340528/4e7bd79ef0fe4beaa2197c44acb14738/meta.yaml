@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/4e7bd79ef0fe4beaa2197c44acb14738/artifacts
+end_time: 1740513229426
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 4e7bd79ef0fe4beaa2197c44acb14738
+run_name: brawny-newt-724
+run_uuid: 4e7bd79ef0fe4beaa2197c44acb14738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513229250
+status: 3
+tags: []
+user_id: felip

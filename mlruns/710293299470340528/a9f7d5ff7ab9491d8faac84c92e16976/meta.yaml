@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/a9f7d5ff7ab9491d8faac84c92e16976/artifacts
+end_time: 1740513236713
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: a9f7d5ff7ab9491d8faac84c92e16976
+run_name: indecisive-hound-630
+run_uuid: a9f7d5ff7ab9491d8faac84c92e16976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513236549
+status: 3
+tags: []
+user_id: felip

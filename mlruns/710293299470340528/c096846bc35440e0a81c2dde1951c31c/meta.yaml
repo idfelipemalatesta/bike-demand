@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/c096846bc35440e0a81c2dde1951c31c/artifacts
+end_time: 1740513302195
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: c096846bc35440e0a81c2dde1951c31c
+run_name: luxuriant-shrimp-125
+run_uuid: c096846bc35440e0a81c2dde1951c31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513301922
+status: 3
+tags: []
+user_id: felip

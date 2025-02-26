@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/3d700a77f78749cf8a54c1dab4c4248c/artifacts
+end_time: 1740513316630
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 3d700a77f78749cf8a54c1dab4c4248c
+run_name: defiant-hawk-811
+run_uuid: 3d700a77f78749cf8a54c1dab4c4248c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513316398
+status: 3
+tags: []
+user_id: felip

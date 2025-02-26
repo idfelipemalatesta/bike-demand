@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/4e1e385aa0c24200883fb5904cd26cfe/artifacts
+end_time: 1740513304491
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 4e1e385aa0c24200883fb5904cd26cfe
+run_name: zealous-grouse-799
+run_uuid: 4e1e385aa0c24200883fb5904cd26cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513304296
+status: 3
+tags: []
+user_id: felip

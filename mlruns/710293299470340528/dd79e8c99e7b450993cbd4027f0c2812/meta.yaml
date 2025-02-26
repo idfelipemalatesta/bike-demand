@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/dd79e8c99e7b450993cbd4027f0c2812/artifacts
+end_time: 1740513299655
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: dd79e8c99e7b450993cbd4027f0c2812
+run_name: trusting-stag-808
+run_uuid: dd79e8c99e7b450993cbd4027f0c2812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513299469
+status: 3
+tags: []
+user_id: felip

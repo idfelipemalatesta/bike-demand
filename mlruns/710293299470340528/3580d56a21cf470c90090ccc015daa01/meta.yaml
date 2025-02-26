@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/3580d56a21cf470c90090ccc015daa01/artifacts
+end_time: 1740513244434
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 3580d56a21cf470c90090ccc015daa01
+run_name: melodic-koi-832
+run_uuid: 3580d56a21cf470c90090ccc015daa01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513244265
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/963fe0eabbc149c0972ce01a3b96fbdb/artifacts
+end_time: 1740513312945
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 963fe0eabbc149c0972ce01a3b96fbdb
+run_name: amusing-snail-574
+run_uuid: 963fe0eabbc149c0972ce01a3b96fbdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513312739
+status: 3
+tags: []
+user_id: felip

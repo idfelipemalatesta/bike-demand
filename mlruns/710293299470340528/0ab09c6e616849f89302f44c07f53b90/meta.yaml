@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/0ab09c6e616849f89302f44c07f53b90/artifacts
+end_time: 1740513261194
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 0ab09c6e616849f89302f44c07f53b90
+run_name: learned-rat-669
+run_uuid: 0ab09c6e616849f89302f44c07f53b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513261020
+status: 3
+tags: []
+user_id: felip

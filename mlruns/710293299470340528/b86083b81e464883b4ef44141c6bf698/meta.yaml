@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/b86083b81e464883b4ef44141c6bf698/artifacts
+end_time: 1740513312365
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: b86083b81e464883b4ef44141c6bf698
+run_name: merciful-gnu-965
+run_uuid: b86083b81e464883b4ef44141c6bf698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513312166
+status: 3
+tags: []
+user_id: felip

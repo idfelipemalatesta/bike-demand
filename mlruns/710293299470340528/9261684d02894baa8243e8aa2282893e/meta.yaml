@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/9261684d02894baa8243e8aa2282893e/artifacts
+end_time: 1740513221669
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 9261684d02894baa8243e8aa2282893e
+run_name: colorful-colt-452
+run_uuid: 9261684d02894baa8243e8aa2282893e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513221496
+status: 3
+tags: []
+user_id: felip

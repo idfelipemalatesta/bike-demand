@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/f35434f324e44f17b5bb2dd5131ed8a6/artifacts
+end_time: 1740513317555
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: f35434f324e44f17b5bb2dd5131ed8a6
+run_name: crawling-hog-926
+run_uuid: f35434f324e44f17b5bb2dd5131ed8a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513317340
+status: 3
+tags: []
+user_id: felip

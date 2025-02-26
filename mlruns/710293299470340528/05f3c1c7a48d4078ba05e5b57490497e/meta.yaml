@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/05f3c1c7a48d4078ba05e5b57490497e/artifacts
+end_time: 1740513218237
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 05f3c1c7a48d4078ba05e5b57490497e
+run_name: zealous-penguin-870
+run_uuid: 05f3c1c7a48d4078ba05e5b57490497e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513218056
+status: 3
+tags: []
+user_id: felip

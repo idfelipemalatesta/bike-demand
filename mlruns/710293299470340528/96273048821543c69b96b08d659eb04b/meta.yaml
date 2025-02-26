@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/96273048821543c69b96b08d659eb04b/artifacts
+end_time: 1740513283742
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 96273048821543c69b96b08d659eb04b
+run_name: enthused-owl-862
+run_uuid: 96273048821543c69b96b08d659eb04b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513283498
+status: 3
+tags: []
+user_id: felip

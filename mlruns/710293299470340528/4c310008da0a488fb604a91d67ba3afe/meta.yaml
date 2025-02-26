@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/4c310008da0a488fb604a91d67ba3afe/artifacts
+end_time: 1740513296231
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 4c310008da0a488fb604a91d67ba3afe
+run_name: chill-mink-972
+run_uuid: 4c310008da0a488fb604a91d67ba3afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513296041
+status: 3
+tags: []
+user_id: felip

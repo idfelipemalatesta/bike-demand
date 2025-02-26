@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/bd8545f09db94602a7431b69dc46193c/artifacts
+end_time: 1740513208123
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: bd8545f09db94602a7431b69dc46193c
+run_name: efficient-mare-833
+run_uuid: bd8545f09db94602a7431b69dc46193c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513207929
+status: 3
+tags: []
+user_id: felip

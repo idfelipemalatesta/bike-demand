@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/d07449f0ae8440c7ae3fd0ac16e3481d/artifacts
+end_time: 1740513241071
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: d07449f0ae8440c7ae3fd0ac16e3481d
+run_name: adventurous-ant-326
+run_uuid: d07449f0ae8440c7ae3fd0ac16e3481d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513240865
+status: 3
+tags: []
+user_id: felip

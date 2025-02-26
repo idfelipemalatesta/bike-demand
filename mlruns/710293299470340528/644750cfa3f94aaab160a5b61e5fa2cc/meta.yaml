@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/644750cfa3f94aaab160a5b61e5fa2cc/artifacts
+end_time: 1740513230698
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 644750cfa3f94aaab160a5b61e5fa2cc
+run_name: bright-auk-888
+run_uuid: 644750cfa3f94aaab160a5b61e5fa2cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513230537
+status: 3
+tags: []
+user_id: felip

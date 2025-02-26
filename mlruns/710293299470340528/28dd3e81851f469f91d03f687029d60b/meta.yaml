@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/28dd3e81851f469f91d03f687029d60b/artifacts
+end_time: 1740513229931
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 28dd3e81851f469f91d03f687029d60b
+run_name: luminous-zebra-4
+run_uuid: 28dd3e81851f469f91d03f687029d60b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513229769
+status: 3
+tags: []
+user_id: felip

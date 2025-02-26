@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/34815bccb2824abca53e247431dc17a9/artifacts
+end_time: 1740513214433
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 34815bccb2824abca53e247431dc17a9
+run_name: amazing-wasp-280
+run_uuid: 34815bccb2824abca53e247431dc17a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513214248
+status: 3
+tags: []
+user_id: felip

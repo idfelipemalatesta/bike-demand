@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/8372aafb3db94e9eb3cdcc2e72f3c6e9/artifacts
+end_time: 1740513299984
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 8372aafb3db94e9eb3cdcc2e72f3c6e9
+run_name: learned-worm-655
+run_uuid: 8372aafb3db94e9eb3cdcc2e72f3c6e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513299759
+status: 3
+tags: []
+user_id: felip

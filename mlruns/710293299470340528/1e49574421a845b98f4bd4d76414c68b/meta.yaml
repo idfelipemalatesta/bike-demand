@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/1e49574421a845b98f4bd4d76414c68b/artifacts
+end_time: 1740513190457
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 1e49574421a845b98f4bd4d76414c68b
+run_name: legendary-goose-317
+run_uuid: 1e49574421a845b98f4bd4d76414c68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513190273
+status: 3
+tags: []
+user_id: felip

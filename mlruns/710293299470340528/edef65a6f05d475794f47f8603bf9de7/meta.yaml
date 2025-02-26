@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/edef65a6f05d475794f47f8603bf9de7/artifacts
+end_time: 1740513298258
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: edef65a6f05d475794f47f8603bf9de7
+run_name: sincere-crow-519
+run_uuid: edef65a6f05d475794f47f8603bf9de7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513298074
+status: 3
+tags: []
+user_id: felip

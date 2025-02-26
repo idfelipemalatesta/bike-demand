@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/08ef2665f0a6424f9bbd4e2cd11f3511/artifacts
+end_time: 1740513243915
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 08ef2665f0a6424f9bbd4e2cd11f3511
+run_name: magnificent-dove-698
+run_uuid: 08ef2665f0a6424f9bbd4e2cd11f3511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513243749
+status: 3
+tags: []
+user_id: felip

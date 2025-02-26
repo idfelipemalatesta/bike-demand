@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/2523b0e08d06443992f69b20f3e46d27/artifacts
+end_time: 1740513227067
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 2523b0e08d06443992f69b20f3e46d27
+run_name: redolent-stoat-408
+run_uuid: 2523b0e08d06443992f69b20f3e46d27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513226910
+status: 3
+tags: []
+user_id: felip

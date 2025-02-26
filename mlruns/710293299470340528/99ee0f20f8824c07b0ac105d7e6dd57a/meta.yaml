@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/99ee0f20f8824c07b0ac105d7e6dd57a/artifacts
+end_time: 1740513214699
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 99ee0f20f8824c07b0ac105d7e6dd57a
+run_name: casual-goose-378
+run_uuid: 99ee0f20f8824c07b0ac105d7e6dd57a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513214528
+status: 3
+tags: []
+user_id: felip

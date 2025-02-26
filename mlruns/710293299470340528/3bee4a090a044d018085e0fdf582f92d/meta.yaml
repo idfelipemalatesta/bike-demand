@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/3bee4a090a044d018085e0fdf582f92d/artifacts
+end_time: 1740513301158
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 3bee4a090a044d018085e0fdf582f92d
+run_name: thoughtful-koi-766
+run_uuid: 3bee4a090a044d018085e0fdf582f92d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513300949
+status: 3
+tags: []
+user_id: felip

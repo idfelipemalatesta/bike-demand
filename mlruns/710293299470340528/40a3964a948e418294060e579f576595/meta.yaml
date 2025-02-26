@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/40a3964a948e418294060e579f576595/artifacts
+end_time: 1740513235640
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 40a3964a948e418294060e579f576595
+run_name: aged-slug-309
+run_uuid: 40a3964a948e418294060e579f576595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513235476
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/3cdaf6657719418cbb30baff09690feb/artifacts
+end_time: 1740513276740
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 3cdaf6657719418cbb30baff09690feb
+run_name: overjoyed-snipe-771
+run_uuid: 3cdaf6657719418cbb30baff09690feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513276517
+status: 3
+tags: []
+user_id: felip

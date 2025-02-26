@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/7fcc39ae6bdb4c63b5c5a9a7bc6b29ff/artifacts
+end_time: 1740513280332
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 7fcc39ae6bdb4c63b5c5a9a7bc6b29ff
+run_name: resilient-frog-784
+run_uuid: 7fcc39ae6bdb4c63b5c5a9a7bc6b29ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513280147
+status: 3
+tags: []
+user_id: felip

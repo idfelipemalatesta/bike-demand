@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/d4417fbb1ca24dd6be12efd1b595856b/artifacts
+end_time: 1740513287904
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: d4417fbb1ca24dd6be12efd1b595856b
+run_name: secretive-moth-38
+run_uuid: d4417fbb1ca24dd6be12efd1b595856b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513287719
+status: 3
+tags: []
+user_id: felip

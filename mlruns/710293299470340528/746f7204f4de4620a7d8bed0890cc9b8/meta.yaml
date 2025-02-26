@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/746f7204f4de4620a7d8bed0890cc9b8/artifacts
+end_time: 1740513220861
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 746f7204f4de4620a7d8bed0890cc9b8
+run_name: burly-stork-383
+run_uuid: 746f7204f4de4620a7d8bed0890cc9b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513220685
+status: 3
+tags: []
+user_id: felip

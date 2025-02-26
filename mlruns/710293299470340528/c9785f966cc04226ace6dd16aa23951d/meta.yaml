@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/c9785f966cc04226ace6dd16aa23951d/artifacts
+end_time: 1740513184141
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: c9785f966cc04226ace6dd16aa23951d
+run_name: honorable-eel-725
+run_uuid: c9785f966cc04226ace6dd16aa23951d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513184035
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/a7db19403e734e4cbeb9fb2b1c3f54e0/artifacts
+end_time: 1740513183760
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: a7db19403e734e4cbeb9fb2b1c3f54e0
+run_name: loud-tern-670
+run_uuid: a7db19403e734e4cbeb9fb2b1c3f54e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513183632
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/d925130956724d9d845f93f97f5971f5/artifacts
+end_time: 1740513249441
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: d925130956724d9d845f93f97f5971f5
+run_name: chill-fly-662
+run_uuid: d925130956724d9d845f93f97f5971f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513249260
+status: 3
+tags: []
+user_id: felip

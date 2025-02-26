@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/615a50f308bc42cdb76b5263106d54c7/artifacts
+end_time: 1740513215248
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 615a50f308bc42cdb76b5263106d54c7
+run_name: skillful-mouse-236
+run_uuid: 615a50f308bc42cdb76b5263106d54c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513215066
+status: 3
+tags: []
+user_id: felip

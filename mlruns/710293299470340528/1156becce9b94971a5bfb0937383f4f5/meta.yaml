@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/1156becce9b94971a5bfb0937383f4f5/artifacts
+end_time: 1740513264993
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 1156becce9b94971a5bfb0937383f4f5
+run_name: wise-tern-498
+run_uuid: 1156becce9b94971a5bfb0937383f4f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513264818
+status: 3
+tags: []
+user_id: felip

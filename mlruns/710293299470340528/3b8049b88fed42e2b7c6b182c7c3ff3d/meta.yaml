@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/3b8049b88fed42e2b7c6b182c7c3ff3d/artifacts
+end_time: 1740513287329
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 3b8049b88fed42e2b7c6b182c7c3ff3d
+run_name: thundering-croc-978
+run_uuid: 3b8049b88fed42e2b7c6b182c7c3ff3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513287147
+status: 3
+tags: []
+user_id: felip

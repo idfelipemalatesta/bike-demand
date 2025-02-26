@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/69a8bfb1aa904a8e840ee6338fe241fc/artifacts
+end_time: 1740513306682
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 69a8bfb1aa904a8e840ee6338fe241fc
+run_name: powerful-roo-292
+run_uuid: 69a8bfb1aa904a8e840ee6338fe241fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513306481
+status: 3
+tags: []
+user_id: felip

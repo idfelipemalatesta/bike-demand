@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/99fb02806f77426c9af74673e8530199/artifacts
+end_time: 1740513228897
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 99fb02806f77426c9af74673e8530199
+run_name: sedate-eel-42
+run_uuid: 99fb02806f77426c9af74673e8530199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513228733
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/d4c703e16def4923bd62c14709baf8e4/artifacts
+end_time: 1740513310052
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: d4c703e16def4923bd62c14709baf8e4
+run_name: orderly-squirrel-369
+run_uuid: d4c703e16def4923bd62c14709baf8e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513309862
+status: 3
+tags: []
+user_id: felip

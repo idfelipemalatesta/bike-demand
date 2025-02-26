@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/f634738ef77648348b838ed04bd6cb46/artifacts
+end_time: 1740513203341
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: f634738ef77648348b838ed04bd6cb46
+run_name: awesome-shrimp-338
+run_uuid: f634738ef77648348b838ed04bd6cb46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513203175
+status: 3
+tags: []
+user_id: felip

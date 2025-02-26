@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/07625b5ff6bb46df9c23dc6a2577478f/artifacts
+end_time: 1740513225298
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 07625b5ff6bb46df9c23dc6a2577478f
+run_name: luxuriant-cub-500
+run_uuid: 07625b5ff6bb46df9c23dc6a2577478f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513225138
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/846ca8839a934a14a2e9f6a11ec1c609/artifacts
+end_time: 1740513185078
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 846ca8839a934a14a2e9f6a11ec1c609
+run_name: secretive-skink-243
+run_uuid: 846ca8839a934a14a2e9f6a11ec1c609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513184916
+status: 3
+tags: []
+user_id: felip

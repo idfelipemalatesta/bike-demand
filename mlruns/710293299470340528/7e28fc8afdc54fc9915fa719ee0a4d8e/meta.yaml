@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/7e28fc8afdc54fc9915fa719ee0a4d8e/artifacts
+end_time: 1740513319605
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 7e28fc8afdc54fc9915fa719ee0a4d8e
+run_name: melodic-ape-33
+run_uuid: 7e28fc8afdc54fc9915fa719ee0a4d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513319393
+status: 3
+tags: []
+user_id: felip

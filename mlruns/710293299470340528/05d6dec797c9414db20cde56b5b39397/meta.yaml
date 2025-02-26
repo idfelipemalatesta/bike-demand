@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/05d6dec797c9414db20cde56b5b39397/artifacts
+end_time: 1740513247075
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 05d6dec797c9414db20cde56b5b39397
+run_name: popular-midge-470
+run_uuid: 05d6dec797c9414db20cde56b5b39397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513246908
+status: 3
+tags: []
+user_id: felip

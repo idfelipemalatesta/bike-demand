@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/7ac57547040e46eca2e0c250c6f92abb/artifacts
+end_time: 1740513244694
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 7ac57547040e46eca2e0c250c6f92abb
+run_name: enthused-swan-904
+run_uuid: 7ac57547040e46eca2e0c250c6f92abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513244526
+status: 3
+tags: []
+user_id: felip

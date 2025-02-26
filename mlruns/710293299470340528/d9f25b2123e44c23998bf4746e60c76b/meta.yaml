@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/d9f25b2123e44c23998bf4746e60c76b/artifacts
+end_time: 1740513291331
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: d9f25b2123e44c23998bf4746e60c76b
+run_name: righteous-fawn-761
+run_uuid: d9f25b2123e44c23998bf4746e60c76b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513291154
+status: 3
+tags: []
+user_id: felip

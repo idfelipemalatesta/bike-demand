@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/41a374388e4048a286f68b980025b5ea/artifacts
+end_time: 1740513193644
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 41a374388e4048a286f68b980025b5ea
+run_name: smiling-roo-259
+run_uuid: 41a374388e4048a286f68b980025b5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513193475
+status: 3
+tags: []
+user_id: felip

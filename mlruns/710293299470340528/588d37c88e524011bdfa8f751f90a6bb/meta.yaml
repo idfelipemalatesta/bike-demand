@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/588d37c88e524011bdfa8f751f90a6bb/artifacts
+end_time: 1740513192683
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 588d37c88e524011bdfa8f751f90a6bb
+run_name: awesome-ray-37
+run_uuid: 588d37c88e524011bdfa8f751f90a6bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513192563
+status: 3
+tags: []
+user_id: felip

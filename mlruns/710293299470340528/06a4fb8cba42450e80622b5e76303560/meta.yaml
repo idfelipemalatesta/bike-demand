@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/06a4fb8cba42450e80622b5e76303560/artifacts
+end_time: 1740513312649
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 06a4fb8cba42450e80622b5e76303560
+run_name: righteous-horse-131
+run_uuid: 06a4fb8cba42450e80622b5e76303560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513312460
+status: 3
+tags: []
+user_id: felip

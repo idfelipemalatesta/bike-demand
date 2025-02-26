@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/21449e65dd2c4628a962685ecb621a37/artifacts
+end_time: 1740513219595
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 21449e65dd2c4628a962685ecb621a37
+run_name: painted-sheep-755
+run_uuid: 21449e65dd2c4628a962685ecb621a37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513219431
+status: 3
+tags: []
+user_id: felip

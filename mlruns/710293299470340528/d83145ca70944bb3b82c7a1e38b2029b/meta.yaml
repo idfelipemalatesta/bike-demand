@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/d83145ca70944bb3b82c7a1e38b2029b/artifacts
+end_time: 1740513292201
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: d83145ca70944bb3b82c7a1e38b2029b
+run_name: intrigued-skunk-871
+run_uuid: d83145ca70944bb3b82c7a1e38b2029b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513292000
+status: 3
+tags: []
+user_id: felip

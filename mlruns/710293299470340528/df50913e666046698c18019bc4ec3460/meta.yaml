@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/df50913e666046698c18019bc4ec3460/artifacts
+end_time: 1740513234101
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: df50913e666046698c18019bc4ec3460
+run_name: efficient-hound-567
+run_uuid: df50913e666046698c18019bc4ec3460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513233936
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/1d93b00265d9403abaa95b4d125f1386/artifacts
+end_time: 1740513183561
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 1d93b00265d9403abaa95b4d125f1386
+run_name: abundant-horse-528
+run_uuid: 1d93b00265d9403abaa95b4d125f1386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513183249
+status: 3
+tags: []
+user_id: felip

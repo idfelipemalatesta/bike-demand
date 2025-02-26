@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/fe0ba8e8034e4547beec1ea03b3c10a7/artifacts
+end_time: 1740513230950
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: fe0ba8e8034e4547beec1ea03b3c10a7
+run_name: skillful-wren-484
+run_uuid: fe0ba8e8034e4547beec1ea03b3c10a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513230788
+status: 3
+tags: []
+user_id: felip

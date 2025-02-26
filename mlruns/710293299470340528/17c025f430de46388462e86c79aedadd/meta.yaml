@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/17c025f430de46388462e86c79aedadd/artifacts
+end_time: 1740513305350
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 17c025f430de46388462e86c79aedadd
+run_name: thoughtful-conch-966
+run_uuid: 17c025f430de46388462e86c79aedadd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513305166
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/63e6f2fb616a43ac8e65e232056c0be4/artifacts
+end_time: 1740513230188
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 63e6f2fb616a43ac8e65e232056c0be4
+run_name: magnificent-crab-482
+run_uuid: 63e6f2fb616a43ac8e65e232056c0be4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513230023
+status: 3
+tags: []
+user_id: felip

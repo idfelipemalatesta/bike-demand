@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/bdc73b9da9524eebb3a6e9beee24a8c1/artifacts
+end_time: 1740513228627
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: bdc73b9da9524eebb3a6e9beee24a8c1
+run_name: rogue-asp-678
+run_uuid: bdc73b9da9524eebb3a6e9beee24a8c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513228464
+status: 3
+tags: []
+user_id: felip

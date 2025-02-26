@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/c3c5b8495c784f0ba67e2efa118eb97c/artifacts
+end_time: 1740513217129
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: c3c5b8495c784f0ba67e2efa118eb97c
+run_name: rare-ram-508
+run_uuid: c3c5b8495c784f0ba67e2efa118eb97c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513216957
+status: 3
+tags: []
+user_id: felip

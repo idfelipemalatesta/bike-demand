@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/4ad6c7c64f2f4f51af4331801198fdd1/artifacts
+end_time: 1740513197293
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 4ad6c7c64f2f4f51af4331801198fdd1
+run_name: dapper-wasp-564
+run_uuid: 4ad6c7c64f2f4f51af4331801198fdd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513197069
+status: 3
+tags: []
+user_id: felip

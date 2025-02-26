@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/0c89fc2b5e6a48728ca1cc1fb2924e53/artifacts
+end_time: 1740513296510
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 0c89fc2b5e6a48728ca1cc1fb2924e53
+run_name: bold-swan-20
+run_uuid: 0c89fc2b5e6a48728ca1cc1fb2924e53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513296329
+status: 3
+tags: []
+user_id: felip

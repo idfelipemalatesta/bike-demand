@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/7472e46746684503bba12e06e40ed104/artifacts
+end_time: 1740513319270
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 7472e46746684503bba12e06e40ed104
+run_name: rambunctious-ram-637
+run_uuid: 7472e46746684503bba12e06e40ed104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513319062
+status: 3
+tags: []
+user_id: felip

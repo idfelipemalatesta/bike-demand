@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/b6d2724030474a7a99dc6aa036ede5a7/artifacts
+end_time: 1740513211951
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: b6d2724030474a7a99dc6aa036ede5a7
+run_name: nebulous-gnu-870
+run_uuid: b6d2724030474a7a99dc6aa036ede5a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513211780
+status: 3
+tags: []
+user_id: felip

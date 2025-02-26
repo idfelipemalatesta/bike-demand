@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/e5c749b379e242b0a6f57750b8659fae/artifacts
+end_time: 1740513211684
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: e5c749b379e242b0a6f57750b8659fae
+run_name: charming-crow-610
+run_uuid: e5c749b379e242b0a6f57750b8659fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513211522
+status: 3
+tags: []
+user_id: felip

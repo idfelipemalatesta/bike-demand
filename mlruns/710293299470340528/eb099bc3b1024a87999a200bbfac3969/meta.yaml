@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/eb099bc3b1024a87999a200bbfac3969/artifacts
+end_time: 1740513199466
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: eb099bc3b1024a87999a200bbfac3969
+run_name: fun-robin-465
+run_uuid: eb099bc3b1024a87999a200bbfac3969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513199300
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/2b71d2460d274274a3928dd2453fe443/artifacts
+end_time: 1740513198891
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 2b71d2460d274274a3928dd2453fe443
+run_name: mercurial-turtle-933
+run_uuid: 2b71d2460d274274a3928dd2453fe443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513198736
+status: 3
+tags: []
+user_id: felip

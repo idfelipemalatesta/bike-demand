@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710293299470340528/3b0db235655b4bdab8977ab13a8ec917/artifacts
+end_time: 1740513278622
+entry_point_name: ''
+experiment_id: '710293299470340528'
+lifecycle_stage: active
+run_id: 3b0db235655b4bdab8977ab13a8ec917
+run_name: wise-deer-786
+run_uuid: 3b0db235655b4bdab8977ab13a8ec917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513278445
+status: 3
+tags: []
+user_id: felip
