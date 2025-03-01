@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2f0379ae026b435da00240d1221ea1e5/artifacts
+deleted_time: 1740851975632
+end_time: 1740851881600
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 2f0379ae026b435da00240d1221ea1e5
+run_name: adorable-panda-249
+run_uuid: 2f0379ae026b435da00240d1221ea1e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851881359
+status: 3
+tags: []
+user_id: felip

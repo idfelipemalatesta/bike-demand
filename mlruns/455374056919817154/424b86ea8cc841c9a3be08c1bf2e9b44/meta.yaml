@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/424b86ea8cc841c9a3be08c1bf2e9b44/artifacts
+end_time: 1740862551463
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 424b86ea8cc841c9a3be08c1bf2e9b44
+run_name: delightful-bug-406
+run_uuid: 424b86ea8cc841c9a3be08c1bf2e9b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862518467
+status: 3
+tags: []
+user_id: felip

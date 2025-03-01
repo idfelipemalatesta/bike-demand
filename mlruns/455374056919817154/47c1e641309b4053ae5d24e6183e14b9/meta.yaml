@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/47c1e641309b4053ae5d24e6183e14b9/artifacts
+deleted_time: 1740851992588
+end_time: 1740851832900
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 47c1e641309b4053ae5d24e6183e14b9
+run_name: big-calf-551
+run_uuid: 47c1e641309b4053ae5d24e6183e14b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851832659
+status: 3
+tags: []
+user_id: felip

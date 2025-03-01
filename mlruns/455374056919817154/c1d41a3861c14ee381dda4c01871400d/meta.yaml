@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c1d41a3861c14ee381dda4c01871400d/artifacts
+deleted_time: 1740852040248
+end_time: 1740851740525
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: c1d41a3861c14ee381dda4c01871400d
+run_name: sassy-perch-7
+run_uuid: c1d41a3861c14ee381dda4c01871400d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851740314
+status: 3
+tags: []
+user_id: felip

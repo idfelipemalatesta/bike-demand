@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/08d5152f9f234fe5b031e394c3363100/artifacts
+deleted_time: 1740852040109
+end_time: 1740851781537
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 08d5152f9f234fe5b031e394c3363100
+run_name: gaudy-croc-630
+run_uuid: 08d5152f9f234fe5b031e394c3363100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851781313
+status: 3
+tags: []
+user_id: felip

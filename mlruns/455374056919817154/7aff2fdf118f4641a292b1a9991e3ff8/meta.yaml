@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7aff2fdf118f4641a292b1a9991e3ff8/artifacts
+end_time: 1740852156406
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7aff2fdf118f4641a292b1a9991e3ff8
+run_name: blushing-mare-548
+run_uuid: 7aff2fdf118f4641a292b1a9991e3ff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852156166
+status: 3
+tags: []
+user_id: felip

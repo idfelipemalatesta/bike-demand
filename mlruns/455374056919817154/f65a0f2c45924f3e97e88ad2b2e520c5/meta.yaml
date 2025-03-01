@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f65a0f2c45924f3e97e88ad2b2e520c5/artifacts
+deleted_time: 1740851958136
+end_time: 1740851766012
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f65a0f2c45924f3e97e88ad2b2e520c5
+run_name: bedecked-flea-64
+run_uuid: f65a0f2c45924f3e97e88ad2b2e520c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851765818
+status: 3
+tags: []
+user_id: felip

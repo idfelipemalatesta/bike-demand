@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b01882c8d6e34086af3078cd54f61e98/artifacts
+deleted_time: 1740851975727
+end_time: 1740851874945
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: b01882c8d6e34086af3078cd54f61e98
+run_name: burly-lamb-857
+run_uuid: b01882c8d6e34086af3078cd54f61e98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851874727
+status: 3
+tags: []
+user_id: felip

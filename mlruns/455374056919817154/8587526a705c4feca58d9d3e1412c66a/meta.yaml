@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8587526a705c4feca58d9d3e1412c66a/artifacts
+end_time: 1740852281114
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8587526a705c4feca58d9d3e1412c66a
+run_name: nosy-conch-802
+run_uuid: 8587526a705c4feca58d9d3e1412c66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852280864
+status: 3
+tags: []
+user_id: felip

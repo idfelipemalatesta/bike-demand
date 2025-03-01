@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ca7967ff10244bcfa5c13ef59881758e/artifacts
+deleted_time: 1740852013919
+end_time: 1740851799789
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ca7967ff10244bcfa5c13ef59881758e
+run_name: bald-carp-621
+run_uuid: ca7967ff10244bcfa5c13ef59881758e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851799552
+status: 3
+tags: []
+user_id: felip

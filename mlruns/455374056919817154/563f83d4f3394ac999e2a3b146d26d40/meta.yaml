@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/563f83d4f3394ac999e2a3b146d26d40/artifacts
+end_time: 1740852139216
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 563f83d4f3394ac999e2a3b146d26d40
+run_name: puzzled-gnu-312
+run_uuid: 563f83d4f3394ac999e2a3b146d26d40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852139030
+status: 3
+tags: []
+user_id: felip

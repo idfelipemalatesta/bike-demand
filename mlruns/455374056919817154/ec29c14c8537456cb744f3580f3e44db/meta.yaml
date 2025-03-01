@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ec29c14c8537456cb744f3580f3e44db/artifacts
+deleted_time: 1740851975820
+end_time: 1740851868866
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ec29c14c8537456cb744f3580f3e44db
+run_name: merciful-midge-990
+run_uuid: ec29c14c8537456cb744f3580f3e44db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851868588
+status: 3
+tags: []
+user_id: felip

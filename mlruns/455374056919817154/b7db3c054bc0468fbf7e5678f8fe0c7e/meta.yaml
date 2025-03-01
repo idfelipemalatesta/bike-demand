@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b7db3c054bc0468fbf7e5678f8fe0c7e/artifacts
+end_time: 1740866254151
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b7db3c054bc0468fbf7e5678f8fe0c7e
+run_name: sneaky-pug-47
+run_uuid: b7db3c054bc0468fbf7e5678f8fe0c7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866253534
+status: 3
+tags: []
+user_id: felip

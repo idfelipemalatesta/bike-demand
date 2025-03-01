@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6c9f850dcd334099a9b83da541c3b807/artifacts
+end_time: 1740852244771
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 6c9f850dcd334099a9b83da541c3b807
+run_name: peaceful-fish-19
+run_uuid: 6c9f850dcd334099a9b83da541c3b807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852244520
+status: 3
+tags: []
+user_id: felip

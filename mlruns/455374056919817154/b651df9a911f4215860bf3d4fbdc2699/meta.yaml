@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b651df9a911f4215860bf3d4fbdc2699/artifacts
+deleted_time: 1740851958082
+end_time: 1740851767857
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: b651df9a911f4215860bf3d4fbdc2699
+run_name: abrasive-sheep-934
+run_uuid: b651df9a911f4215860bf3d4fbdc2699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851767657
+status: 3
+tags: []
+user_id: felip

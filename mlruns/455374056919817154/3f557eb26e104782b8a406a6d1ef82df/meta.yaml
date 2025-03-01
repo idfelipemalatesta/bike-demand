@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3f557eb26e104782b8a406a6d1ef82df/artifacts
+deleted_time: 1740851958426
+end_time: 1740851749036
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3f557eb26e104782b8a406a6d1ef82df
+run_name: merciful-yak-160
+run_uuid: 3f557eb26e104782b8a406a6d1ef82df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851748804
+status: 3
+tags: []
+user_id: felip

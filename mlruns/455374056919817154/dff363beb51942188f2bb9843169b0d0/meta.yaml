@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/dff363beb51942188f2bb9843169b0d0/artifacts
+deleted_time: 1740851975533
+end_time: 1740851889493
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: dff363beb51942188f2bb9843169b0d0
+run_name: orderly-flea-574
+run_uuid: dff363beb51942188f2bb9843169b0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851889248
+status: 3
+tags: []
+user_id: felip

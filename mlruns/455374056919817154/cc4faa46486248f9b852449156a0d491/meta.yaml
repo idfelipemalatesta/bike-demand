@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cc4faa46486248f9b852449156a0d491/artifacts
+deleted_time: 1740851958234
+end_time: 1740851759806
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: cc4faa46486248f9b852449156a0d491
+run_name: clean-doe-22
+run_uuid: cc4faa46486248f9b852449156a0d491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851759626
+status: 3
+tags: []
+user_id: felip

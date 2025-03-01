@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ca52a63c97c84d8dbf8e03843e700f7c/artifacts
+end_time: 1740852206635
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ca52a63c97c84d8dbf8e03843e700f7c
+run_name: funny-shrike-531
+run_uuid: ca52a63c97c84d8dbf8e03843e700f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852206398
+status: 3
+tags: []
+user_id: felip

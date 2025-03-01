@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/80876877a5cb4a2ebc2d979ce71a37d9/artifacts
+end_time: 1740860970417
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 80876877a5cb4a2ebc2d979ce71a37d9
+run_name: whimsical-shrew-876
+run_uuid: 80876877a5cb4a2ebc2d979ce71a37d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860927732
+status: 3
+tags: []
+user_id: felip

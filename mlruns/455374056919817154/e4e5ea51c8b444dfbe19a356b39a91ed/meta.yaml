@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e4e5ea51c8b444dfbe19a356b39a91ed/artifacts
+end_time: 1740856985218
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e4e5ea51c8b444dfbe19a356b39a91ed
+run_name: rumbling-bear-805
+run_uuid: e4e5ea51c8b444dfbe19a356b39a91ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740856947566
+status: 3
+tags: []
+user_id: felip

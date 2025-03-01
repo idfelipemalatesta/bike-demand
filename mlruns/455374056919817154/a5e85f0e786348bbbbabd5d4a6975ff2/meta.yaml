@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a5e85f0e786348bbbbabd5d4a6975ff2/artifacts
+end_time: 1740852267945
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a5e85f0e786348bbbbabd5d4a6975ff2
+run_name: capable-stork-302
+run_uuid: a5e85f0e786348bbbbabd5d4a6975ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852267656
+status: 3
+tags: []
+user_id: felip

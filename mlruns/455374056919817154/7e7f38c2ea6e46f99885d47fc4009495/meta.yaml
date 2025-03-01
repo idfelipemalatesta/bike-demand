@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7e7f38c2ea6e46f99885d47fc4009495/artifacts
+end_time: 1740852270026
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7e7f38c2ea6e46f99885d47fc4009495
+run_name: bedecked-slug-708
+run_uuid: 7e7f38c2ea6e46f99885d47fc4009495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852269777
+status: 3
+tags: []
+user_id: felip

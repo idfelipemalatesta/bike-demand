@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/74f5dbcd90ba4b82bf50eeeb3073c8e1/artifacts
+end_time: 1740852238471
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 74f5dbcd90ba4b82bf50eeeb3073c8e1
+run_name: treasured-shrike-954
+run_uuid: 74f5dbcd90ba4b82bf50eeeb3073c8e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852238141
+status: 3
+tags: []
+user_id: felip

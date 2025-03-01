@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e2a6f549c84446219217a158cf0d64a9/artifacts
+end_time: 1740866553684
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e2a6f549c84446219217a158cf0d64a9
+run_name: whimsical-dove-371
+run_uuid: e2a6f549c84446219217a158cf0d64a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866520784
+status: 3
+tags: []
+user_id: felip

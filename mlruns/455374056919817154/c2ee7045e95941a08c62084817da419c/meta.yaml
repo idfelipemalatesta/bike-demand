@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c2ee7045e95941a08c62084817da419c/artifacts
+deleted_time: 1740851992522
+end_time: 1740851836422
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: c2ee7045e95941a08c62084817da419c
+run_name: agreeable-finch-865
+run_uuid: c2ee7045e95941a08c62084817da419c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851836222
+status: 3
+tags: []
+user_id: felip

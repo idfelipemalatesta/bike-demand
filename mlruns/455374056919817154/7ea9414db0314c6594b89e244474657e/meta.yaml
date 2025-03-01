@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7ea9414db0314c6594b89e244474657e/artifacts
+deleted_time: 1740851992554
+end_time: 1740851835199
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 7ea9414db0314c6594b89e244474657e
+run_name: abrasive-snipe-762
+run_uuid: 7ea9414db0314c6594b89e244474657e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851834970
+status: 3
+tags: []
+user_id: felip

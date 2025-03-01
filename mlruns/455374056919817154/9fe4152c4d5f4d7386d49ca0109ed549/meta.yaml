@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9fe4152c4d5f4d7386d49ca0109ed549/artifacts
+end_time: 1740852153382
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 9fe4152c4d5f4d7386d49ca0109ed549
+run_name: upbeat-mink-934
+run_uuid: 9fe4152c4d5f4d7386d49ca0109ed549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852153147
+status: 3
+tags: []
+user_id: felip

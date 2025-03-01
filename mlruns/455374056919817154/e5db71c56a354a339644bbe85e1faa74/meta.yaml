@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e5db71c56a354a339644bbe85e1faa74/artifacts
+end_time: 1740864721517
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e5db71c56a354a339644bbe85e1faa74
+run_name: delicate-moose-693
+run_uuid: e5db71c56a354a339644bbe85e1faa74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864690933
+status: 3
+tags: []
+user_id: felip

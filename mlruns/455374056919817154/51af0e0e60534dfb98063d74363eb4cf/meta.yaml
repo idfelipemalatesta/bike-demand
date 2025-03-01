@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/51af0e0e60534dfb98063d74363eb4cf/artifacts
+end_time: 1740867113068
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 51af0e0e60534dfb98063d74363eb4cf
+run_name: lyrical-shark-844
+run_uuid: 51af0e0e60534dfb98063d74363eb4cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867079709
+status: 3
+tags: []
+user_id: felip

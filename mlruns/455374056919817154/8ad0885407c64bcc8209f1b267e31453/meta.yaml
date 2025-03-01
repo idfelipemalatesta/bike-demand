@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8ad0885407c64bcc8209f1b267e31453/artifacts
+end_time: 1740852138043
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8ad0885407c64bcc8209f1b267e31453
+run_name: loud-mink-305
+run_uuid: 8ad0885407c64bcc8209f1b267e31453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852137858
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b973ffc7c32546d99c0ffe8de77f8554/artifacts
+deleted_time: 1740851975670
+end_time: 1740851878542
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: b973ffc7c32546d99c0ffe8de77f8554
+run_name: kindly-snake-20
+run_uuid: b973ffc7c32546d99c0ffe8de77f8554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851878301
+status: 3
+tags: []
+user_id: felip

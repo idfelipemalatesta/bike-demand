@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/206b888c208e4112a0d371ce49da9c73/artifacts
+deleted_time: 1740851975707
+end_time: 1740851876519
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 206b888c208e4112a0d371ce49da9c73
+run_name: burly-dolphin-634
+run_uuid: 206b888c208e4112a0d371ce49da9c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851876290
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/287c6711b23b40d3bfc3e6dec3d69627/artifacts
+end_time: 1740852151136
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 287c6711b23b40d3bfc3e6dec3d69627
+run_name: chill-cow-865
+run_uuid: 287c6711b23b40d3bfc3e6dec3d69627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852150872
+status: 3
+tags: []
+user_id: felip

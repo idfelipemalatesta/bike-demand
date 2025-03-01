@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/58113c6ffa974974ad649841defb8cb9/artifacts
+deleted_time: 1740854226946
+end_time: 1740853812362
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 58113c6ffa974974ad649841defb8cb9
+run_name: brawny-bear-858
+run_uuid: 58113c6ffa974974ad649841defb8cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740853326895
+status: 3
+tags: []
+user_id: felip

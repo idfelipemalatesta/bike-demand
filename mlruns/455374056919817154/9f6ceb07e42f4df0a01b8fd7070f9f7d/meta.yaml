@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9f6ceb07e42f4df0a01b8fd7070f9f7d/artifacts
+deleted_time: 1740851975718
+end_time: 1740851875586
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9f6ceb07e42f4df0a01b8fd7070f9f7d
+run_name: able-hog-987
+run_uuid: 9f6ceb07e42f4df0a01b8fd7070f9f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851875362
+status: 3
+tags: []
+user_id: felip

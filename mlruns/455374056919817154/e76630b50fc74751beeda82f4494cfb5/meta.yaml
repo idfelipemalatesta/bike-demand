@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e76630b50fc74751beeda82f4494cfb5/artifacts
+end_time: 1740866849718
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e76630b50fc74751beeda82f4494cfb5
+run_name: crawling-ram-877
+run_uuid: e76630b50fc74751beeda82f4494cfb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866817585
+status: 3
+tags: []
+user_id: felip

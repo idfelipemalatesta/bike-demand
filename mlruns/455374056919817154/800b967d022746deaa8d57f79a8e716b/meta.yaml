@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/800b967d022746deaa8d57f79a8e716b/artifacts
+deleted_time: 1740851975791
+end_time: 1740851870025
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 800b967d022746deaa8d57f79a8e716b
+run_name: clumsy-shrimp-863
+run_uuid: 800b967d022746deaa8d57f79a8e716b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851869762
+status: 3
+tags: []
+user_id: felip

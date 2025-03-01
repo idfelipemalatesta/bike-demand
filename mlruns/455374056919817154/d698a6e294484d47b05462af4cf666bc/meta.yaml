@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d698a6e294484d47b05462af4cf666bc/artifacts
+end_time: 1740855400889
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d698a6e294484d47b05462af4cf666bc
+run_name: brawny-elk-983
+run_uuid: d698a6e294484d47b05462af4cf666bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855373054
+status: 3
+tags: []
+user_id: felip

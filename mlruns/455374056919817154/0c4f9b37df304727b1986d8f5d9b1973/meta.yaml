@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0c4f9b37df304727b1986d8f5d9b1973/artifacts
+deleted_time: 1740852040307
+end_time: 1740851737749
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0c4f9b37df304727b1986d8f5d9b1973
+run_name: bold-midge-723
+run_uuid: 0c4f9b37df304727b1986d8f5d9b1973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851737609
+status: 3
+tags: []
+user_id: felip

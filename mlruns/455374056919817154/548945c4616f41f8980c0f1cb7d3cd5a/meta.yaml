@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/548945c4616f41f8980c0f1cb7d3cd5a/artifacts
+end_time: 1740857502687
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 548945c4616f41f8980c0f1cb7d3cd5a
+run_name: entertaining-pig-561
+run_uuid: 548945c4616f41f8980c0f1cb7d3cd5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857465753
+status: 3
+tags: []
+user_id: felip

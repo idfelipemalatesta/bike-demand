@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7d7afe2c3bed498eb6fd9b15ccd18258/artifacts
+end_time: 1740852127374
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7d7afe2c3bed498eb6fd9b15ccd18258
+run_name: sedate-vole-465
+run_uuid: 7d7afe2c3bed498eb6fd9b15ccd18258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852127168
+status: 3
+tags: []
+user_id: felip

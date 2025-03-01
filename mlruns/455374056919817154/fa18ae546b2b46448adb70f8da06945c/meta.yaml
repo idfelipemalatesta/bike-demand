@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fa18ae546b2b46448adb70f8da06945c/artifacts
+deleted_time: 1740852040087
+end_time: 1740851783154
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: fa18ae546b2b46448adb70f8da06945c
+run_name: intelligent-rook-6
+run_uuid: fa18ae546b2b46448adb70f8da06945c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851782788
+status: 3
+tags: []
+user_id: felip

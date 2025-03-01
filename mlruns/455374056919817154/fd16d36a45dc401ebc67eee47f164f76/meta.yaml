@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fd16d36a45dc401ebc67eee47f164f76/artifacts
+deleted_time: 1740851958250
+end_time: 1740851758653
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: fd16d36a45dc401ebc67eee47f164f76
+run_name: adventurous-gull-140
+run_uuid: fd16d36a45dc401ebc67eee47f164f76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851758418
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bb5025bcfb514faa9ff553e5ee20be30/artifacts
+end_time: 1740852152005
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: bb5025bcfb514faa9ff553e5ee20be30
+run_name: polite-perch-137
+run_uuid: bb5025bcfb514faa9ff553e5ee20be30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852151691
+status: 3
+tags: []
+user_id: felip

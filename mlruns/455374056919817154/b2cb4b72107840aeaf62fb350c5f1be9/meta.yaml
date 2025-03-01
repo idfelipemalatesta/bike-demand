@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b2cb4b72107840aeaf62fb350c5f1be9/artifacts
+end_time: 1740854325684
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b2cb4b72107840aeaf62fb350c5f1be9
+run_name: nosy-kite-751
+run_uuid: b2cb4b72107840aeaf62fb350c5f1be9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854325213
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6c550816042c443eb5282ddc93b76b1a/artifacts
+deleted_time: 1740852040191
+end_time: 1740851744355
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 6c550816042c443eb5282ddc93b76b1a
+run_name: worried-wasp-694
+run_uuid: 6c550816042c443eb5282ddc93b76b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851744161
+status: 3
+tags: []
+user_id: felip

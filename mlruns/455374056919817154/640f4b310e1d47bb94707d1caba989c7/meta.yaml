@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/640f4b310e1d47bb94707d1caba989c7/artifacts
+end_time: 1740852212335
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 640f4b310e1d47bb94707d1caba989c7
+run_name: righteous-shrike-297
+run_uuid: 640f4b310e1d47bb94707d1caba989c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852212009
+status: 3
+tags: []
+user_id: felip

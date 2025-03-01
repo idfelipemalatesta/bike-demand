@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/acf8c6cf556a496899a3e3eaf68062f9/artifacts
+end_time: 1740862841085
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: acf8c6cf556a496899a3e3eaf68062f9
+run_name: painted-skunk-390
+run_uuid: acf8c6cf556a496899a3e3eaf68062f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862809512
+status: 3
+tags: []
+user_id: felip

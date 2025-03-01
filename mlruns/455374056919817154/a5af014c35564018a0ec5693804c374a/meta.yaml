@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a5af014c35564018a0ec5693804c374a/artifacts
+deleted_time: 1740852013452
+end_time: 1740851828152
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a5af014c35564018a0ec5693804c374a
+run_name: luxuriant-tern-917
+run_uuid: a5af014c35564018a0ec5693804c374a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851827901
+status: 3
+tags: []
+user_id: felip

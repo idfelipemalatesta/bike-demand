@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1253560e873a45f8acf51b48447fdefc/artifacts
+deleted_time: 1740851975539
+end_time: 1740851888801
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 1253560e873a45f8acf51b48447fdefc
+run_name: secretive-worm-956
+run_uuid: 1253560e873a45f8acf51b48447fdefc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851888542
+status: 3
+tags: []
+user_id: felip

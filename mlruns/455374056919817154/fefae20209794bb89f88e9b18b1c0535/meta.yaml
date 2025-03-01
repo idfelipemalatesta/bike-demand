@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fefae20209794bb89f88e9b18b1c0535/artifacts
+deleted_time: 1740851992296
+end_time: 1740851850918
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: fefae20209794bb89f88e9b18b1c0535
+run_name: aged-hen-232
+run_uuid: fefae20209794bb89f88e9b18b1c0535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851850694
+status: 3
+tags: []
+user_id: felip

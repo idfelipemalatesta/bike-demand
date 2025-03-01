@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bbe91f578ad24690999daee4172755a8/artifacts
+end_time: 1740856645285
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: bbe91f578ad24690999daee4172755a8
+run_name: selective-loon-721
+run_uuid: bbe91f578ad24690999daee4172755a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740856605398
+status: 3
+tags: []
+user_id: felip

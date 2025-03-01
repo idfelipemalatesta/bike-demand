@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/248756efff6044259363f313bfe5520a/artifacts
+deleted_time: 1740851958299
+end_time: 1740851756153
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 248756efff6044259363f313bfe5520a
+run_name: calm-hare-436
+run_uuid: 248756efff6044259363f313bfe5520a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851755938
+status: 3
+tags: []
+user_id: felip

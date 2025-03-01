@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c8c7f4e2f7b648a0a2a082bfa9b7836b/artifacts
+deleted_time: 1740851958204
+end_time: 1740851761579
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: c8c7f4e2f7b648a0a2a082bfa9b7836b
+run_name: sophisticated-fish-0
+run_uuid: c8c7f4e2f7b648a0a2a082bfa9b7836b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851761377
+status: 3
+tags: []
+user_id: felip

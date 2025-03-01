@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a3e8b2dd5a2e45d381c6af13b9bb4526/artifacts
+end_time: 1740866386233
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a3e8b2dd5a2e45d381c6af13b9bb4526
+run_name: thundering-midge-499
+run_uuid: a3e8b2dd5a2e45d381c6af13b9bb4526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866353984
+status: 3
+tags: []
+user_id: felip

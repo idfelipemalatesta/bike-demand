@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/82d7671e2f924f679c149c7d491db6fb/artifacts
+end_time: 1740852211146
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 82d7671e2f924f679c149c7d491db6fb
+run_name: exultant-kit-233
+run_uuid: 82d7671e2f924f679c149c7d491db6fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852210825
+status: 3
+tags: []
+user_id: felip

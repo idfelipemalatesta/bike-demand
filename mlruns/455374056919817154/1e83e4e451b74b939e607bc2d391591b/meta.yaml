@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1e83e4e451b74b939e607bc2d391591b/artifacts
+deleted_time: 1740851975809
+end_time: 1740851869282
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 1e83e4e451b74b939e607bc2d391591b
+run_name: skittish-trout-972
+run_uuid: 1e83e4e451b74b939e607bc2d391591b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851868966
+status: 3
+tags: []
+user_id: felip

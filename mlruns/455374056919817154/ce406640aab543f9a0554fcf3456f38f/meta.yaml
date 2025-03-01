@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ce406640aab543f9a0554fcf3456f38f/artifacts
+end_time: 1740852124325
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ce406640aab543f9a0554fcf3456f38f
+run_name: whimsical-stork-12
+run_uuid: ce406640aab543f9a0554fcf3456f38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852124112
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/14534da1826c4fd0959b836e95bb9345/artifacts
+deleted_time: 1740851958354
+end_time: 1740851753084
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 14534da1826c4fd0959b836e95bb9345
+run_name: ambitious-zebra-865
+run_uuid: 14534da1826c4fd0959b836e95bb9345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851752949
+status: 3
+tags: []
+user_id: felip

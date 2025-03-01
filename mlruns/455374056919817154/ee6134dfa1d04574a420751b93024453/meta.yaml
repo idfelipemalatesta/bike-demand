@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ee6134dfa1d04574a420751b93024453/artifacts
+deleted_time: 1740851975471
+end_time: 1740851893107
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ee6134dfa1d04574a420751b93024453
+run_name: stately-donkey-542
+run_uuid: ee6134dfa1d04574a420751b93024453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851892869
+status: 3
+tags: []
+user_id: felip

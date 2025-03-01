@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bfd8ba14ca5f486f90be69001c0b4614/artifacts
+end_time: 1740852178211
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: bfd8ba14ca5f486f90be69001c0b4614
+run_name: powerful-smelt-770
+run_uuid: bfd8ba14ca5f486f90be69001c0b4614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852177567
+status: 3
+tags: []
+user_id: felip

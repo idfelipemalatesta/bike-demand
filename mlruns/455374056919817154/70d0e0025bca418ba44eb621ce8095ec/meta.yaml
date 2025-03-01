@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/70d0e0025bca418ba44eb621ce8095ec/artifacts
+deleted_time: 1740851958171
+end_time: 1740851763589
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 70d0e0025bca418ba44eb621ce8095ec
+run_name: enthused-hound-684
+run_uuid: 70d0e0025bca418ba44eb621ce8095ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851763386
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8133f96a404b4165ac40755d49ac89a4/artifacts
+end_time: 1740852284327
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8133f96a404b4165ac40755d49ac89a4
+run_name: gentle-jay-817
+run_uuid: 8133f96a404b4165ac40755d49ac89a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852284071
+status: 3
+tags: []
+user_id: felip

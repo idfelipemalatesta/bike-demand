@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1bee2d11ca52458b95fbc0c9eeb8db40/artifacts
+end_time: 1740855227882
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1bee2d11ca52458b95fbc0c9eeb8db40
+run_name: marvelous-slug-146
+run_uuid: 1bee2d11ca52458b95fbc0c9eeb8db40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855190361
+status: 3
+tags: []
+user_id: felip

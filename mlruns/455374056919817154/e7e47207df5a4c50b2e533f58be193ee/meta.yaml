@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e7e47207df5a4c50b2e533f58be193ee/artifacts
+end_time: 1740852121433
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e7e47207df5a4c50b2e533f58be193ee
+run_name: bald-pug-396
+run_uuid: e7e47207df5a4c50b2e533f58be193ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852121238
+status: 3
+tags: []
+user_id: felip

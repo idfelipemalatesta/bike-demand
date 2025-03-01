@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/55de9d9ee0d940a28b7010f1f2bbcd3f/artifacts
+deleted_time: 1740852040386
+end_time: 1740851734365
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 55de9d9ee0d940a28b7010f1f2bbcd3f
+run_name: judicious-asp-152
+run_uuid: 55de9d9ee0d940a28b7010f1f2bbcd3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851734230
+status: 3
+tags: []
+user_id: felip

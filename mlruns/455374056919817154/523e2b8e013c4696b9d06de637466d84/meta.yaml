@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/523e2b8e013c4696b9d06de637466d84/artifacts
+deleted_time: 1740851975793
+end_time: 1740851870390
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 523e2b8e013c4696b9d06de637466d84
+run_name: sincere-hawk-77
+run_uuid: 523e2b8e013c4696b9d06de637466d84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851870125
+status: 3
+tags: []
+user_id: felip

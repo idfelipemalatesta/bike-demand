@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/95d1dbd369f2433990fc28c2c7cb4d39/artifacts
+end_time: 1740860462502
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 95d1dbd369f2433990fc28c2c7cb4d39
+run_name: luminous-shark-951
+run_uuid: 95d1dbd369f2433990fc28c2c7cb4d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860426381
+status: 3
+tags: []
+user_id: felip

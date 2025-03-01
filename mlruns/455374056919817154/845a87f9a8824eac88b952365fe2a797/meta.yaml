@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/845a87f9a8824eac88b952365fe2a797/artifacts
+end_time: 1740864429383
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 845a87f9a8824eac88b952365fe2a797
+run_name: invincible-newt-4
+run_uuid: 845a87f9a8824eac88b952365fe2a797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864397633
+status: 3
+tags: []
+user_id: felip

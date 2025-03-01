@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8948410fdc454863b70bedd87f388541/artifacts
+deleted_time: 1740851975772
+end_time: 1740851872552
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 8948410fdc454863b70bedd87f388541
+run_name: gifted-finch-361
+run_uuid: 8948410fdc454863b70bedd87f388541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851872252
+status: 3
+tags: []
+user_id: felip

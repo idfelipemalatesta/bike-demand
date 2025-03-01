@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/180f2b981d624b17b6d4028e5644c2f4/artifacts
+end_time: 1740867376805
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 180f2b981d624b17b6d4028e5644c2f4
+run_name: debonair-skink-608
+run_uuid: 180f2b981d624b17b6d4028e5644c2f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867342151
+status: 3
+tags: []
+user_id: felip

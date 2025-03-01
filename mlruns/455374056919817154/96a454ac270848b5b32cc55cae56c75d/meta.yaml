@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/96a454ac270848b5b32cc55cae56c75d/artifacts
+end_time: 1740855070751
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 96a454ac270848b5b32cc55cae56c75d
+run_name: indecisive-chimp-663
+run_uuid: 96a454ac270848b5b32cc55cae56c75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855031342
+status: 3
+tags: []
+user_id: felip

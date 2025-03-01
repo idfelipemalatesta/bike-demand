@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7daa14aa6f6b4a8fb684a4640d646e45/artifacts
+end_time: 1740867213302
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7daa14aa6f6b4a8fb684a4640d646e45
+run_name: capable-squirrel-796
+run_uuid: 7daa14aa6f6b4a8fb684a4640d646e45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867178485
+status: 3
+tags: []
+user_id: felip

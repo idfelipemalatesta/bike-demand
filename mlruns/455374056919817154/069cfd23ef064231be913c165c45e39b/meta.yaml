@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/069cfd23ef064231be913c165c45e39b/artifacts
+end_time: 1740868193586
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 069cfd23ef064231be913c165c45e39b
+run_name: lyrical-rook-586
+run_uuid: 069cfd23ef064231be913c165c45e39b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868162536
+status: 3
+tags: []
+user_id: felip

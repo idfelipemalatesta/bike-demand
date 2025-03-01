@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bd76e99fc1124dad89d66ac931a3e4f2/artifacts
+end_time: 1740861076881
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: bd76e99fc1124dad89d66ac931a3e4f2
+run_name: fearless-gull-631
+run_uuid: bd76e99fc1124dad89d66ac931a3e4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740861045065
+status: 3
+tags: []
+user_id: felip

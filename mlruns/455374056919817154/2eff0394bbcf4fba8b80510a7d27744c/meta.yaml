@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2eff0394bbcf4fba8b80510a7d27744c/artifacts
+end_time: 1740864062550
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2eff0394bbcf4fba8b80510a7d27744c
+run_name: nervous-loon-773
+run_uuid: 2eff0394bbcf4fba8b80510a7d27744c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864028232
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ecfa67ab444b49b08870321665ca585c/artifacts
+deleted_time: 1740852039815
+end_time: 1740851796958
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ecfa67ab444b49b08870321665ca585c
+run_name: redolent-carp-116
+run_uuid: ecfa67ab444b49b08870321665ca585c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851796729
+status: 3
+tags: []
+user_id: felip

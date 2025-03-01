@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/37bc2976b0fa46638b9f7150a857dd3c/artifacts
+end_time: 1740852254426
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 37bc2976b0fa46638b9f7150a857dd3c
+run_name: debonair-trout-439
+run_uuid: 37bc2976b0fa46638b9f7150a857dd3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852254161
+status: 3
+tags: []
+user_id: felip

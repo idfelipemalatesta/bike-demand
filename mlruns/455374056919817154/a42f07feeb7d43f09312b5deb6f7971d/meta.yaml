@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a42f07feeb7d43f09312b5deb6f7971d/artifacts
+deleted_time: 1740851975751
+end_time: 1740851873213
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a42f07feeb7d43f09312b5deb6f7971d
+run_name: judicious-bird-770
+run_uuid: a42f07feeb7d43f09312b5deb6f7971d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851872968
+status: 3
+tags: []
+user_id: felip

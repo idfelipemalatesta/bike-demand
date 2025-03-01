@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a3c57bf221b646f48c18d1266620367f/artifacts
+deleted_time: 1740851992540
+end_time: 1740851835833
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a3c57bf221b646f48c18d1266620367f
+run_name: lyrical-deer-591
+run_uuid: a3c57bf221b646f48c18d1266620367f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851835615
+status: 3
+tags: []
+user_id: felip

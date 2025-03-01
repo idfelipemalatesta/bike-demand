@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/23ad90c6366542c7b177c6cb29a7ce1c/artifacts
+deleted_time: 1740851975649
+end_time: 1740851879901
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 23ad90c6366542c7b177c6cb29a7ce1c
+run_name: resilient-cub-792
+run_uuid: 23ad90c6366542c7b177c6cb29a7ce1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851879739
+status: 3
+tags: []
+user_id: felip

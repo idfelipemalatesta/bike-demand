@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/91666de7403b4d17883253e71e73fefc/artifacts
+deleted_time: 1740851992201
+end_time: 1740851856963
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 91666de7403b4d17883253e71e73fefc
+run_name: incongruous-ray-195
+run_uuid: 91666de7403b4d17883253e71e73fefc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851856709
+status: 3
+tags: []
+user_id: felip

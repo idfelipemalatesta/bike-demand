@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4dc503c2b4084a31b7fc2dfe3368b21d/artifacts
+deleted_time: 1740852013886
+end_time: 1740851801806
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 4dc503c2b4084a31b7fc2dfe3368b21d
+run_name: fearless-hound-966
+run_uuid: 4dc503c2b4084a31b7fc2dfe3368b21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851801550
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f8362e05a3c044889a3dd20ead808ef8/artifacts
+deleted_time: 1740851957956
+end_time: 1740851772467
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f8362e05a3c044889a3dd20ead808ef8
+run_name: rebellious-skunk-343
+run_uuid: f8362e05a3c044889a3dd20ead808ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851772220
+status: 3
+tags: []
+user_id: felip

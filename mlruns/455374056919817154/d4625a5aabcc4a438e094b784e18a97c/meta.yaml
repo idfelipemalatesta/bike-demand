@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d4625a5aabcc4a438e094b784e18a97c/artifacts
+deleted_time: 1740852040038
+end_time: 1740851785857
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d4625a5aabcc4a438e094b784e18a97c
+run_name: adorable-shrimp-20
+run_uuid: d4625a5aabcc4a438e094b784e18a97c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851785604
+status: 3
+tags: []
+user_id: felip

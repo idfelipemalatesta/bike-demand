@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/34329c86c5e34b3ba325b557ca0939ed/artifacts
+deleted_time: 1740851958390
+end_time: 1740851750894
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 34329c86c5e34b3ba325b557ca0939ed
+run_name: enchanting-bear-641
+run_uuid: 34329c86c5e34b3ba325b557ca0939ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851750693
+status: 3
+tags: []
+user_id: felip

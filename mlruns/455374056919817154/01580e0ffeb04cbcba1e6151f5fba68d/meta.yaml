@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/01580e0ffeb04cbcba1e6151f5fba68d/artifacts
+end_time: 1740852134960
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 01580e0ffeb04cbcba1e6151f5fba68d
+run_name: adorable-turtle-864
+run_uuid: 01580e0ffeb04cbcba1e6151f5fba68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852134772
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/02c17dd22ccc479e985d8a6c48d3b2be/artifacts
+end_time: 1740864130900
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 02c17dd22ccc479e985d8a6c48d3b2be
+run_name: caring-wolf-875
+run_uuid: 02c17dd22ccc479e985d8a6c48d3b2be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864100749
+status: 3
+tags: []
+user_id: felip

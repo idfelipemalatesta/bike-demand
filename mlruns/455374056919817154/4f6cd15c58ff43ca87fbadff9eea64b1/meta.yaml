@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4f6cd15c58ff43ca87fbadff9eea64b1/artifacts
+deleted_time: 1740854226971
+end_time: 1740852861416
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 4f6cd15c58ff43ca87fbadff9eea64b1
+run_name: useful-crow-88
+run_uuid: 4f6cd15c58ff43ca87fbadff9eea64b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852431106
+status: 3
+tags: []
+user_id: felip

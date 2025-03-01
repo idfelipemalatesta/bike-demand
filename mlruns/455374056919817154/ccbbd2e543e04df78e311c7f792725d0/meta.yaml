@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ccbbd2e543e04df78e311c7f792725d0/artifacts
+end_time: 1740856096489
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ccbbd2e543e04df78e311c7f792725d0
+run_name: mercurial-toad-578
+run_uuid: ccbbd2e543e04df78e311c7f792725d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740856054618
+status: 3
+tags: []
+user_id: felip

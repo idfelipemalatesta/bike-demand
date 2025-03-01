@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9a7c78ace63642a2a4ffdbe074b83886/artifacts
+deleted_time: 1740852013559
+end_time: 1740851822874
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9a7c78ace63642a2a4ffdbe074b83886
+run_name: silent-calf-500
+run_uuid: 9a7c78ace63642a2a4ffdbe074b83886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851822464
+status: 3
+tags: []
+user_id: felip

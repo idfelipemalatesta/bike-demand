@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d287223df43248dc9d555ef18dafe4ea/artifacts
+deleted_time: 1740852013802
+end_time: 1740851807731
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d287223df43248dc9d555ef18dafe4ea
+run_name: whimsical-newt-308
+run_uuid: d287223df43248dc9d555ef18dafe4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851807454
+status: 3
+tags: []
+user_id: felip

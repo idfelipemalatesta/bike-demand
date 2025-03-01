@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ce07064db6ef466b9168a74f7ba78470/artifacts
+deleted_time: 1740851975344
+end_time: 1740851901259
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ce07064db6ef466b9168a74f7ba78470
+run_name: efficient-trout-201
+run_uuid: ce07064db6ef466b9168a74f7ba78470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851900987
+status: 3
+tags: []
+user_id: felip

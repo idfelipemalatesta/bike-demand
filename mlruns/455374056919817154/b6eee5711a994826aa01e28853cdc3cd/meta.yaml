@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b6eee5711a994826aa01e28853cdc3cd/artifacts
+end_time: 1740852287214
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b6eee5711a994826aa01e28853cdc3cd
+run_name: youthful-worm-124
+run_uuid: b6eee5711a994826aa01e28853cdc3cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852286886
+status: 3
+tags: []
+user_id: felip

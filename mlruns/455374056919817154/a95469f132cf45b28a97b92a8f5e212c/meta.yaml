@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a95469f132cf45b28a97b92a8f5e212c/artifacts
+end_time: 1740852235741
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a95469f132cf45b28a97b92a8f5e212c
+run_name: unequaled-shrike-424
+run_uuid: a95469f132cf45b28a97b92a8f5e212c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852235476
+status: 3
+tags: []
+user_id: felip

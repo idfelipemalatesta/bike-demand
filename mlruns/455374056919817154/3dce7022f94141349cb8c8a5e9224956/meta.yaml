@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3dce7022f94141349cb8c8a5e9224956/artifacts
+deleted_time: 1740851992437
+end_time: 1740851841916
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3dce7022f94141349cb8c8a5e9224956
+run_name: adaptable-midge-696
+run_uuid: 3dce7022f94141349cb8c8a5e9224956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851841690
+status: 3
+tags: []
+user_id: felip

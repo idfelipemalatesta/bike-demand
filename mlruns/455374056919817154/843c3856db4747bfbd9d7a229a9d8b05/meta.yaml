@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/843c3856db4747bfbd9d7a229a9d8b05/artifacts
+deleted_time: 1740851992292
+end_time: 1740851851240
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 843c3856db4747bfbd9d7a229a9d8b05
+run_name: marvelous-ant-685
+run_uuid: 843c3856db4747bfbd9d7a229a9d8b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851851008
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/50cd7f1ae59b408595925b65b965342d/artifacts
+deleted_time: 1740852013698
+end_time: 1740851815337
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 50cd7f1ae59b408595925b65b965342d
+run_name: legendary-robin-836
+run_uuid: 50cd7f1ae59b408595925b65b965342d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851815104
+status: 3
+tags: []
+user_id: felip

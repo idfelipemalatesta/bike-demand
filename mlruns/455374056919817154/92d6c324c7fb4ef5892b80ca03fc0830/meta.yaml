@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/92d6c324c7fb4ef5892b80ca03fc0830/artifacts
+end_time: 1740864363883
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 92d6c324c7fb4ef5892b80ca03fc0830
+run_name: colorful-moose-636
+run_uuid: 92d6c324c7fb4ef5892b80ca03fc0830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864331197
+status: 3
+tags: []
+user_id: felip

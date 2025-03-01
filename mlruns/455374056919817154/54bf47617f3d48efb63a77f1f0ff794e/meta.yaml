@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/54bf47617f3d48efb63a77f1f0ff794e/artifacts
+deleted_time: 1740852013664
+end_time: 1740851816618
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 54bf47617f3d48efb63a77f1f0ff794e
+run_name: painted-trout-926
+run_uuid: 54bf47617f3d48efb63a77f1f0ff794e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851816381
+status: 3
+tags: []
+user_id: felip

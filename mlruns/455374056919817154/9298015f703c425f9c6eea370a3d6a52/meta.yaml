@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9298015f703c425f9c6eea370a3d6a52/artifacts
+deleted_time: 1740851958320
+end_time: 1740851755224
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9298015f703c425f9c6eea370a3d6a52
+run_name: serious-sponge-695
+run_uuid: 9298015f703c425f9c6eea370a3d6a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851755030
+status: 3
+tags: []
+user_id: felip

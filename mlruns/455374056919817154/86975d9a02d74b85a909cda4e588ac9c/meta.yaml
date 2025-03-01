@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/86975d9a02d74b85a909cda4e588ac9c/artifacts
+end_time: 1740852160905
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 86975d9a02d74b85a909cda4e588ac9c
+run_name: debonair-hen-637
+run_uuid: 86975d9a02d74b85a909cda4e588ac9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852160669
+status: 3
+tags: []
+user_id: felip

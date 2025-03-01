@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/65ba76f02cff45c3ab67a8f325c529e7/artifacts
+end_time: 1740854589346
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 65ba76f02cff45c3ab67a8f325c529e7
+run_name: intrigued-tern-515
+run_uuid: 65ba76f02cff45c3ab67a8f325c529e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854588330
+status: 3
+tags: []
+user_id: felip

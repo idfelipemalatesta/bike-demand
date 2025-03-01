@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/634bea4221934e7282f60d3b5ee35e26/artifacts
+deleted_time: 1740851958238
+end_time: 1740851759535
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 634bea4221934e7282f60d3b5ee35e26
+run_name: victorious-mink-534
+run_uuid: 634bea4221934e7282f60d3b5ee35e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851759330
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c444f11bc6f441e0bd1be88e4cd0ab99/artifacts
+end_time: 1740855875888
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c444f11bc6f441e0bd1be88e4cd0ab99
+run_name: nimble-gull-946
+run_uuid: c444f11bc6f441e0bd1be88e4cd0ab99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855844502
+status: 3
+tags: []
+user_id: felip

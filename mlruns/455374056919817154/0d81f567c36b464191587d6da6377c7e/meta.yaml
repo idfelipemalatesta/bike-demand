@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0d81f567c36b464191587d6da6377c7e/artifacts
+deleted_time: 1740851975651
+end_time: 1740851880219
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0d81f567c36b464191587d6da6377c7e
+run_name: secretive-grouse-774
+run_uuid: 0d81f567c36b464191587d6da6377c7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851879989
+status: 3
+tags: []
+user_id: felip

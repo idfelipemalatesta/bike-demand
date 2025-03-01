@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2f2f5f3fa8804332b0203bdadd7d3814/artifacts
+end_time: 1740862298250
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2f2f5f3fa8804332b0203bdadd7d3814
+run_name: intelligent-swan-348
+run_uuid: 2f2f5f3fa8804332b0203bdadd7d3814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862266583
+status: 3
+tags: []
+user_id: felip

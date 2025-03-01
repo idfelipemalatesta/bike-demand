@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7b48473366604d3fbbc467d92e57fa93/artifacts
+deleted_time: 1740851975521
+end_time: 1740851890093
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 7b48473366604d3fbbc467d92e57fa93
+run_name: dashing-snail-673
+run_uuid: 7b48473366604d3fbbc467d92e57fa93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851889865
+status: 3
+tags: []
+user_id: felip

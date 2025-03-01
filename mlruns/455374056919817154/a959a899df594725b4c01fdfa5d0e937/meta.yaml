@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a959a899df594725b4c01fdfa5d0e937/artifacts
+deleted_time: 1740851958431
+end_time: 1740851748715
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a959a899df594725b4c01fdfa5d0e937
+run_name: illustrious-pig-628
+run_uuid: a959a899df594725b4c01fdfa5d0e937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851748490
+status: 3
+tags: []
+user_id: felip

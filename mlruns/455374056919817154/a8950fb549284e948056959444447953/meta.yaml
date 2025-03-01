@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a8950fb549284e948056959444447953/artifacts
+end_time: 1740854592796
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a8950fb549284e948056959444447953
+run_name: legendary-ray-845
+run_uuid: a8950fb549284e948056959444447953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854592196
+status: 3
+tags: []
+user_id: felip

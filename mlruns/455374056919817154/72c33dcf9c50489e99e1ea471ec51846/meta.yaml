@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/72c33dcf9c50489e99e1ea471ec51846/artifacts
+deleted_time: 1740852013498
+end_time: 1740851825370
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 72c33dcf9c50489e99e1ea471ec51846
+run_name: charming-donkey-502
+run_uuid: 72c33dcf9c50489e99e1ea471ec51846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851825089
+status: 3
+tags: []
+user_id: felip

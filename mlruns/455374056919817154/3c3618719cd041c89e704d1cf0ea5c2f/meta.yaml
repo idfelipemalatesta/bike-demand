@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3c3618719cd041c89e704d1cf0ea5c2f/artifacts
+end_time: 1740860426281
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 3c3618719cd041c89e704d1cf0ea5c2f
+run_name: casual-seal-102
+run_uuid: 3c3618719cd041c89e704d1cf0ea5c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860394996
+status: 3
+tags: []
+user_id: felip

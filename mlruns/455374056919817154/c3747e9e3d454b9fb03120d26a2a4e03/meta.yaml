@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c3747e9e3d454b9fb03120d26a2a4e03/artifacts
+deleted_time: 1740852013731
+end_time: 1740851812765
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: c3747e9e3d454b9fb03120d26a2a4e03
+run_name: gaudy-lynx-86
+run_uuid: c3747e9e3d454b9fb03120d26a2a4e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851812259
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d03caaa11e24475caabbeb6ad2940a6f/artifacts
+deleted_time: 1740852040240
+end_time: 1740851741090
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d03caaa11e24475caabbeb6ad2940a6f
+run_name: skittish-vole-766
+run_uuid: d03caaa11e24475caabbeb6ad2940a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851740909
+status: 3
+tags: []
+user_id: felip

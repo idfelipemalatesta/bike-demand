@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/20d6707e2bce4eb09c76dd158068566d/artifacts
+deleted_time: 1740852013820
+end_time: 1740851806284
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 20d6707e2bce4eb09c76dd158068566d
+run_name: bold-shrimp-411
+run_uuid: 20d6707e2bce4eb09c76dd158068566d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851806063
+status: 3
+tags: []
+user_id: felip

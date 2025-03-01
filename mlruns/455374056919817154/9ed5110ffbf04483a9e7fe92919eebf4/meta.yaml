@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9ed5110ffbf04483a9e7fe92919eebf4/artifacts
+deleted_time: 1740851992186
+end_time: 1740851858407
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9ed5110ffbf04483a9e7fe92919eebf4
+run_name: righteous-deer-426
+run_uuid: 9ed5110ffbf04483a9e7fe92919eebf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851857937
+status: 3
+tags: []
+user_id: felip

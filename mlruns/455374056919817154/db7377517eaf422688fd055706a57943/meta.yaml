@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/db7377517eaf422688fd055706a57943/artifacts
+end_time: 1740854488846
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: db7377517eaf422688fd055706a57943
+run_name: colorful-skink-888
+run_uuid: db7377517eaf422688fd055706a57943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854458879
+status: 3
+tags: []
+user_id: felip

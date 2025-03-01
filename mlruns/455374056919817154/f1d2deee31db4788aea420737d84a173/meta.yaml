@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f1d2deee31db4788aea420737d84a173/artifacts
+end_time: 1740852204825
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f1d2deee31db4788aea420737d84a173
+run_name: amazing-bear-257
+run_uuid: f1d2deee31db4788aea420737d84a173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852204565
+status: 3
+tags: []
+user_id: felip

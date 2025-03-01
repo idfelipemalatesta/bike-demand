@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/afbf4b43fc8144db8ae0aa1016160878/artifacts
+end_time: 1740864463367
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: afbf4b43fc8144db8ae0aa1016160878
+run_name: glamorous-goat-524
+run_uuid: afbf4b43fc8144db8ae0aa1016160878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864429466
+status: 3
+tags: []
+user_id: felip

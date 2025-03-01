@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/daa4638215164618ac50e50feab3849c/artifacts
+deleted_time: 1740851957899
+end_time: 1740851772966
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: daa4638215164618ac50e50feab3849c
+run_name: grandiose-mare-557
+run_uuid: daa4638215164618ac50e50feab3849c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851772565
+status: 3
+tags: []
+user_id: felip

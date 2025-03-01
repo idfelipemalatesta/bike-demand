@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/75e4a4783ed74cbc86be5b361d88cc1d/artifacts
+deleted_time: 1740851958299
+end_time: 1740851756397
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 75e4a4783ed74cbc86be5b361d88cc1d
+run_name: caring-auk-66
+run_uuid: 75e4a4783ed74cbc86be5b361d88cc1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851756256
+status: 3
+tags: []
+user_id: felip

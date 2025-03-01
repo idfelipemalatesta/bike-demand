@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2ace6db0f94441349e4a0d6aa86ceb2c/artifacts
+end_time: 1740857929442
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2ace6db0f94441349e4a0d6aa86ceb2c
+run_name: glamorous-squid-388
+run_uuid: 2ace6db0f94441349e4a0d6aa86ceb2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857894128
+status: 3
+tags: []
+user_id: felip

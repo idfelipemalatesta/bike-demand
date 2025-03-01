@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8bc8aae1a2b84bd0a32db609cc53d62a/artifacts
+deleted_time: 1740852013736
+end_time: 1740851811819
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 8bc8aae1a2b84bd0a32db609cc53d62a
+run_name: shivering-ape-667
+run_uuid: 8bc8aae1a2b84bd0a32db609cc53d62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851811570
+status: 3
+tags: []
+user_id: felip

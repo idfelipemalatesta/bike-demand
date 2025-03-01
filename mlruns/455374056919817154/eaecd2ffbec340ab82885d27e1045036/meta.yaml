@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/eaecd2ffbec340ab82885d27e1045036/artifacts
+deleted_time: 1740851958110
+end_time: 1740851766621
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: eaecd2ffbec340ab82885d27e1045036
+run_name: skillful-sponge-407
+run_uuid: eaecd2ffbec340ab82885d27e1045036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851766425
+status: 3
+tags: []
+user_id: felip

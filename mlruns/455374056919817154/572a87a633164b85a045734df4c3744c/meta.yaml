@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/572a87a633164b85a045734df4c3744c/artifacts
+end_time: 1740854758196
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 572a87a633164b85a045734df4c3744c
+run_name: nosy-flea-918
+run_uuid: 572a87a633164b85a045734df4c3744c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854757426
+status: 3
+tags: []
+user_id: felip

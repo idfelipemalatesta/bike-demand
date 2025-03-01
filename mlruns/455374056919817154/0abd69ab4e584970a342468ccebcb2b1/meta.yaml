@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0abd69ab4e584970a342468ccebcb2b1/artifacts
+deleted_time: 1740852040334
+end_time: 1740851736372
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0abd69ab4e584970a342468ccebcb2b1
+run_name: enchanting-horse-91
+run_uuid: 0abd69ab4e584970a342468ccebcb2b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851736236
+status: 3
+tags: []
+user_id: felip

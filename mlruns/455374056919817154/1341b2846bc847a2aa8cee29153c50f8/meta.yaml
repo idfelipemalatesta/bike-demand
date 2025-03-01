@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1341b2846bc847a2aa8cee29153c50f8/artifacts
+end_time: 1740852170109
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1341b2846bc847a2aa8cee29153c50f8
+run_name: kindly-ox-254
+run_uuid: 1341b2846bc847a2aa8cee29153c50f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852169851
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ead561e8e06a4d9aa851fa251504f303/artifacts
+end_time: 1740852218808
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ead561e8e06a4d9aa851fa251504f303
+run_name: painted-dove-600
+run_uuid: ead561e8e06a4d9aa851fa251504f303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852218550
+status: 3
+tags: []
+user_id: felip

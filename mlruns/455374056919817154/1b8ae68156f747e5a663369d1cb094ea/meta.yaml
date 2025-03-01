@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1b8ae68156f747e5a663369d1cb094ea/artifacts
+end_time: 1740852157154
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1b8ae68156f747e5a663369d1cb094ea
+run_name: wise-crane-395
+run_uuid: 1b8ae68156f747e5a663369d1cb094ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852156898
+status: 3
+tags: []
+user_id: felip

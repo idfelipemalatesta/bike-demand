@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/62e1be9a111a413283ece301089b112c/artifacts
+end_time: 1740858693790
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 62e1be9a111a413283ece301089b112c
+run_name: merciful-panda-422
+run_uuid: 62e1be9a111a413283ece301089b112c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858651580
+status: 3
+tags: []
+user_id: felip

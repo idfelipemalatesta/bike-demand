@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/eebfc97a15e64584ac58b6ea431e00ca/artifacts
+end_time: 1740852119492
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: eebfc97a15e64584ac58b6ea431e00ca
+run_name: luminous-jay-954
+run_uuid: eebfc97a15e64584ac58b6ea431e00ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852119209
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3f489e7453f547e0b5a6669ddcbe0b4c/artifacts
+deleted_time: 1740851975409
+end_time: 1740851897456
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3f489e7453f547e0b5a6669ddcbe0b4c
+run_name: efficient-hen-464
+run_uuid: 3f489e7453f547e0b5a6669ddcbe0b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851897198
+status: 3
+tags: []
+user_id: felip

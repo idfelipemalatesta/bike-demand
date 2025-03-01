@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a59e4b8b74b24b23a1d36076e5e1e3c4/artifacts
+end_time: 1740861267498
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a59e4b8b74b24b23a1d36076e5e1e3c4
+run_name: masked-doe-731
+run_uuid: a59e4b8b74b24b23a1d36076e5e1e3c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740861236298
+status: 3
+tags: []
+user_id: felip

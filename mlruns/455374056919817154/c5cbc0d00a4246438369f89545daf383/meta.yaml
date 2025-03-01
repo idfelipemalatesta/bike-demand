@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c5cbc0d00a4246438369f89545daf383/artifacts
+end_time: 1740865677834
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c5cbc0d00a4246438369f89545daf383
+run_name: honorable-lamb-460
+run_uuid: c5cbc0d00a4246438369f89545daf383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865645783
+status: 3
+tags: []
+user_id: felip

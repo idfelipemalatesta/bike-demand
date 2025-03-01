@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/72773034b84c49dab447c07ec0d5a9cc/artifacts
+end_time: 1740852252324
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 72773034b84c49dab447c07ec0d5a9cc
+run_name: dapper-bee-451
+run_uuid: 72773034b84c49dab447c07ec0d5a9cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852251996
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ed03efd871e646748ab8662bd87bd406/artifacts
+deleted_time: 1740852013790
+end_time: 1740851808389
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ed03efd871e646748ab8662bd87bd406
+run_name: capable-quail-16
+run_uuid: ed03efd871e646748ab8662bd87bd406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851808159
+status: 3
+tags: []
+user_id: felip

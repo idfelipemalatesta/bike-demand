@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/872b2701a57d408fa5edaecf5b838b14/artifacts
+deleted_time: 1740854226945
+end_time: 1740853326812
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 872b2701a57d408fa5edaecf5b838b14
+run_name: indecisive-ape-286
+run_uuid: 872b2701a57d408fa5edaecf5b838b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852864811
+status: 3
+tags: []
+user_id: felip

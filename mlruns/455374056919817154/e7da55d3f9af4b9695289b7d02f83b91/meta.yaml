@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e7da55d3f9af4b9695289b7d02f83b91/artifacts
+deleted_time: 1740851958256
+end_time: 1740851758322
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: e7da55d3f9af4b9695289b7d02f83b91
+run_name: bouncy-whale-320
+run_uuid: e7da55d3f9af4b9695289b7d02f83b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851758099
+status: 3
+tags: []
+user_id: felip

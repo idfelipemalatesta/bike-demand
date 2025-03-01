@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7505741801e643b09c3f91f4043d9781/artifacts
+end_time: 1740868495736
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7505741801e643b09c3f91f4043d9781
+run_name: tasteful-cow-792
+run_uuid: 7505741801e643b09c3f91f4043d9781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868464153
+status: 3
+tags: []
+user_id: felip

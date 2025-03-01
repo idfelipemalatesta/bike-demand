@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/571699973f7a4ac9af22aada6b3d48d9/artifacts
+end_time: 1740858289828
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 571699973f7a4ac9af22aada6b3d48d9
+run_name: upset-ram-17
+run_uuid: 571699973f7a4ac9af22aada6b3d48d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858248615
+status: 3
+tags: []
+user_id: felip

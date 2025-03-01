@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/00c462fba86249fcb867f7aef7e5a738/artifacts
+end_time: 1740864918100
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 00c462fba86249fcb867f7aef7e5a738
+run_name: rumbling-horse-474
+run_uuid: 00c462fba86249fcb867f7aef7e5a738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864885516
+status: 3
+tags: []
+user_id: felip

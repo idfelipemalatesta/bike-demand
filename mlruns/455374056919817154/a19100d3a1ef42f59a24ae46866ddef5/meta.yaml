@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a19100d3a1ef42f59a24ae46866ddef5/artifacts
+end_time: 1740862867833
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a19100d3a1ef42f59a24ae46866ddef5
+run_name: marvelous-midge-72
+run_uuid: a19100d3a1ef42f59a24ae46866ddef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862867330
+status: 3
+tags: []
+user_id: felip

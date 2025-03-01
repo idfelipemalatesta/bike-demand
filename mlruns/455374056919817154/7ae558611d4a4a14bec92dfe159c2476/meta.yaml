@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7ae558611d4a4a14bec92dfe159c2476/artifacts
+end_time: 1740859949780
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7ae558611d4a4a14bec92dfe159c2476
+run_name: beautiful-deer-850
+run_uuid: 7ae558611d4a4a14bec92dfe159c2476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740859917874
+status: 3
+tags: []
+user_id: felip

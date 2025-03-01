@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c4208d3d82f34fb7a2760915bc960750/artifacts
+deleted_time: 1740851957851
+end_time: 1740851776082
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: c4208d3d82f34fb7a2760915bc960750
+run_name: indecisive-grouse-8
+run_uuid: c4208d3d82f34fb7a2760915bc960750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851775844
+status: 3
+tags: []
+user_id: felip

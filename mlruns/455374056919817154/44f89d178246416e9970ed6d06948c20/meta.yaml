@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/44f89d178246416e9970ed6d06948c20/artifacts
+end_time: 1740857643333
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 44f89d178246416e9970ed6d06948c20
+run_name: respected-rook-471
+run_uuid: 44f89d178246416e9970ed6d06948c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857608587
+status: 3
+tags: []
+user_id: felip

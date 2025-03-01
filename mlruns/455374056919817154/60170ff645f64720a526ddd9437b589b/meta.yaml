@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/60170ff645f64720a526ddd9437b589b/artifacts
+deleted_time: 1740851975428
+end_time: 1740851896194
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 60170ff645f64720a526ddd9437b589b
+run_name: intrigued-shrimp-11
+run_uuid: 60170ff645f64720a526ddd9437b589b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851895959
+status: 3
+tags: []
+user_id: felip

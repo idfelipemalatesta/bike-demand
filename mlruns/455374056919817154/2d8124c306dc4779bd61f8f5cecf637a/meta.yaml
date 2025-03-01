@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2d8124c306dc4779bd61f8f5cecf637a/artifacts
+end_time: 1740863410380
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2d8124c306dc4779bd61f8f5cecf637a
+run_name: dashing-kite-700
+run_uuid: 2d8124c306dc4779bd61f8f5cecf637a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863378579
+status: 3
+tags: []
+user_id: felip

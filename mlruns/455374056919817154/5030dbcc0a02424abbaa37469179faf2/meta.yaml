@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5030dbcc0a02424abbaa37469179faf2/artifacts
+end_time: 1740852216880
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5030dbcc0a02424abbaa37469179faf2
+run_name: unleashed-bug-954
+run_uuid: 5030dbcc0a02424abbaa37469179faf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852216638
+status: 3
+tags: []
+user_id: felip

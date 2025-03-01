@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b65d6ee477f34b37b2f5d425b93e02ce/artifacts
+end_time: 1740861458715
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b65d6ee477f34b37b2f5d425b93e02ce
+run_name: stylish-swan-595
+run_uuid: b65d6ee477f34b37b2f5d425b93e02ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740861426831
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/97bb7f4554024432a3516a1c2da1c6ed/artifacts
+deleted_time: 1740851975838
+end_time: 1740851867141
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 97bb7f4554024432a3516a1c2da1c6ed
+run_name: amusing-crane-267
+run_uuid: 97bb7f4554024432a3516a1c2da1c6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851866927
+status: 3
+tags: []
+user_id: felip

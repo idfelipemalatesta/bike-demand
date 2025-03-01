@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/46b097686d5b44b9b5abdc3457e4cadd/artifacts
+deleted_time: 1740851975509
+end_time: 1740851890754
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 46b097686d5b44b9b5abdc3457e4cadd
+run_name: classy-conch-80
+run_uuid: 46b097686d5b44b9b5abdc3457e4cadd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851890504
+status: 3
+tags: []
+user_id: felip

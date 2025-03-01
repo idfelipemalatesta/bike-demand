@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c338a3cab5c246a4b08f0e32bb89787c/artifacts
+deleted_time: 1740852040247
+end_time: 1740851740824
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: c338a3cab5c246a4b08f0e32bb89787c
+run_name: painted-seal-593
+run_uuid: c338a3cab5c246a4b08f0e32bb89787c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851740632
+status: 3
+tags: []
+user_id: felip

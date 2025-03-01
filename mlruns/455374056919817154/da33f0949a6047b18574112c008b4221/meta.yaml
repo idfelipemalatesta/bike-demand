@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/da33f0949a6047b18574112c008b4221/artifacts
+deleted_time: 1740851992134
+end_time: 1740851861465
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: da33f0949a6047b18574112c008b4221
+run_name: stately-bear-433
+run_uuid: da33f0949a6047b18574112c008b4221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851861252
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/af185a315e2f42ec8693917f0d99614c/artifacts
+end_time: 1740855492176
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: af185a315e2f42ec8693917f0d99614c
+run_name: suave-toad-32
+run_uuid: af185a315e2f42ec8693917f0d99614c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855461166
+status: 3
+tags: []
+user_id: felip

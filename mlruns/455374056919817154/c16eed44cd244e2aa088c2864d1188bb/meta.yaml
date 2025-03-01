@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c16eed44cd244e2aa088c2864d1188bb/artifacts
+end_time: 1740852249558
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c16eed44cd244e2aa088c2864d1188bb
+run_name: unleashed-shrike-612
+run_uuid: c16eed44cd244e2aa088c2864d1188bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852249253
+status: 3
+tags: []
+user_id: felip

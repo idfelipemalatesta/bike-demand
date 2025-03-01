@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/db9023c911c04affb8049dc0b1b3d072/artifacts
+end_time: 1740867434488
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: db9023c911c04affb8049dc0b1b3d072
+run_name: brawny-shrew-31
+run_uuid: db9023c911c04affb8049dc0b1b3d072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867402135
+status: 3
+tags: []
+user_id: felip

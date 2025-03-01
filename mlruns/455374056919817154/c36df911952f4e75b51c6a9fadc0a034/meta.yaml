@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c36df911952f4e75b51c6a9fadc0a034/artifacts
+end_time: 1740852236748
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c36df911952f4e75b51c6a9fadc0a034
+run_name: rambunctious-goat-36
+run_uuid: c36df911952f4e75b51c6a9fadc0a034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852236508
+status: 3
+tags: []
+user_id: felip

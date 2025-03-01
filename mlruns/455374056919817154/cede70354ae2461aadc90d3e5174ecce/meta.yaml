@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cede70354ae2461aadc90d3e5174ecce/artifacts
+end_time: 1740852169757
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: cede70354ae2461aadc90d3e5174ecce
+run_name: amazing-mare-481
+run_uuid: cede70354ae2461aadc90d3e5174ecce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852169480
+status: 3
+tags: []
+user_id: felip

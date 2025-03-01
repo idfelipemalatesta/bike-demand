@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/722b50a966ad4fd1adc46d38f31ccb67/artifacts
+end_time: 1740852238820
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 722b50a966ad4fd1adc46d38f31ccb67
+run_name: melodic-cow-101
+run_uuid: 722b50a966ad4fd1adc46d38f31ccb67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852238566
+status: 3
+tags: []
+user_id: felip

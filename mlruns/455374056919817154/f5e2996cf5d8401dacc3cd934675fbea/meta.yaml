@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f5e2996cf5d8401dacc3cd934675fbea/artifacts
+end_time: 1740852253713
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f5e2996cf5d8401dacc3cd934675fbea
+run_name: receptive-fawn-877
+run_uuid: f5e2996cf5d8401dacc3cd934675fbea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852253529
+status: 3
+tags: []
+user_id: felip

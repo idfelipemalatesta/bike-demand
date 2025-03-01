@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7f7375738a644e93b1ade47598d92658/artifacts
+end_time: 1740852129513
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7f7375738a644e93b1ade47598d92658
+run_name: fun-mink-684
+run_uuid: 7f7375738a644e93b1ade47598d92658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852129322
+status: 3
+tags: []
+user_id: felip

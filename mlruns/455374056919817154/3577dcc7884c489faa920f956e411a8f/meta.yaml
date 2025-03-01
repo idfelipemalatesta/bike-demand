@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3577dcc7884c489faa920f956e411a8f/artifacts
+deleted_time: 1740852013649
+end_time: 1740851817291
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3577dcc7884c489faa920f956e411a8f
+run_name: intelligent-ram-655
+run_uuid: 3577dcc7884c489faa920f956e411a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851817055
+status: 3
+tags: []
+user_id: felip

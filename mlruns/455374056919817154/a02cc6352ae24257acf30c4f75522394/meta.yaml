@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a02cc6352ae24257acf30c4f75522394/artifacts
+end_time: 1740865145667
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a02cc6352ae24257acf30c4f75522394
+run_name: bedecked-hog-495
+run_uuid: a02cc6352ae24257acf30c4f75522394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865112567
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fcddad1b772f45d5b467af6c90efe822/artifacts
+end_time: 1740852118697
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: fcddad1b772f45d5b467af6c90efe822
+run_name: chill-vole-760
+run_uuid: fcddad1b772f45d5b467af6c90efe822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852118522
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9f74873307f346d28692ac2db4091fa7/artifacts
+end_time: 1740852193735
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 9f74873307f346d28692ac2db4091fa7
+run_name: worried-eel-963
+run_uuid: 9f74873307f346d28692ac2db4091fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852193491
+status: 3
+tags: []
+user_id: felip

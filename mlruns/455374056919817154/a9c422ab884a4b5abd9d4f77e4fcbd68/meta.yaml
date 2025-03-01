@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a9c422ab884a4b5abd9d4f77e4fcbd68/artifacts
+end_time: 1740852230941
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a9c422ab884a4b5abd9d4f77e4fcbd68
+run_name: spiffy-bat-320
+run_uuid: a9c422ab884a4b5abd9d4f77e4fcbd68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852230704
+status: 3
+tags: []
+user_id: felip

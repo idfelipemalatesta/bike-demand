@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/97d36602698b4a08aaa8ba449e7b8185/artifacts
+end_time: 1740859501319
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 97d36602698b4a08aaa8ba449e7b8185
+run_name: capricious-ox-36
+run_uuid: 97d36602698b4a08aaa8ba449e7b8185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740859470229
+status: 3
+tags: []
+user_id: felip

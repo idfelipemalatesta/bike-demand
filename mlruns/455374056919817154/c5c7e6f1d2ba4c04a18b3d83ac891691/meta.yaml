@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c5c7e6f1d2ba4c04a18b3d83ac891691/artifacts
+end_time: 1740856331488
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c5c7e6f1d2ba4c04a18b3d83ac891691
+run_name: chill-quail-116
+run_uuid: c5c7e6f1d2ba4c04a18b3d83ac891691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740856294209
+status: 3
+tags: []
+user_id: felip

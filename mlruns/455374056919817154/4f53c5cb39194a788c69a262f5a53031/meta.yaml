@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4f53c5cb39194a788c69a262f5a53031/artifacts
+deleted_time: 1740852013755
+end_time: 1740851810821
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 4f53c5cb39194a788c69a262f5a53031
+run_name: suave-shrike-286
+run_uuid: 4f53c5cb39194a788c69a262f5a53031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851810572
+status: 3
+tags: []
+user_id: felip

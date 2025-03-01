@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a253cd5390b844a0b98c51d00ea19a88/artifacts
+end_time: 1740862234147
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a253cd5390b844a0b98c51d00ea19a88
+run_name: zealous-sloth-927
+run_uuid: a253cd5390b844a0b98c51d00ea19a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862200013
+status: 3
+tags: []
+user_id: felip

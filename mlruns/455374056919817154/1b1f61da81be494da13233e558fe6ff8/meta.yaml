@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1b1f61da81be494da13233e558fe6ff8/artifacts
+end_time: 1740868395623
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1b1f61da81be494da13233e558fe6ff8
+run_name: nervous-mink-112
+run_uuid: 1b1f61da81be494da13233e558fe6ff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868362355
+status: 3
+tags: []
+user_id: felip

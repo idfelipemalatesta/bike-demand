@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2436c057a3d14bb8a03b3d000d3839cf/artifacts
+deleted_time: 1740851975675
+end_time: 1740851878200
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 2436c057a3d14bb8a03b3d000d3839cf
+run_name: redolent-snake-564
+run_uuid: 2436c057a3d14bb8a03b3d000d3839cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851877957
+status: 3
+tags: []
+user_id: felip

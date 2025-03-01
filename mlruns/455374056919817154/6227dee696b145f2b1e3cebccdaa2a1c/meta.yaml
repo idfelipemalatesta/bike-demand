@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6227dee696b145f2b1e3cebccdaa2a1c/artifacts
+end_time: 1740852185915
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 6227dee696b145f2b1e3cebccdaa2a1c
+run_name: resilient-goose-830
+run_uuid: 6227dee696b145f2b1e3cebccdaa2a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852185678
+status: 3
+tags: []
+user_id: felip

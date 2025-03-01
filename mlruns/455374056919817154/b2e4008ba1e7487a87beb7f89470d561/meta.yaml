@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b2e4008ba1e7487a87beb7f89470d561/artifacts
+end_time: 1740852131525
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b2e4008ba1e7487a87beb7f89470d561
+run_name: ambitious-kite-552
+run_uuid: b2e4008ba1e7487a87beb7f89470d561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852131302
+status: 3
+tags: []
+user_id: felip

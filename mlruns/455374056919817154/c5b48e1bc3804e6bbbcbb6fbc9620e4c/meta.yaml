@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c5b48e1bc3804e6bbbcbb6fbc9620e4c/artifacts
+end_time: 1740852137121
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c5b48e1bc3804e6bbbcbb6fbc9620e4c
+run_name: exultant-shad-735
+run_uuid: c5b48e1bc3804e6bbbcbb6fbc9620e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852136937
+status: 3
+tags: []
+user_id: felip

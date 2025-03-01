@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0c598b6b757f46c38344fb7428929816/artifacts
+deleted_time: 1740851975436
+end_time: 1740851895539
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0c598b6b757f46c38344fb7428929816
+run_name: handsome-rat-337
+run_uuid: 0c598b6b757f46c38344fb7428929816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851895246
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/de2a1861856d42f090a39262ac3a5531/artifacts
+end_time: 1740852281778
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: de2a1861856d42f090a39262ac3a5531
+run_name: suave-snail-454
+run_uuid: de2a1861856d42f090a39262ac3a5531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852281581
+status: 3
+tags: []
+user_id: felip

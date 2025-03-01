@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9534f1aab07f45bd9c97c8577bc22cbf/artifacts
+end_time: 1740852248461
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 9534f1aab07f45bd9c97c8577bc22cbf
+run_name: loud-cod-232
+run_uuid: 9534f1aab07f45bd9c97c8577bc22cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852248199
+status: 3
+tags: []
+user_id: felip

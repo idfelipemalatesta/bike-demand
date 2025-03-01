@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/dab58bb101db49689f74f3727972351a/artifacts
+deleted_time: 1740851992536
+end_time: 1740851836134
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: dab58bb101db49689f74f3727972351a
+run_name: rambunctious-jay-947
+run_uuid: dab58bb101db49689f74f3727972351a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851835924
+status: 3
+tags: []
+user_id: felip

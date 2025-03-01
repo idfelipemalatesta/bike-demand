@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c0d08de48ce240599d45f07b48ff0518/artifacts
+deleted_time: 1740852013526
+end_time: 1740851824628
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: c0d08de48ce240599d45f07b48ff0518
+run_name: agreeable-worm-61
+run_uuid: c0d08de48ce240599d45f07b48ff0518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851824356
+status: 3
+tags: []
+user_id: felip

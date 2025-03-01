@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4ba794ca716a4d29b7e4d58119626619/artifacts
+end_time: 1740854434329
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 4ba794ca716a4d29b7e4d58119626619
+run_name: dapper-ox-92
+run_uuid: 4ba794ca716a4d29b7e4d58119626619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854400639
+status: 3
+tags: []
+user_id: felip

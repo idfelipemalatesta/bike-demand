@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ac7ec4ca334b4cf9aa434690ce473839/artifacts
+deleted_time: 1740852040127
+end_time: 1740851780226
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ac7ec4ca334b4cf9aa434690ce473839
+run_name: receptive-rook-507
+run_uuid: ac7ec4ca334b4cf9aa434690ce473839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851780009
+status: 3
+tags: []
+user_id: felip

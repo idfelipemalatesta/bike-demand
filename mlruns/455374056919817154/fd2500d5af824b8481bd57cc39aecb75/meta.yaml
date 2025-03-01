@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fd2500d5af824b8481bd57cc39aecb75/artifacts
+end_time: 1740852173265
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: fd2500d5af824b8481bd57cc39aecb75
+run_name: merciful-calf-732
+run_uuid: fd2500d5af824b8481bd57cc39aecb75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852172988
+status: 3
+tags: []
+user_id: felip

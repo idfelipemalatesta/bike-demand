@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7bb725987e7540ae9fc80cf123e1f347/artifacts
+deleted_time: 1740854226977
+end_time: 1740852863195
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 7bb725987e7540ae9fc80cf123e1f347
+run_name: popular-bear-773
+run_uuid: 7bb725987e7540ae9fc80cf123e1f347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852861495
+status: 3
+tags: []
+user_id: felip

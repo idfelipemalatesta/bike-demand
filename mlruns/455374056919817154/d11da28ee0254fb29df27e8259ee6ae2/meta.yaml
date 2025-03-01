@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d11da28ee0254fb29df27e8259ee6ae2/artifacts
+end_time: 1740852148960
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d11da28ee0254fb29df27e8259ee6ae2
+run_name: luxuriant-hare-689
+run_uuid: d11da28ee0254fb29df27e8259ee6ae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852148717
+status: 3
+tags: []
+user_id: felip

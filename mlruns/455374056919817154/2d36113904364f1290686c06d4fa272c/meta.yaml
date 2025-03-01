@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2d36113904364f1290686c06d4fa272c/artifacts
+end_time: 1740852269011
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2d36113904364f1290686c06d4fa272c
+run_name: handsome-sloth-228
+run_uuid: 2d36113904364f1290686c06d4fa272c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852268760
+status: 3
+tags: []
+user_id: felip

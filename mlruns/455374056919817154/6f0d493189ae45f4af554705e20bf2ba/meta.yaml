@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6f0d493189ae45f4af554705e20bf2ba/artifacts
+deleted_time: 1740851958446
+end_time: 1740851748106
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 6f0d493189ae45f4af554705e20bf2ba
+run_name: spiffy-squid-653
+run_uuid: 6f0d493189ae45f4af554705e20bf2ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851747900
+status: 3
+tags: []
+user_id: felip

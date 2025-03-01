@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/870739d1e4f44bdba2f7c190e8f85bf7/artifacts
+deleted_time: 1740851958009
+end_time: 1740851770231
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 870739d1e4f44bdba2f7c190e8f85bf7
+run_name: wistful-cub-653
+run_uuid: 870739d1e4f44bdba2f7c190e8f85bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851770019
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3991c455050f4ce59e0947b1ecb29f7f/artifacts
+end_time: 1740860045942
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 3991c455050f4ce59e0947b1ecb29f7f
+run_name: trusting-seal-909
+run_uuid: 3991c455050f4ce59e0947b1ecb29f7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860013610
+status: 3
+tags: []
+user_id: felip

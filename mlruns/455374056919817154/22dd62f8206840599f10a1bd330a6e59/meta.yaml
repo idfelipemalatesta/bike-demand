@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/22dd62f8206840599f10a1bd330a6e59/artifacts
+end_time: 1740852292188
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 22dd62f8206840599f10a1bd330a6e59
+run_name: fortunate-bass-19
+run_uuid: 22dd62f8206840599f10a1bd330a6e59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852291864
+status: 3
+tags: []
+user_id: felip

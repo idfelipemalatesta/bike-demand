@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8f18a8b26d9f4881bdeff136dd6795cc/artifacts
+deleted_time: 1740852013618
+end_time: 1740851818936
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 8f18a8b26d9f4881bdeff136dd6795cc
+run_name: invincible-ant-768
+run_uuid: 8f18a8b26d9f4881bdeff136dd6795cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851818699
+status: 3
+tags: []
+user_id: felip

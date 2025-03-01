@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/62920f613f1b4200be0c8a848b42429a/artifacts
+deleted_time: 1740851992362
+end_time: 1740851846679
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 62920f613f1b4200be0c8a848b42429a
+run_name: calm-goat-568
+run_uuid: 62920f613f1b4200be0c8a848b42429a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851846395
+status: 3
+tags: []
+user_id: felip

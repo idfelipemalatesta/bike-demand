@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/55e9f87903684232bddd9779ef442f68/artifacts
+deleted_time: 1740852039981
+end_time: 1740851789165
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 55e9f87903684232bddd9779ef442f68
+run_name: luxuriant-hawk-210
+run_uuid: 55e9f87903684232bddd9779ef442f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851788881
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/865d20fc73454b82a7bca63d4c09a754/artifacts
+end_time: 1740852149643
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 865d20fc73454b82a7bca63d4c09a754
+run_name: youthful-asp-472
+run_uuid: 865d20fc73454b82a7bca63d4c09a754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852149387
+status: 3
+tags: []
+user_id: felip

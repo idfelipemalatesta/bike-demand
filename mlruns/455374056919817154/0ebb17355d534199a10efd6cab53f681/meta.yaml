@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0ebb17355d534199a10efd6cab53f681/artifacts
+deleted_time: 1740851975585
+end_time: 1740851885084
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0ebb17355d534199a10efd6cab53f681
+run_name: big-stoat-192
+run_uuid: 0ebb17355d534199a10efd6cab53f681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851884818
+status: 3
+tags: []
+user_id: felip

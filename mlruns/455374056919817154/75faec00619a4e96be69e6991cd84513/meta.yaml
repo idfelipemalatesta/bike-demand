@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/75faec00619a4e96be69e6991cd84513/artifacts
+deleted_time: 1740851957943
+end_time: 1740851773727
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 75faec00619a4e96be69e6991cd84513
+run_name: debonair-ray-803
+run_uuid: 75faec00619a4e96be69e6991cd84513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851773409
+status: 3
+tags: []
+user_id: felip

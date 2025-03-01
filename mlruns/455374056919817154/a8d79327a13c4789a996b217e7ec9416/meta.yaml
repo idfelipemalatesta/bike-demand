@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a8d79327a13c4789a996b217e7ec9416/artifacts
+deleted_time: 1740852013715
+end_time: 1740851813802
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a8d79327a13c4789a996b217e7ec9416
+run_name: angry-robin-359
+run_uuid: a8d79327a13c4789a996b217e7ec9416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851813572
+status: 3
+tags: []
+user_id: felip

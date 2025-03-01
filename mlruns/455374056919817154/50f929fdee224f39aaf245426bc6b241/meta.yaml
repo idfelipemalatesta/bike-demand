@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/50f929fdee224f39aaf245426bc6b241/artifacts
+end_time: 1740852121741
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 50f929fdee224f39aaf245426bc6b241
+run_name: casual-grub-853
+run_uuid: 50f929fdee224f39aaf245426bc6b241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852121538
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/db54de39cf4f440a9951ee04da50ea48/artifacts
+end_time: 1740852171212
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: db54de39cf4f440a9951ee04da50ea48
+run_name: gaudy-steed-249
+run_uuid: db54de39cf4f440a9951ee04da50ea48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852170958
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f8cdf2b5672a42628853f819100e89ea/artifacts
+end_time: 1740852225824
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f8cdf2b5672a42628853f819100e89ea
+run_name: upbeat-cod-487
+run_uuid: f8cdf2b5672a42628853f819100e89ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852225509
+status: 3
+tags: []
+user_id: felip

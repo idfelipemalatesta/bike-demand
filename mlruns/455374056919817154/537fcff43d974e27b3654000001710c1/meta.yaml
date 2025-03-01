@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/537fcff43d974e27b3654000001710c1/artifacts
+end_time: 1740857465655
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 537fcff43d974e27b3654000001710c1
+run_name: debonair-zebra-448
+run_uuid: 537fcff43d974e27b3654000001710c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857426512
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ce954ef970a042aeb2ca3caed828317f/artifacts
+end_time: 1740852141303
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ce954ef970a042aeb2ca3caed828317f
+run_name: mysterious-toad-359
+run_uuid: ce954ef970a042aeb2ca3caed828317f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852141090
+status: 3
+tags: []
+user_id: felip

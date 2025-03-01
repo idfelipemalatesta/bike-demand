@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/17335825cb504a25aa3fb782f440695d/artifacts
+deleted_time: 1740851958165
+end_time: 1740851764186
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 17335825cb504a25aa3fb782f440695d
+run_name: charming-skink-692
+run_uuid: 17335825cb504a25aa3fb782f440695d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851763982
+status: 3
+tags: []
+user_id: felip

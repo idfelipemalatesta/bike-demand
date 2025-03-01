@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0bebc8525c244967a2fa613212aa81f9/artifacts
+end_time: 1740854365195
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0bebc8525c244967a2fa613212aa81f9
+run_name: amusing-hare-363
+run_uuid: 0bebc8525c244967a2fa613212aa81f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854364496
+status: 3
+tags: []
+user_id: felip

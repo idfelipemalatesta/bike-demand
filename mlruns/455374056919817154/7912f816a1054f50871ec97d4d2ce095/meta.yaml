@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7912f816a1054f50871ec97d4d2ce095/artifacts
+end_time: 1740852129226
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7912f816a1054f50871ec97d4d2ce095
+run_name: peaceful-skink-464
+run_uuid: 7912f816a1054f50871ec97d4d2ce095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852128982
+status: 3
+tags: []
+user_id: felip

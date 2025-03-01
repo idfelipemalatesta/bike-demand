@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b1113b6729a44739825a2a401982c1e9/artifacts
+end_time: 1740852157528
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b1113b6729a44739825a2a401982c1e9
+run_name: righteous-mouse-792
+run_uuid: b1113b6729a44739825a2a401982c1e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852157250
+status: 3
+tags: []
+user_id: felip

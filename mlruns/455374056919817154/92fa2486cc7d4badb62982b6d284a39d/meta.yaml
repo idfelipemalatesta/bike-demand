@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/92fa2486cc7d4badb62982b6d284a39d/artifacts
+deleted_time: 1740851992146
+end_time: 1740851860507
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 92fa2486cc7d4badb62982b6d284a39d
+run_name: abundant-crab-915
+run_uuid: 92fa2486cc7d4badb62982b6d284a39d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851860266
+status: 3
+tags: []
+user_id: felip

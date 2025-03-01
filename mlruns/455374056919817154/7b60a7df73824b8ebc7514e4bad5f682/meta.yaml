@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7b60a7df73824b8ebc7514e4bad5f682/artifacts
+end_time: 1740852194454
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7b60a7df73824b8ebc7514e4bad5f682
+run_name: languid-eel-721
+run_uuid: 7b60a7df73824b8ebc7514e4bad5f682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852194190
+status: 3
+tags: []
+user_id: felip

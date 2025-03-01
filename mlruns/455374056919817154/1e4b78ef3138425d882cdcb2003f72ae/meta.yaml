@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1e4b78ef3138425d882cdcb2003f72ae/artifacts
+deleted_time: 1740851958150
+end_time: 1740851765374
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 1e4b78ef3138425d882cdcb2003f72ae
+run_name: chill-zebra-36
+run_uuid: 1e4b78ef3138425d882cdcb2003f72ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851765171
+status: 3
+tags: []
+user_id: felip

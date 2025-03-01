@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3c976b3c8ae54594a6b803c6bef7277a/artifacts
+deleted_time: 1740852040122
+end_time: 1740851780869
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3c976b3c8ae54594a6b803c6bef7277a
+run_name: intrigued-swan-472
+run_uuid: 3c976b3c8ae54594a6b803c6bef7277a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851780624
+status: 3
+tags: []
+user_id: felip

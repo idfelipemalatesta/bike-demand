@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cf69c3c57e194cd793ed18d795559964/artifacts
+deleted_time: 1740852013808
+end_time: 1740851806998
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: cf69c3c57e194cd793ed18d795559964
+run_name: bedecked-hare-897
+run_uuid: cf69c3c57e194cd793ed18d795559964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851806712
+status: 3
+tags: []
+user_id: felip

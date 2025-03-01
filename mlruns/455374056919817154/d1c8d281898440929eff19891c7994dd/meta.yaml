@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d1c8d281898440929eff19891c7994dd/artifacts
+end_time: 1740860852635
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d1c8d281898440929eff19891c7994dd
+run_name: thundering-skunk-79
+run_uuid: d1c8d281898440929eff19891c7994dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860813905
+status: 3
+tags: []
+user_id: felip

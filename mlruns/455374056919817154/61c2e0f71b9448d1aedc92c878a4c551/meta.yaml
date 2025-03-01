@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/61c2e0f71b9448d1aedc92c878a4c551/artifacts
+deleted_time: 1740851992382
+end_time: 1740851845257
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 61c2e0f71b9448d1aedc92c878a4c551
+run_name: mysterious-duck-284
+run_uuid: 61c2e0f71b9448d1aedc92c878a4c551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851845100
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/eac0e6f791ef4e34a7c57e6bd0e21f78/artifacts
+end_time: 1740858368844
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: eac0e6f791ef4e34a7c57e6bd0e21f78
+run_name: angry-shrike-880
+run_uuid: eac0e6f791ef4e34a7c57e6bd0e21f78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858328771
+status: 3
+tags: []
+user_id: felip

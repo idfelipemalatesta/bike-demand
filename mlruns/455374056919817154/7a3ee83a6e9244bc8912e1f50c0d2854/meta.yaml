@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7a3ee83a6e9244bc8912e1f50c0d2854/artifacts
+deleted_time: 1740851958190
+end_time: 1740851762221
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 7a3ee83a6e9244bc8912e1f50c0d2854
+run_name: zealous-vole-677
+run_uuid: 7a3ee83a6e9244bc8912e1f50c0d2854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851762014
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/da294706393246eda7344c6a7268d867/artifacts
+end_time: 1740867045789
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: da294706393246eda7344c6a7268d867
+run_name: valuable-smelt-932
+run_uuid: da294706393246eda7344c6a7268d867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867013512
+status: 3
+tags: []
+user_id: felip

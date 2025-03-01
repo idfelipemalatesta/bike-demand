@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8f0e8e6a804f41a7ae9a7c24eae133c1/artifacts
+deleted_time: 1740852040292
+end_time: 1740851738200
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 8f0e8e6a804f41a7ae9a7c24eae133c1
+run_name: victorious-eel-402
+run_uuid: 8f0e8e6a804f41a7ae9a7c24eae133c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851738067
+status: 3
+tags: []
+user_id: felip

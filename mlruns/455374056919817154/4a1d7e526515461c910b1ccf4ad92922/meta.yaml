@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4a1d7e526515461c910b1ccf4ad92922/artifacts
+deleted_time: 1740852039950
+end_time: 1740851791154
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 4a1d7e526515461c910b1ccf4ad92922
+run_name: adventurous-seal-535
+run_uuid: 4a1d7e526515461c910b1ccf4ad92922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851790903
+status: 3
+tags: []
+user_id: felip

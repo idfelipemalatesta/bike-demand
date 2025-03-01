@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3419a89a06c244629bc5ba17b2addb21/artifacts
+deleted_time: 1740851958008
+end_time: 1740851770537
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3419a89a06c244629bc5ba17b2addb21
+run_name: debonair-sloth-953
+run_uuid: 3419a89a06c244629bc5ba17b2addb21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851770324
+status: 3
+tags: []
+user_id: felip

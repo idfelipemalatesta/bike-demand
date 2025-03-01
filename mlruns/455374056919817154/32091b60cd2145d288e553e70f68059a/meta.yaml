@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/32091b60cd2145d288e553e70f68059a/artifacts
+end_time: 1740852191714
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 32091b60cd2145d288e553e70f68059a
+run_name: mysterious-swan-619
+run_uuid: 32091b60cd2145d288e553e70f68059a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852191481
+status: 3
+tags: []
+user_id: felip

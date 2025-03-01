@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/db36fb439159499eb9e30c717c621134/artifacts
+deleted_time: 1740851975569
+end_time: 1740851886660
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: db36fb439159499eb9e30c717c621134
+run_name: marvelous-kite-992
+run_uuid: db36fb439159499eb9e30c717c621134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851886399
+status: 3
+tags: []
+user_id: felip

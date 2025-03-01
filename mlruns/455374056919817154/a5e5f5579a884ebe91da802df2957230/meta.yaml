@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a5e5f5579a884ebe91da802df2957230/artifacts
+end_time: 1740852240704
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a5e5f5579a884ebe91da802df2957230
+run_name: gregarious-swan-25
+run_uuid: a5e5f5579a884ebe91da802df2957230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852240398
+status: 3
+tags: []
+user_id: felip

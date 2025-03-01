@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/571ba86974674aa287194dbc68a1bd70/artifacts
+end_time: 1740854801532
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 571ba86974674aa287194dbc68a1bd70
+run_name: receptive-seal-198
+run_uuid: 571ba86974674aa287194dbc68a1bd70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854800543
+status: 3
+tags: []
+user_id: felip

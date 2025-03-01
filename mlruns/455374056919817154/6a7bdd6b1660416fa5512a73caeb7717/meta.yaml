@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6a7bdd6b1660416fa5512a73caeb7717/artifacts
+deleted_time: 1740851992030
+end_time: 1740851866495
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 6a7bdd6b1660416fa5512a73caeb7717
+run_name: aged-boar-773
+run_uuid: 6a7bdd6b1660416fa5512a73caeb7717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851866268
+status: 3
+tags: []
+user_id: felip

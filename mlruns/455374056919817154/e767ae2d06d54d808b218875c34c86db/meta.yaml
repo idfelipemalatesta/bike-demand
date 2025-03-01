@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e767ae2d06d54d808b218875c34c86db/artifacts
+end_time: 1740852132976
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e767ae2d06d54d808b218875c34c86db
+run_name: bittersweet-newt-253
+run_uuid: e767ae2d06d54d808b218875c34c86db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852132789
+status: 3
+tags: []
+user_id: felip

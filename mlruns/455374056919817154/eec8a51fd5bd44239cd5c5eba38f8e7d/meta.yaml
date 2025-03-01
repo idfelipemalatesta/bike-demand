@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/eec8a51fd5bd44239cd5c5eba38f8e7d/artifacts
+end_time: 1740857134013
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: eec8a51fd5bd44239cd5c5eba38f8e7d
+run_name: defiant-snake-279
+run_uuid: eec8a51fd5bd44239cd5c5eba38f8e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857133373
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e9c9c247a30847aea6ac0d9129dc67df/artifacts
+end_time: 1740852162859
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e9c9c247a30847aea6ac0d9129dc67df
+run_name: legendary-sheep-187
+run_uuid: e9c9c247a30847aea6ac0d9129dc67df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852162567
+status: 3
+tags: []
+user_id: felip

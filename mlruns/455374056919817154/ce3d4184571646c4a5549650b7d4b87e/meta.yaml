@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ce3d4184571646c4a5549650b7d4b87e/artifacts
+deleted_time: 1740851992101
+end_time: 1740851862401
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ce3d4184571646c4a5549650b7d4b87e
+run_name: useful-goose-417
+run_uuid: ce3d4184571646c4a5549650b7d4b87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851862142
+status: 3
+tags: []
+user_id: felip

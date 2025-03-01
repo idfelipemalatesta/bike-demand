@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f33c131c8cde4841a49ea8a722d641d2/artifacts
+end_time: 1740852232950
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f33c131c8cde4841a49ea8a722d641d2
+run_name: youthful-horse-912
+run_uuid: f33c131c8cde4841a49ea8a722d641d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852232698
+status: 3
+tags: []
+user_id: felip

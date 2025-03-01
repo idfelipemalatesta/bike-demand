@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/15f2a359351a41e9ac4e209cf5243dee/artifacts
+deleted_time: 1740852013908
+end_time: 1740851800102
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 15f2a359351a41e9ac4e209cf5243dee
+run_name: mysterious-mouse-324
+run_uuid: 15f2a359351a41e9ac4e209cf5243dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851799880
+status: 3
+tags: []
+user_id: felip

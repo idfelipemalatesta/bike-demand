@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bb5131a0d18744c6bb36e0efd51636aa/artifacts
+deleted_time: 1740852013928
+end_time: 1740851798495
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: bb5131a0d18744c6bb36e0efd51636aa
+run_name: grandiose-moth-843
+run_uuid: bb5131a0d18744c6bb36e0efd51636aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851798258
+status: 3
+tags: []
+user_id: felip

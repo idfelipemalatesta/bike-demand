@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0d098178513847a7bca2f710b558c5fa/artifacts
+end_time: 1740852245520
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0d098178513847a7bca2f710b558c5fa
+run_name: smiling-grouse-398
+run_uuid: 0d098178513847a7bca2f710b558c5fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852245309
+status: 3
+tags: []
+user_id: felip

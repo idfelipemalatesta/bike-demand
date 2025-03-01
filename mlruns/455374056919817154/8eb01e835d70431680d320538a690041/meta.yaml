@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8eb01e835d70431680d320538a690041/artifacts
+deleted_time: 1740852040308
+end_time: 1740851737518
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 8eb01e835d70431680d320538a690041
+run_name: dashing-goat-551
+run_uuid: 8eb01e835d70431680d320538a690041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851737375
+status: 3
+tags: []
+user_id: felip

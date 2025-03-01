@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5c13257b253d417eb273f1c8fadda237/artifacts
+end_time: 1740852115406
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5c13257b253d417eb273f1c8fadda237
+run_name: puzzled-gnat-865
+run_uuid: 5c13257b253d417eb273f1c8fadda237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852115233
+status: 3
+tags: []
+user_id: felip

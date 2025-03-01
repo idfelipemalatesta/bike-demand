@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1719404be73044278aa79be52fca9e17/artifacts
+end_time: 1740852116935
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1719404be73044278aa79be52fca9e17
+run_name: aged-lark-576
+run_uuid: 1719404be73044278aa79be52fca9e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852116744
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/18de0449116d48bab5285958dfe3d203/artifacts
+deleted_time: 1740851958276
+end_time: 1740851756986
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 18de0449116d48bab5285958dfe3d203
+run_name: zealous-pig-794
+run_uuid: 18de0449116d48bab5285958dfe3d203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851756776
+status: 3
+tags: []
+user_id: felip

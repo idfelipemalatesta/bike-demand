@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bb26a0434ef14c889cd2a6c6715bac8f/artifacts
+deleted_time: 1740851975417
+end_time: 1740851896455
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: bb26a0434ef14c889cd2a6c6715bac8f
+run_name: bouncy-roo-891
+run_uuid: bb26a0434ef14c889cd2a6c6715bac8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851896288
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c2526512bc9643ca9afa8975f9e16c6d/artifacts
+end_time: 1740858248524
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c2526512bc9643ca9afa8975f9e16c6d
+run_name: enchanting-snake-736
+run_uuid: c2526512bc9643ca9afa8975f9e16c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858208422
+status: 3
+tags: []
+user_id: felip

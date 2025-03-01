@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1d3578b97c484299be86b34aa60280bb/artifacts
+end_time: 1740852141611
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1d3578b97c484299be86b34aa60280bb
+run_name: gaudy-bat-271
+run_uuid: 1d3578b97c484299be86b34aa60280bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852141410
+status: 3
+tags: []
+user_id: felip

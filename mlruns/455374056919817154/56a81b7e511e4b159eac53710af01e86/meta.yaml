@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/56a81b7e511e4b159eac53710af01e86/artifacts
+deleted_time: 1740852040330
+end_time: 1740851736593
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 56a81b7e511e4b159eac53710af01e86
+run_name: rogue-conch-655
+run_uuid: 56a81b7e511e4b159eac53710af01e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851736459
+status: 3
+tags: []
+user_id: felip

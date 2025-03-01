@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7399dc957ef7475ea07b07d18b02a5c9/artifacts
+end_time: 1740866025367
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7399dc957ef7475ea07b07d18b02a5c9
+run_name: painted-penguin-807
+run_uuid: 7399dc957ef7475ea07b07d18b02a5c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865993067
+status: 3
+tags: []
+user_id: felip

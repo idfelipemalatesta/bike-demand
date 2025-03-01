@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a0f5b99130c94df8b71850743f35de5f/artifacts
+end_time: 1740852203153
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a0f5b99130c94df8b71850743f35de5f
+run_name: painted-tern-112
+run_uuid: a0f5b99130c94df8b71850743f35de5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852202918
+status: 3
+tags: []
+user_id: felip

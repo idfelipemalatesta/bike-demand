@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/43bd9372084845168a1434bcbb2f78f7/artifacts
+end_time: 1740864562767
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 43bd9372084845168a1434bcbb2f78f7
+run_name: mercurial-shoat-151
+run_uuid: 43bd9372084845168a1434bcbb2f78f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864527883
+status: 3
+tags: []
+user_id: felip

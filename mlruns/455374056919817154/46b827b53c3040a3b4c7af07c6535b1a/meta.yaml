@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/46b827b53c3040a3b4c7af07c6535b1a/artifacts
+end_time: 1740868797120
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 46b827b53c3040a3b4c7af07c6535b1a
+run_name: spiffy-seal-157
+run_uuid: 46b827b53c3040a3b4c7af07c6535b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868764553
+status: 3
+tags: []
+user_id: felip

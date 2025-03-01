@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0dc050a6c3e9467e9c25b1efb770885f/artifacts
+end_time: 1740863608266
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0dc050a6c3e9467e9c25b1efb770885f
+run_name: gaudy-sponge-0
+run_uuid: 0dc050a6c3e9467e9c25b1efb770885f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863574768
+status: 3
+tags: []
+user_id: felip

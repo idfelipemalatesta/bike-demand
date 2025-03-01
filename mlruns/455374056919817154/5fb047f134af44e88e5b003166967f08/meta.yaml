@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5fb047f134af44e88e5b003166967f08/artifacts
+deleted_time: 1740852040215
+end_time: 1740851742658
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5fb047f134af44e88e5b003166967f08
+run_name: overjoyed-stoat-892
+run_uuid: 5fb047f134af44e88e5b003166967f08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851742474
+status: 3
+tags: []
+user_id: felip

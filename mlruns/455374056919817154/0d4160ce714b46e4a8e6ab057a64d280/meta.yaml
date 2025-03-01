@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0d4160ce714b46e4a8e6ab057a64d280/artifacts
+end_time: 1740852216543
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0d4160ce714b46e4a8e6ab057a64d280
+run_name: useful-hawk-896
+run_uuid: 0d4160ce714b46e4a8e6ab057a64d280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852216307
+status: 3
+tags: []
+user_id: felip

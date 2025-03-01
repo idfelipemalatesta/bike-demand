@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5d1a46a71f884218848ccf3dc65debab/artifacts
+deleted_time: 1740851992476
+end_time: 1740851839337
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5d1a46a71f884218848ccf3dc65debab
+run_name: useful-wren-13
+run_uuid: 5d1a46a71f884218848ccf3dc65debab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851839020
+status: 3
+tags: []
+user_id: felip

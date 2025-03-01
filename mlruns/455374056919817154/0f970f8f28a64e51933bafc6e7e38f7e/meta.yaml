@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0f970f8f28a64e51933bafc6e7e38f7e/artifacts
+end_time: 1740862809434
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0f970f8f28a64e51933bafc6e7e38f7e
+run_name: amusing-panda-190
+run_uuid: 0f970f8f28a64e51933bafc6e7e38f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862777582
+status: 3
+tags: []
+user_id: felip

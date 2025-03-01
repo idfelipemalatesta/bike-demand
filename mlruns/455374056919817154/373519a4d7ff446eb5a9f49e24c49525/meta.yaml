@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/373519a4d7ff446eb5a9f49e24c49525/artifacts
+end_time: 1740863888049
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 373519a4d7ff446eb5a9f49e24c49525
+run_name: amusing-gull-591
+run_uuid: 373519a4d7ff446eb5a9f49e24c49525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863850929
+status: 3
+tags: []
+user_id: felip

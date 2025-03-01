@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a9b3fb6d98254c1ea10898a5ac37b388/artifacts
+deleted_time: 1740852040035
+end_time: 1740851786200
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a9b3fb6d98254c1ea10898a5ac37b388
+run_name: upbeat-grouse-377
+run_uuid: a9b3fb6d98254c1ea10898a5ac37b388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851785958
+status: 3
+tags: []
+user_id: felip

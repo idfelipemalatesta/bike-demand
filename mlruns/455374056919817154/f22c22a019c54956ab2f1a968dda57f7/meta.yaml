@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f22c22a019c54956ab2f1a968dda57f7/artifacts
+end_time: 1740852147201
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f22c22a019c54956ab2f1a968dda57f7
+run_name: bright-bee-109
+run_uuid: f22c22a019c54956ab2f1a968dda57f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852146930
+status: 3
+tags: []
+user_id: felip

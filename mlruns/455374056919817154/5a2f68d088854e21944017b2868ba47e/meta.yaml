@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5a2f68d088854e21944017b2868ba47e/artifacts
+end_time: 1740863574683
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5a2f68d088854e21944017b2868ba47e
+run_name: illustrious-vole-865
+run_uuid: 5a2f68d088854e21944017b2868ba47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863540762
+status: 3
+tags: []
+user_id: felip

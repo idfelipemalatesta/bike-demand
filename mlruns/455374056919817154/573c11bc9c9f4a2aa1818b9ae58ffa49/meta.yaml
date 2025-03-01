@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/573c11bc9c9f4a2aa1818b9ae58ffa49/artifacts
+end_time: 1740868261755
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 573c11bc9c9f4a2aa1818b9ae58ffa49
+run_name: omniscient-horse-902
+run_uuid: 573c11bc9c9f4a2aa1818b9ae58ffa49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868229002
+status: 3
+tags: []
+user_id: felip

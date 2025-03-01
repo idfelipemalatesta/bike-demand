@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3305189013ec45f7abf53d828c434c4c/artifacts
+end_time: 1740852130369
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 3305189013ec45f7abf53d828c434c4c
+run_name: invincible-croc-376
+run_uuid: 3305189013ec45f7abf53d828c434c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852130173
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/42fbfa61239748b78373fd134f09eb14/artifacts
+end_time: 1740852193061
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 42fbfa61239748b78373fd134f09eb14
+run_name: kindly-goose-121
+run_uuid: 42fbfa61239748b78373fd134f09eb14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852192807
+status: 3
+tags: []
+user_id: felip

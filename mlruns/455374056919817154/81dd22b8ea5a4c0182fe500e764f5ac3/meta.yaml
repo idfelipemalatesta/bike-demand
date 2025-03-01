@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/81dd22b8ea5a4c0182fe500e764f5ac3/artifacts
+deleted_time: 1740851957893
+end_time: 1740851774088
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 81dd22b8ea5a4c0182fe500e764f5ac3
+run_name: capricious-koi-279
+run_uuid: 81dd22b8ea5a4c0182fe500e764f5ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851773835
+status: 3
+tags: []
+user_id: felip

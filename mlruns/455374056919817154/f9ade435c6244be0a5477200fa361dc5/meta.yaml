@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f9ade435c6244be0a5477200fa361dc5/artifacts
+deleted_time: 1740851975370
+end_time: 1740851900500
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f9ade435c6244be0a5477200fa361dc5
+run_name: indecisive-deer-898
+run_uuid: f9ade435c6244be0a5477200fa361dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851900199
+status: 3
+tags: []
+user_id: felip

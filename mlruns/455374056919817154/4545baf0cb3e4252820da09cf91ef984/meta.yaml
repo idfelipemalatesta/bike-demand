@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4545baf0cb3e4252820da09cf91ef984/artifacts
+deleted_time: 1740854198943
+end_time: 1740854186192
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 4545baf0cb3e4252820da09cf91ef984
+run_name: 100trails_2000num_boost
+run_uuid: 4545baf0cb3e4252820da09cf91ef984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852418032
+status: 4
+tags: []
+user_id: felip

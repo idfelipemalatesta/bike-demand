@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cce1c7df7afb45108286665f82b8c0f0/artifacts
+deleted_time: 1740852039837
+end_time: 1740851795941
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: cce1c7df7afb45108286665f82b8c0f0
+run_name: calm-chimp-716
+run_uuid: cce1c7df7afb45108286665f82b8c0f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851795723
+status: 3
+tags: []
+user_id: felip

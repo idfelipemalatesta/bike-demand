@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e04be8f2199a4b4783eac075ecfb404f/artifacts
+end_time: 1740852248114
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e04be8f2199a4b4783eac075ecfb404f
+run_name: respected-tern-582
+run_uuid: e04be8f2199a4b4783eac075ecfb404f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852247827
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/10a5a0bf87c2445e823129df1e1cbf45/artifacts
+end_time: 1740855962096
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 10a5a0bf87c2445e823129df1e1cbf45
+run_name: lyrical-fowl-551
+run_uuid: 10a5a0bf87c2445e823129df1e1cbf45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855934286
+status: 3
+tags: []
+user_id: felip

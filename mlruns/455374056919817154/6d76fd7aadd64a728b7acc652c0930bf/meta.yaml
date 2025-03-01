@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6d76fd7aadd64a728b7acc652c0930bf/artifacts
+deleted_time: 1740851958370
+end_time: 1740851752371
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 6d76fd7aadd64a728b7acc652c0930bf
+run_name: industrious-stag-938
+run_uuid: 6d76fd7aadd64a728b7acc652c0930bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851752155
+status: 3
+tags: []
+user_id: felip

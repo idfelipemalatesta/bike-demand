@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d236c449e2734c37a2e7edf16f929ef2/artifacts
+deleted_time: 1740851992255
+end_time: 1740851853335
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d236c449e2734c37a2e7edf16f929ef2
+run_name: likeable-foal-326
+run_uuid: d236c449e2734c37a2e7edf16f929ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851853048
+status: 3
+tags: []
+user_id: felip

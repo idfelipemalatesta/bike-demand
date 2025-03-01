@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d8466f26c2d14cb4a9f75bfd8dff85f0/artifacts
+end_time: 1740867599585
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d8466f26c2d14cb4a9f75bfd8dff85f0
+run_name: traveling-stork-362
+run_uuid: d8466f26c2d14cb4a9f75bfd8dff85f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867567368
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5dbc4c510d8043c78a940406950ec27d/artifacts
+deleted_time: 1740852040123
+end_time: 1740851780526
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5dbc4c510d8043c78a940406950ec27d
+run_name: gentle-gull-56
+run_uuid: 5dbc4c510d8043c78a940406950ec27d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851780321
+status: 3
+tags: []
+user_id: felip

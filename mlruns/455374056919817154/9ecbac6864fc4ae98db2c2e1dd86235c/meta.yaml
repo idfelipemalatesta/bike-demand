@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9ecbac6864fc4ae98db2c2e1dd86235c/artifacts
+end_time: 1740852254779
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 9ecbac6864fc4ae98db2c2e1dd86235c
+run_name: able-sow-638
+run_uuid: 9ecbac6864fc4ae98db2c2e1dd86235c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852254522
+status: 3
+tags: []
+user_id: felip

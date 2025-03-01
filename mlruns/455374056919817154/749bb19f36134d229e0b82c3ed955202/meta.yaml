@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/749bb19f36134d229e0b82c3ed955202/artifacts
+end_time: 1740858526435
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 749bb19f36134d229e0b82c3ed955202
+run_name: resilient-newt-345
+run_uuid: 749bb19f36134d229e0b82c3ed955202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858487882
+status: 3
+tags: []
+user_id: felip

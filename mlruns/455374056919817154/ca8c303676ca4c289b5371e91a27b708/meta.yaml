@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ca8c303676ca4c289b5371e91a27b708/artifacts
+deleted_time: 1740852040273
+end_time: 1740851739038
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ca8c303676ca4c289b5371e91a27b708
+run_name: receptive-shrike-757
+run_uuid: ca8c303676ca4c289b5371e91a27b708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851738882
+status: 3
+tags: []
+user_id: felip

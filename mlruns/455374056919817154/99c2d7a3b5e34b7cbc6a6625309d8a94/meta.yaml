@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/99c2d7a3b5e34b7cbc6a6625309d8a94/artifacts
+deleted_time: 1740851958366
+end_time: 1740851752057
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 99c2d7a3b5e34b7cbc6a6625309d8a94
+run_name: respected-smelt-757
+run_uuid: 99c2d7a3b5e34b7cbc6a6625309d8a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851751864
+status: 3
+tags: []
+user_id: felip

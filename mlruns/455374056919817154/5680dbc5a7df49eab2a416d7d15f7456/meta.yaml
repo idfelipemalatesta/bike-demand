@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5680dbc5a7df49eab2a416d7d15f7456/artifacts
+deleted_time: 1740851975552
+end_time: 1740851887451
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5680dbc5a7df49eab2a416d7d15f7456
+run_name: mysterious-foal-299
+run_uuid: 5680dbc5a7df49eab2a416d7d15f7456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851887150
+status: 3
+tags: []
+user_id: felip

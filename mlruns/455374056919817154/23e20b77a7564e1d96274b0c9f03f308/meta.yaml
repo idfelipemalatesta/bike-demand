@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/23e20b77a7564e1d96274b0c9f03f308/artifacts
+end_time: 1740852159546
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 23e20b77a7564e1d96274b0c9f03f308
+run_name: merciful-eel-904
+run_uuid: 23e20b77a7564e1d96274b0c9f03f308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852159300
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7adbdc20830d49ac9138ba6273f7ba71/artifacts
+end_time: 1740852147935
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7adbdc20830d49ac9138ba6273f7ba71
+run_name: respected-swan-266
+run_uuid: 7adbdc20830d49ac9138ba6273f7ba71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852147673
+status: 3
+tags: []
+user_id: felip

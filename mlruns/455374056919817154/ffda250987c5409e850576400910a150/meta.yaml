@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ffda250987c5409e850576400910a150/artifacts
+end_time: 1740852209020
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ffda250987c5409e850576400910a150
+run_name: abundant-hen-536
+run_uuid: ffda250987c5409e850576400910a150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852208764
+status: 3
+tags: []
+user_id: felip

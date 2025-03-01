@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ddd30b7d2e8c4942907f60910177f5e0/artifacts
+end_time: 1740852282519
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ddd30b7d2e8c4942907f60910177f5e0
+run_name: traveling-doe-986
+run_uuid: ddd30b7d2e8c4942907f60910177f5e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852282227
+status: 3
+tags: []
+user_id: felip

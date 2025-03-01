@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/da3811149cd74fcab27001b78c924aef/artifacts
+deleted_time: 1740851992319
+end_time: 1740851849605
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: da3811149cd74fcab27001b78c924aef
+run_name: wistful-seal-741
+run_uuid: da3811149cd74fcab27001b78c924aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851849365
+status: 3
+tags: []
+user_id: felip

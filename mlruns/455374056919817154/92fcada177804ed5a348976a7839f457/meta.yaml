@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/92fcada177804ed5a348976a7839f457/artifacts
+end_time: 1740852182741
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 92fcada177804ed5a348976a7839f457
+run_name: upbeat-rook-897
+run_uuid: 92fcada177804ed5a348976a7839f457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852182422
+status: 3
+tags: []
+user_id: felip

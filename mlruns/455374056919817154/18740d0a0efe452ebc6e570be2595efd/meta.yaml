@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/18740d0a0efe452ebc6e570be2595efd/artifacts
+deleted_time: 1740852039958
+end_time: 1740851790794
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 18740d0a0efe452ebc6e570be2595efd
+run_name: popular-mare-396
+run_uuid: 18740d0a0efe452ebc6e570be2595efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851790581
+status: 3
+tags: []
+user_id: felip

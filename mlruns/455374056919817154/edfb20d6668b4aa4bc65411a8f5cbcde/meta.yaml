@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/edfb20d6668b4aa4bc65411a8f5cbcde/artifacts
+deleted_time: 1740851975624
+end_time: 1740851881918
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: edfb20d6668b4aa4bc65411a8f5cbcde
+run_name: salty-rat-478
+run_uuid: edfb20d6668b4aa4bc65411a8f5cbcde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851881696
+status: 3
+tags: []
+user_id: felip

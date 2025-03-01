@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3dfda376d4c6477a98801322790d953e/artifacts
+deleted_time: 1740851992280
+end_time: 1740851851884
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3dfda376d4c6477a98801322790d953e
+run_name: gregarious-boar-969
+run_uuid: 3dfda376d4c6477a98801322790d953e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851851657
+status: 3
+tags: []
+user_id: felip

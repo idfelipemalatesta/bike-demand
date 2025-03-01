@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4be557d7376e4d7aafee00ade32ab556/artifacts
+end_time: 1740865771117
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 4be557d7376e4d7aafee00ade32ab556
+run_name: gaudy-conch-733
+run_uuid: 4be557d7376e4d7aafee00ade32ab556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865742667
+status: 3
+tags: []
+user_id: felip

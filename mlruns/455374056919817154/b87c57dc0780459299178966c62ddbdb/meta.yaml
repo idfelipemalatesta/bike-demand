@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b87c57dc0780459299178966c62ddbdb/artifacts
+deleted_time: 1740851957969
+end_time: 1740851772130
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: b87c57dc0780459299178966c62ddbdb
+run_name: grandiose-frog-833
+run_uuid: b87c57dc0780459299178966c62ddbdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851771904
+status: 3
+tags: []
+user_id: felip

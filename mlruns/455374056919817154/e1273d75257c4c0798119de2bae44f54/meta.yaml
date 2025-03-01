@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e1273d75257c4c0798119de2bae44f54/artifacts
+deleted_time: 1740851975693
+end_time: 1740851877546
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: e1273d75257c4c0798119de2bae44f54
+run_name: adorable-ant-379
+run_uuid: e1273d75257c4c0798119de2bae44f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851877307
+status: 3
+tags: []
+user_id: felip

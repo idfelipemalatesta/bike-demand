@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/078bc845165645deaccc279bf9e58899/artifacts
+deleted_time: 1740851957998
+end_time: 1740851771807
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 078bc845165645deaccc279bf9e58899
+run_name: dazzling-fox-717
+run_uuid: 078bc845165645deaccc279bf9e58899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851771598
+status: 3
+tags: []
+user_id: felip

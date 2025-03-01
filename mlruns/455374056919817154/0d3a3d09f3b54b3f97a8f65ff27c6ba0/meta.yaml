@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0d3a3d09f3b54b3f97a8f65ff27c6ba0/artifacts
+end_time: 1740852246657
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0d3a3d09f3b54b3f97a8f65ff27c6ba0
+run_name: enchanting-snail-988
+run_uuid: 0d3a3d09f3b54b3f97a8f65ff27c6ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852246377
+status: 3
+tags: []
+user_id: felip

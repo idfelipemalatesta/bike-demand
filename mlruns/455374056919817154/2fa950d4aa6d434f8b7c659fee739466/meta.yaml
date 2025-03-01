@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2fa950d4aa6d434f8b7c659fee739466/artifacts
+end_time: 1740852158872
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2fa950d4aa6d434f8b7c659fee739466
+run_name: crawling-shrimp-420
+run_uuid: 2fa950d4aa6d434f8b7c659fee739466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852158637
+status: 3
+tags: []
+user_id: felip

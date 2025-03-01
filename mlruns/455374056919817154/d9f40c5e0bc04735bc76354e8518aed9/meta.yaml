@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d9f40c5e0bc04735bc76354e8518aed9/artifacts
+end_time: 1740852140102
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d9f40c5e0bc04735bc76354e8518aed9
+run_name: incongruous-jay-596
+run_uuid: d9f40c5e0bc04735bc76354e8518aed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852139902
+status: 3
+tags: []
+user_id: felip

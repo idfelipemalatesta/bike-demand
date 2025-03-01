@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9ca8374c11944894ab1ea5009aaa2f0c/artifacts
+deleted_time: 1740851957869
+end_time: 1740851775058
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9ca8374c11944894ab1ea5009aaa2f0c
+run_name: stylish-colt-983
+run_uuid: 9ca8374c11944894ab1ea5009aaa2f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851774788
+status: 3
+tags: []
+user_id: felip

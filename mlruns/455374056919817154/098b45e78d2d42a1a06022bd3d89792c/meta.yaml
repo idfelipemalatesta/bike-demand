@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/098b45e78d2d42a1a06022bd3d89792c/artifacts
+end_time: 1740862518368
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 098b45e78d2d42a1a06022bd3d89792c
+run_name: exultant-wasp-444
+run_uuid: 098b45e78d2d42a1a06022bd3d89792c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862488717
+status: 3
+tags: []
+user_id: felip

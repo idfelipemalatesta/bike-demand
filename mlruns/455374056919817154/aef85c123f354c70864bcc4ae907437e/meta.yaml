@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/aef85c123f354c70864bcc4ae907437e/artifacts
+deleted_time: 1740851992239
+end_time: 1740851855024
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: aef85c123f354c70864bcc4ae907437e
+run_name: agreeable-duck-208
+run_uuid: aef85c123f354c70864bcc4ae907437e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851854667
+status: 3
+tags: []
+user_id: felip

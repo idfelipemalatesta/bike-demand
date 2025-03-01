@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bc5f2b8d0be64f0c931e963750120448/artifacts
+deleted_time: 1740851958172
+end_time: 1740851763291
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: bc5f2b8d0be64f0c931e963750120448
+run_name: bright-horse-233
+run_uuid: bc5f2b8d0be64f0c931e963750120448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851763110
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/eae1aac3f7564953bceeeac5bb5f8c13/artifacts
+deleted_time: 1740851958218
+end_time: 1740851760656
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: eae1aac3f7564953bceeeac5bb5f8c13
+run_name: painted-croc-836
+run_uuid: eae1aac3f7564953bceeeac5bb5f8c13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851760446
+status: 3
+tags: []
+user_id: felip

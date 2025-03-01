@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/20dad91afa564ebb9c91e9ae441e5760/artifacts
+end_time: 1740857964808
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 20dad91afa564ebb9c91e9ae441e5760
+run_name: carefree-fish-803
+run_uuid: 20dad91afa564ebb9c91e9ae441e5760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857929550
+status: 3
+tags: []
+user_id: felip

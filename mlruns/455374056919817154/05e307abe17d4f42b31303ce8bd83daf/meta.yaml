@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/05e307abe17d4f42b31303ce8bd83daf/artifacts
+deleted_time: 1740851975350
+end_time: 1740851902041
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 05e307abe17d4f42b31303ce8bd83daf
+run_name: abundant-yak-577
+run_uuid: 05e307abe17d4f42b31303ce8bd83daf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851901716
+status: 3
+tags: []
+user_id: felip

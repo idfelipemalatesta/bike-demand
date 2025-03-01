@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a2b13ca0ce3e4bedb15822320a911268/artifacts
+end_time: 1740864100666
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a2b13ca0ce3e4bedb15822320a911268
+run_name: salty-cub-221
+run_uuid: a2b13ca0ce3e4bedb15822320a911268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864062632
+status: 3
+tags: []
+user_id: felip

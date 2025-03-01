@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/22dc9e2a1d1d491ba4d24e46a464c609/artifacts
+end_time: 1740858811421
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 22dc9e2a1d1d491ba4d24e46a464c609
+run_name: calm-gnu-581
+run_uuid: 22dc9e2a1d1d491ba4d24e46a464c609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858772952
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a09551af23504c0c9523dc3662f36334/artifacts
+deleted_time: 1740852013782
+end_time: 1740851809071
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a09551af23504c0c9523dc3662f36334
+run_name: polite-bat-356
+run_uuid: a09551af23504c0c9523dc3662f36334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851808837
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1a90d617076d455689a7606d2594a2ad/artifacts
+end_time: 1740859278052
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1a90d617076d455689a7606d2594a2ad
+run_name: righteous-hen-725
+run_uuid: 1a90d617076d455689a7606d2594a2ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740859244647
+status: 3
+tags: []
+user_id: felip

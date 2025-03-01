@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b566a9ff4a5b40e3bea8394e48013a5c/artifacts
+deleted_time: 1740852013433
+end_time: 1740851829106
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: b566a9ff4a5b40e3bea8394e48013a5c
+run_name: auspicious-stoat-600
+run_uuid: b566a9ff4a5b40e3bea8394e48013a5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851828882
+status: 3
+tags: []
+user_id: felip

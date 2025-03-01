@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/508e95bdd1e84d41b722a2f2af3bf04e/artifacts
+deleted_time: 1740851992337
+end_time: 1740851848009
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 508e95bdd1e84d41b722a2f2af3bf04e
+run_name: handsome-hawk-509
+run_uuid: 508e95bdd1e84d41b722a2f2af3bf04e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851847555
+status: 3
+tags: []
+user_id: felip

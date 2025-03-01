@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/db3b08906ece4fee94a2310144e24de4/artifacts
+end_time: 1740852124626
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: db3b08906ece4fee94a2310144e24de4
+run_name: glamorous-ram-321
+run_uuid: db3b08906ece4fee94a2310144e24de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852124421
+status: 3
+tags: []
+user_id: felip

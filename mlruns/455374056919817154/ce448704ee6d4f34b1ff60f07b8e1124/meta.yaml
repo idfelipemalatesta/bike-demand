@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ce448704ee6d4f34b1ff60f07b8e1124/artifacts
+end_time: 1740852288084
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ce448704ee6d4f34b1ff60f07b8e1124
+run_name: persistent-pig-165
+run_uuid: ce448704ee6d4f34b1ff60f07b8e1124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852287758
+status: 3
+tags: []
+user_id: felip

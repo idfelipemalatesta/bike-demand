@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/174b6cc3913740e2becd889629fb17cd/artifacts
+deleted_time: 1740854226945
+end_time: 1740852864728
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 174b6cc3913740e2becd889629fb17cd
+run_name: serious-vole-955
+run_uuid: 174b6cc3913740e2becd889629fb17cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852863262
+status: 3
+tags: []
+user_id: felip

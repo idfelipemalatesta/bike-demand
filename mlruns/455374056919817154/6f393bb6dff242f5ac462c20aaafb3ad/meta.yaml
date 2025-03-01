@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6f393bb6dff242f5ac462c20aaafb3ad/artifacts
+deleted_time: 1740852013865
+end_time: 1740851803075
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 6f393bb6dff242f5ac462c20aaafb3ad
+run_name: upbeat-gnat-85
+run_uuid: 6f393bb6dff242f5ac462c20aaafb3ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851802822
+status: 3
+tags: []
+user_id: felip

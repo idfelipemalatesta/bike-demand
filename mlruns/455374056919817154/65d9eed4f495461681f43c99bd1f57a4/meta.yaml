@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/65d9eed4f495461681f43c99bd1f57a4/artifacts
+deleted_time: 1740851958126
+end_time: 1740851766907
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 65d9eed4f495461681f43c99bd1f57a4
+run_name: unequaled-fawn-353
+run_uuid: 65d9eed4f495461681f43c99bd1f57a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851766715
+status: 3
+tags: []
+user_id: felip

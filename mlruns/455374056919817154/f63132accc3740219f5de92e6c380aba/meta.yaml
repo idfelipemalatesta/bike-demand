@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f63132accc3740219f5de92e6c380aba/artifacts
+end_time: 1740857398034
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f63132accc3740219f5de92e6c380aba
+run_name: fearless-moose-181
+run_uuid: f63132accc3740219f5de92e6c380aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857357354
+status: 3
+tags: []
+user_id: felip

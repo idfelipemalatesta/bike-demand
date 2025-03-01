@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/feff36e9b74b43e4a0fe68bd8a55b2e3/artifacts
+end_time: 1740861204665
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: feff36e9b74b43e4a0fe68bd8a55b2e3
+run_name: welcoming-wasp-103
+run_uuid: feff36e9b74b43e4a0fe68bd8a55b2e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740861173000
+status: 3
+tags: []
+user_id: felip

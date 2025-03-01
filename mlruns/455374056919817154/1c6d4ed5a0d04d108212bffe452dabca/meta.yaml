@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1c6d4ed5a0d04d108212bffe452dabca/artifacts
+end_time: 1740852168641
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1c6d4ed5a0d04d108212bffe452dabca
+run_name: glamorous-croc-79
+run_uuid: 1c6d4ed5a0d04d108212bffe452dabca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852168384
+status: 3
+tags: []
+user_id: felip

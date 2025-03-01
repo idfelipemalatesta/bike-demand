@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5e8acb49611e4d2480593a043cfef078/artifacts
+end_time: 1740852234522
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5e8acb49611e4d2480593a043cfef078
+run_name: polite-ox-351
+run_uuid: 5e8acb49611e4d2480593a043cfef078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852234197
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f5c3704ce0124bd69d6d35028f245235/artifacts
+deleted_time: 1740851975439
+end_time: 1740851895149
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f5c3704ce0124bd69d6d35028f245235
+run_name: legendary-colt-523
+run_uuid: f5c3704ce0124bd69d6d35028f245235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851894895
+status: 3
+tags: []
+user_id: felip

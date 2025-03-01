@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4a521cc14e29459998197cb424e06a9b/artifacts
+end_time: 1740857279302
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 4a521cc14e29459998197cb424e06a9b
+run_name: selective-seal-269
+run_uuid: 4a521cc14e29459998197cb424e06a9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857243607
+status: 3
+tags: []
+user_id: felip

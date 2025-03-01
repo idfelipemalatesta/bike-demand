@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cf39ee6e94554c3498e7f93a7783b324/artifacts
+end_time: 1740860534045
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: cf39ee6e94554c3498e7f93a7783b324
+run_name: sedate-wasp-275
+run_uuid: cf39ee6e94554c3498e7f93a7783b324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860503392
+status: 3
+tags: []
+user_id: felip

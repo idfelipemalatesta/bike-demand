@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/77c933564cb4433ea375b2e1f2570279/artifacts
+deleted_time: 1740852040168
+end_time: 1740851745569
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 77c933564cb4433ea375b2e1f2570279
+run_name: colorful-snail-945
+run_uuid: 77c933564cb4433ea375b2e1f2570279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851745374
+status: 3
+tags: []
+user_id: felip

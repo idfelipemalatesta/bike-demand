@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9f4637c9c03e41118963dc5732bcece5/artifacts
+end_time: 1740855786268
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 9f4637c9c03e41118963dc5732bcece5
+run_name: painted-turtle-485
+run_uuid: 9f4637c9c03e41118963dc5732bcece5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855758780
+status: 3
+tags: []
+user_id: felip

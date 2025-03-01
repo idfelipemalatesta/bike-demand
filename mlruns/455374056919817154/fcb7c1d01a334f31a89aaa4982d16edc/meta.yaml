@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fcb7c1d01a334f31a89aaa4982d16edc/artifacts
+deleted_time: 1740852039873
+end_time: 1740851794629
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: fcb7c1d01a334f31a89aaa4982d16edc
+run_name: caring-bass-616
+run_uuid: fcb7c1d01a334f31a89aaa4982d16edc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851794363
+status: 3
+tags: []
+user_id: felip

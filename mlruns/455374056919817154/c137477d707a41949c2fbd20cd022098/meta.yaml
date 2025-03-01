@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c137477d707a41949c2fbd20cd022098/artifacts
+end_time: 1740852115653
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c137477d707a41949c2fbd20cd022098
+run_name: monumental-shoat-747
+run_uuid: c137477d707a41949c2fbd20cd022098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852115508
+status: 3
+tags: []
+user_id: felip

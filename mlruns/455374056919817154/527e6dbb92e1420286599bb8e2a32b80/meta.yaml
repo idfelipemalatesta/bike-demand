@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/527e6dbb92e1420286599bb8e2a32b80/artifacts
+deleted_time: 1740852013890
+end_time: 1740851801451
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 527e6dbb92e1420286599bb8e2a32b80
+run_name: bustling-wolf-0
+run_uuid: 527e6dbb92e1420286599bb8e2a32b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851801201
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/885a365cf43a4b619ebf17267acd0c73/artifacts
+deleted_time: 1740852013484
+end_time: 1740851826424
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 885a365cf43a4b619ebf17267acd0c73
+run_name: tasteful-doe-792
+run_uuid: 885a365cf43a4b619ebf17267acd0c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851826204
+status: 3
+tags: []
+user_id: felip

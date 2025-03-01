@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f3c8095405184aa8b8e8350e45d8e912/artifacts
+end_time: 1740868362253
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f3c8095405184aa8b8e8350e45d8e912
+run_name: abundant-hawk-669
+run_uuid: f3c8095405184aa8b8e8350e45d8e912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868329209
+status: 3
+tags: []
+user_id: felip

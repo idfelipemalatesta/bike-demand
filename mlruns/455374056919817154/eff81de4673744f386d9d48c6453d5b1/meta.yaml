@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/eff81de4673744f386d9d48c6453d5b1/artifacts
+end_time: 1740852266451
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: eff81de4673744f386d9d48c6453d5b1
+run_name: placid-hog-678
+run_uuid: eff81de4673744f386d9d48c6453d5b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852266160
+status: 3
+tags: []
+user_id: felip

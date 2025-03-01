@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f8ba96cf5b264ecaa04258c579511c96/artifacts
+deleted_time: 1740851975642
+end_time: 1740851880573
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f8ba96cf5b264ecaa04258c579511c96
+run_name: lyrical-bass-735
+run_uuid: f8ba96cf5b264ecaa04258c579511c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851880324
+status: 3
+tags: []
+user_id: felip

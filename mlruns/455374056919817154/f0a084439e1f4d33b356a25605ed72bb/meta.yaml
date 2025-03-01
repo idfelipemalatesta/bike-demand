@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f0a084439e1f4d33b356a25605ed72bb/artifacts
+end_time: 1740852284681
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f0a084439e1f4d33b356a25605ed72bb
+run_name: luxuriant-newt-388
+run_uuid: f0a084439e1f4d33b356a25605ed72bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852284424
+status: 3
+tags: []
+user_id: felip

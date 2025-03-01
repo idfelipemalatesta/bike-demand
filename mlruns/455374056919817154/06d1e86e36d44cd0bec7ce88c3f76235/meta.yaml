@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/06d1e86e36d44cd0bec7ce88c3f76235/artifacts
+end_time: 1740854363229
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 06d1e86e36d44cd0bec7ce88c3f76235
+run_name: dapper-turtle-571
+run_uuid: 06d1e86e36d44cd0bec7ce88c3f76235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854362529
+status: 3
+tags: []
+user_id: felip

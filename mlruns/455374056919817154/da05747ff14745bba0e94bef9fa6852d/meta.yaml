@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/da05747ff14745bba0e94bef9fa6852d/artifacts
+deleted_time: 1740851992580
+end_time: 1740851834176
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: da05747ff14745bba0e94bef9fa6852d
+run_name: kindly-squid-136
+run_uuid: da05747ff14745bba0e94bef9fa6852d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851833958
+status: 3
+tags: []
+user_id: felip

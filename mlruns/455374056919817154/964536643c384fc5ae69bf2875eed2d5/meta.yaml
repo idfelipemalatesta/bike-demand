@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/964536643c384fc5ae69bf2875eed2d5/artifacts
+end_time: 1740867502185
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 964536643c384fc5ae69bf2875eed2d5
+run_name: welcoming-crab-295
+run_uuid: 964536643c384fc5ae69bf2875eed2d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867500605
+status: 3
+tags: []
+user_id: felip

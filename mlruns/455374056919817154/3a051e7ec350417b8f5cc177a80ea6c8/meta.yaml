@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3a051e7ec350417b8f5cc177a80ea6c8/artifacts
+deleted_time: 1740851958391
+end_time: 1740851751191
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3a051e7ec350417b8f5cc177a80ea6c8
+run_name: unruly-worm-97
+run_uuid: 3a051e7ec350417b8f5cc177a80ea6c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851750991
+status: 3
+tags: []
+user_id: felip

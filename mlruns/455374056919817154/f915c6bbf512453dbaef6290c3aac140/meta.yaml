@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f915c6bbf512453dbaef6290c3aac140/artifacts
+deleted_time: 1740851992129
+end_time: 1740851861158
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f915c6bbf512453dbaef6290c3aac140
+run_name: useful-whale-213
+run_uuid: f915c6bbf512453dbaef6290c3aac140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851860929
+status: 3
+tags: []
+user_id: felip

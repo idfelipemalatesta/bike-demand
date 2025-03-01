@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a660407663f4412997671f2bef13de9a/artifacts
+deleted_time: 1740852013720
+end_time: 1740851813493
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a660407663f4412997671f2bef13de9a
+run_name: flawless-horse-313
+run_uuid: a660407663f4412997671f2bef13de9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851813211
+status: 3
+tags: []
+user_id: felip

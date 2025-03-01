@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e3ffd83a2ea14172a7cc889c8399e6fc/artifacts
+end_time: 1740852139512
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e3ffd83a2ea14172a7cc889c8399e6fc
+run_name: stylish-ox-190
+run_uuid: e3ffd83a2ea14172a7cc889c8399e6fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852139314
+status: 3
+tags: []
+user_id: felip

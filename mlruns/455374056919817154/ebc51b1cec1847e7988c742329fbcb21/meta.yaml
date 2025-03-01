@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ebc51b1cec1847e7988c742329fbcb21/artifacts
+deleted_time: 1740851992488
+end_time: 1740851838206
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ebc51b1cec1847e7988c742329fbcb21
+run_name: languid-grouse-375
+run_uuid: ebc51b1cec1847e7988c742329fbcb21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851837751
+status: 3
+tags: []
+user_id: felip

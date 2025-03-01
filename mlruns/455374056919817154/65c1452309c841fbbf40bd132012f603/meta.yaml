@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/65c1452309c841fbbf40bd132012f603/artifacts
+end_time: 1740852206299
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 65c1452309c841fbbf40bd132012f603
+run_name: amusing-jay-701
+run_uuid: 65c1452309c841fbbf40bd132012f603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852206025
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a04bc8ad38794e549ff61fcb2e8e13c3/artifacts
+end_time: 1740852150780
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a04bc8ad38794e549ff61fcb2e8e13c3
+run_name: merciful-stoat-386
+run_uuid: a04bc8ad38794e549ff61fcb2e8e13c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852150410
+status: 3
+tags: []
+user_id: felip

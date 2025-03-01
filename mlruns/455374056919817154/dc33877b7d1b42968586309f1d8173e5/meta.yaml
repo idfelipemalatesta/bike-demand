@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/dc33877b7d1b42968586309f1d8173e5/artifacts
+end_time: 1740857748837
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: dc33877b7d1b42968586309f1d8173e5
+run_name: gaudy-fowl-346
+run_uuid: dc33877b7d1b42968586309f1d8173e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857712094
+status: 3
+tags: []
+user_id: felip

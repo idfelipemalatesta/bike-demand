@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7199be432e8148bbbfe9461135bb5c2a/artifacts
+end_time: 1740852227417
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7199be432e8148bbbfe9461135bb5c2a
+run_name: colorful-panda-709
+run_uuid: 7199be432e8148bbbfe9461135bb5c2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852227120
+status: 3
+tags: []
+user_id: felip

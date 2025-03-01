@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/966b5a7e6a5047e2b220b8902691b925/artifacts
+end_time: 1740852204468
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 966b5a7e6a5047e2b220b8902691b925
+run_name: fearless-horse-460
+run_uuid: 966b5a7e6a5047e2b220b8902691b925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852204215
+status: 3
+tags: []
+user_id: felip

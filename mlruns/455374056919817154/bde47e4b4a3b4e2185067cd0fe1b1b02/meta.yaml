@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bde47e4b4a3b4e2185067cd0fe1b1b02/artifacts
+end_time: 1740863283462
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: bde47e4b4a3b4e2185067cd0fe1b1b02
+run_name: smiling-lark-444
+run_uuid: bde47e4b4a3b4e2185067cd0fe1b1b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863251246
+status: 3
+tags: []
+user_id: felip

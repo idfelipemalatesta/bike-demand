@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/61c025db456347bfb9c3307b6876dd87/artifacts
+end_time: 1740854942444
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 61c025db456347bfb9c3307b6876dd87
+run_name: calm-rook-177
+run_uuid: 61c025db456347bfb9c3307b6876dd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854900077
+status: 3
+tags: []
+user_id: felip

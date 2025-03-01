@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5889d8e4f5434d7a9cae4f52a663508e/artifacts
+end_time: 1740856132706
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5889d8e4f5434d7a9cae4f52a663508e
+run_name: auspicious-slug-924
+run_uuid: 5889d8e4f5434d7a9cae4f52a663508e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740856096582
+status: 3
+tags: []
+user_id: felip

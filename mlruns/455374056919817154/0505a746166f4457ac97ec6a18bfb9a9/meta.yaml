@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0505a746166f4457ac97ec6a18bfb9a9/artifacts
+end_time: 1740862040814
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0505a746166f4457ac97ec6a18bfb9a9
+run_name: inquisitive-crow-332
+run_uuid: 0505a746166f4457ac97ec6a18bfb9a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862011045
+status: 3
+tags: []
+user_id: felip

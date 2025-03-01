@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/066f0a4bfa6b4d8c81aa27d1cca43d4e/artifacts
+end_time: 1740852198251
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 066f0a4bfa6b4d8c81aa27d1cca43d4e
+run_name: valuable-koi-134
+run_uuid: 066f0a4bfa6b4d8c81aa27d1cca43d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852198016
+status: 3
+tags: []
+user_id: felip

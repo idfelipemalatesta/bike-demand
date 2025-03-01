@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5becf8ea17374685bc48ea3d64542951/artifacts
+deleted_time: 1740852040032
+end_time: 1740851786542
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5becf8ea17374685bc48ea3d64542951
+run_name: upbeat-sow-373
+run_uuid: 5becf8ea17374685bc48ea3d64542951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851786305
+status: 3
+tags: []
+user_id: felip

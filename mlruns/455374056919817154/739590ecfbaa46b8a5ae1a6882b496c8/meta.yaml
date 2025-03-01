@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/739590ecfbaa46b8a5ae1a6882b496c8/artifacts
+end_time: 1740860503300
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 739590ecfbaa46b8a5ae1a6882b496c8
+run_name: rebellious-gull-92
+run_uuid: 739590ecfbaa46b8a5ae1a6882b496c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860462613
+status: 3
+tags: []
+user_id: felip

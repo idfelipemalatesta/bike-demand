@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1e3d8054243c468f87cf0ce6770facf7/artifacts
+end_time: 1740852266826
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1e3d8054243c468f87cf0ce6770facf7
+run_name: ambitious-ray-297
+run_uuid: 1e3d8054243c468f87cf0ce6770facf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852266554
+status: 3
+tags: []
+user_id: felip

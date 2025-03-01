@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/dc4966e2a1a44e8589febf39b5b851ec/artifacts
+end_time: 1740852196379
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: dc4966e2a1a44e8589febf39b5b851ec
+run_name: legendary-snail-884
+run_uuid: dc4966e2a1a44e8589febf39b5b851ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852196057
+status: 3
+tags: []
+user_id: felip

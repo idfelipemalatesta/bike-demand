@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/45395cec95ab4a0794e8e2c5ed83b2fc/artifacts
+deleted_time: 1740851957962
+end_time: 1740851773317
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 45395cec95ab4a0794e8e2c5ed83b2fc
+run_name: rebellious-auk-973
+run_uuid: 45395cec95ab4a0794e8e2c5ed83b2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851773057
+status: 3
+tags: []
+user_id: felip

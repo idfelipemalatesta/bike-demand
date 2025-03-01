@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f113703e007d41ac8222eb71a58366fe/artifacts
+end_time: 1740852220148
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f113703e007d41ac8222eb71a58366fe
+run_name: invincible-slug-332
+run_uuid: f113703e007d41ac8222eb71a58366fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852219964
+status: 3
+tags: []
+user_id: felip

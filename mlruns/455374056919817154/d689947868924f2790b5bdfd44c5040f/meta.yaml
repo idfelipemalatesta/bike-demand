@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d689947868924f2790b5bdfd44c5040f/artifacts
+deleted_time: 1740852039909
+end_time: 1740851793594
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d689947868924f2790b5bdfd44c5040f
+run_name: clean-squirrel-231
+run_uuid: d689947868924f2790b5bdfd44c5040f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851793380
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d345da01ed7643aebdd02025ec97a40a/artifacts
+deleted_time: 1740852040223
+end_time: 1740851742009
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d345da01ed7643aebdd02025ec97a40a
+run_name: placid-flea-913
+run_uuid: d345da01ed7643aebdd02025ec97a40a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851741812
+status: 3
+tags: []
+user_id: felip

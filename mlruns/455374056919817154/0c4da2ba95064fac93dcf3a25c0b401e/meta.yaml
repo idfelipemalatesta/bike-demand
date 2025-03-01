@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0c4da2ba95064fac93dcf3a25c0b401e/artifacts
+deleted_time: 1740852040228
+end_time: 1740851741707
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0c4da2ba95064fac93dcf3a25c0b401e
+run_name: rumbling-fish-838
+run_uuid: 0c4da2ba95064fac93dcf3a25c0b401e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851741518
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d3c969703cde4d15966cb73ac61655ab/artifacts
+end_time: 1740852251837
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d3c969703cde4d15966cb73ac61655ab
+run_name: skittish-moose-914
+run_uuid: d3c969703cde4d15966cb73ac61655ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852251542
+status: 3
+tags: []
+user_id: felip

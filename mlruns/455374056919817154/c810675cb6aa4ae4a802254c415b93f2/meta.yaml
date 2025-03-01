@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c810675cb6aa4ae4a802254c415b93f2/artifacts
+deleted_time: 1740852040132
+end_time: 1740851779912
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: c810675cb6aa4ae4a802254c415b93f2
+run_name: mercurial-bug-872
+run_uuid: c810675cb6aa4ae4a802254c415b93f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851779703
+status: 3
+tags: []
+user_id: felip

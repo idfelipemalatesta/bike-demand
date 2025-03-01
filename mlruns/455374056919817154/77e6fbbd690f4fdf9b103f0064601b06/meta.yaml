@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/77e6fbbd690f4fdf9b103f0064601b06/artifacts
+end_time: 1740868429853
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 77e6fbbd690f4fdf9b103f0064601b06
+run_name: abrasive-moose-923
+run_uuid: 77e6fbbd690f4fdf9b103f0064601b06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868395707
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fb6fae9615494efd92cc472e44d47de3/artifacts
+deleted_time: 1740851975489
+end_time: 1740851891771
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: fb6fae9615494efd92cc472e44d47de3
+run_name: mercurial-bear-953
+run_uuid: fb6fae9615494efd92cc472e44d47de3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851891522
+status: 3
+tags: []
+user_id: felip

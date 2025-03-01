@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0bf336baebef4d1487b56c75e806d191/artifacts
+deleted_time: 1740852013502
+end_time: 1740851825765
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0bf336baebef4d1487b56c75e806d191
+run_name: painted-kite-591
+run_uuid: 0bf336baebef4d1487b56c75e806d191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851825472
+status: 3
+tags: []
+user_id: felip

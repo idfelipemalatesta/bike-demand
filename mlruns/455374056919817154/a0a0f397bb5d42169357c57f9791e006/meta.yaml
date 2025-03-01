@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a0a0f397bb5d42169357c57f9791e006/artifacts
+deleted_time: 1740851992569
+end_time: 1740851833869
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a0a0f397bb5d42169357c57f9791e006
+run_name: rogue-gnu-949
+run_uuid: a0a0f397bb5d42169357c57f9791e006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851833649
+status: 3
+tags: []
+user_id: felip

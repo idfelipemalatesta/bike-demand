@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/34f445855c224c99856ce4d7601bd53c/artifacts
+end_time: 1740861715518
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 34f445855c224c99856ce4d7601bd53c
+run_name: carefree-perch-819
+run_uuid: 34f445855c224c99856ce4d7601bd53c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740861683981
+status: 3
+tags: []
+user_id: felip

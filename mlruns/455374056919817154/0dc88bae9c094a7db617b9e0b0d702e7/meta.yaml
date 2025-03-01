@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0dc88bae9c094a7db617b9e0b0d702e7/artifacts
+end_time: 1740868464069
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0dc88bae9c094a7db617b9e0b0d702e7
+run_name: bouncy-worm-277
+run_uuid: 0dc88bae9c094a7db617b9e0b0d702e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868430619
+status: 3
+tags: []
+user_id: felip

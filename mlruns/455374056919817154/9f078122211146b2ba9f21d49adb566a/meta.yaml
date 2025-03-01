@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9f078122211146b2ba9f21d49adb566a/artifacts
+deleted_time: 1740851992291
+end_time: 1740851851564
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9f078122211146b2ba9f21d49adb566a
+run_name: exultant-roo-887
+run_uuid: 9f078122211146b2ba9f21d49adb566a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851851332
+status: 3
+tags: []
+user_id: felip

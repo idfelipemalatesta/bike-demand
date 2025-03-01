@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8e41b0856a7a41469a62dd69a9722686/artifacts
+end_time: 1740852115135
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8e41b0856a7a41469a62dd69a9722686
+run_name: respected-lark-998
+run_uuid: 8e41b0856a7a41469a62dd69a9722686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852114949
+status: 3
+tags: []
+user_id: felip

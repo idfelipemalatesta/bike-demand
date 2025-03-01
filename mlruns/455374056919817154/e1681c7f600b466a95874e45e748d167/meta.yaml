@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e1681c7f600b466a95874e45e748d167/artifacts
+end_time: 1740863963031
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e1681c7f600b466a95874e45e748d167
+run_name: bemused-bear-773
+run_uuid: e1681c7f600b466a95874e45e748d167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863925831
+status: 3
+tags: []
+user_id: felip

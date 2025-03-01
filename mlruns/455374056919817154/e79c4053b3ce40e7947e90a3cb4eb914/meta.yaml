@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e79c4053b3ce40e7947e90a3cb4eb914/artifacts
+end_time: 1740852170860
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e79c4053b3ce40e7947e90a3cb4eb914
+run_name: lyrical-carp-190
+run_uuid: e79c4053b3ce40e7947e90a3cb4eb914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852170586
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/66a477bfe8b84ac2b0668e36849bdd52/artifacts
+end_time: 1740852144442
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 66a477bfe8b84ac2b0668e36849bdd52
+run_name: unruly-hog-343
+run_uuid: 66a477bfe8b84ac2b0668e36849bdd52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852144200
+status: 3
+tags: []
+user_id: felip

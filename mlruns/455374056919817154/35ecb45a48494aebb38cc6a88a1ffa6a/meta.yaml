@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/35ecb45a48494aebb38cc6a88a1ffa6a/artifacts
+end_time: 1740862776612
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 35ecb45a48494aebb38cc6a88a1ffa6a
+run_name: silent-steed-139
+run_uuid: 35ecb45a48494aebb38cc6a88a1ffa6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862744000
+status: 3
+tags: []
+user_id: felip

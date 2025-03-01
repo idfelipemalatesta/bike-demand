@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/15eb79b679024a55a42173b2e734ad34/artifacts
+deleted_time: 1740851992266
+end_time: 1740851852950
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 15eb79b679024a55a42173b2e734ad34
+run_name: defiant-smelt-418
+run_uuid: 15eb79b679024a55a42173b2e734ad34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851852714
+status: 3
+tags: []
+user_id: felip

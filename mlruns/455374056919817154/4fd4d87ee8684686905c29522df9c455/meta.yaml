@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4fd4d87ee8684686905c29522df9c455/artifacts
+end_time: 1740865178450
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 4fd4d87ee8684686905c29522df9c455
+run_name: bedecked-goat-547
+run_uuid: 4fd4d87ee8684686905c29522df9c455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865145750
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1c6350709e684a10ac07e774e9bb21e7/artifacts
+end_time: 1740862135484
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1c6350709e684a10ac07e774e9bb21e7
+run_name: adventurous-fawn-711
+run_uuid: 1c6350709e684a10ac07e774e9bb21e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862134982
+status: 3
+tags: []
+user_id: felip

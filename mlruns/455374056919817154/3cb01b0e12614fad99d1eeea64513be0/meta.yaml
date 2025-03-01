@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3cb01b0e12614fad99d1eeea64513be0/artifacts
+end_time: 1740862168349
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 3cb01b0e12614fad99d1eeea64513be0
+run_name: incongruous-eel-895
+run_uuid: 3cb01b0e12614fad99d1eeea64513be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862136464
+status: 3
+tags: []
+user_id: felip

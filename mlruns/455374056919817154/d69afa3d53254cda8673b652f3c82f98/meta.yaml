@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d69afa3d53254cda8673b652f3c82f98/artifacts
+deleted_time: 1740851957852
+end_time: 1740851775358
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d69afa3d53254cda8673b652f3c82f98
+run_name: omniscient-squid-383
+run_uuid: d69afa3d53254cda8673b652f3c82f98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851775157
+status: 3
+tags: []
+user_id: felip

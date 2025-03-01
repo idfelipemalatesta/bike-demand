@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c083a07f322d4752bbd8cea2f74a43e3/artifacts
+end_time: 1740866321568
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c083a07f322d4752bbd8cea2f74a43e3
+run_name: hilarious-owl-315
+run_uuid: c083a07f322d4752bbd8cea2f74a43e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866289351
+status: 3
+tags: []
+user_id: felip

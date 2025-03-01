@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2147ea54a5404c6cb03249767150c1ee/artifacts
+end_time: 1740852220516
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2147ea54a5404c6cb03249767150c1ee
+run_name: rogue-wolf-912
+run_uuid: 2147ea54a5404c6cb03249767150c1ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852220241
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ff020e31a1d2420c9ebee7a7e3d89e7d/artifacts
+deleted_time: 1740852040019
+end_time: 1740851787136
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ff020e31a1d2420c9ebee7a7e3d89e7d
+run_name: magnificent-tern-21
+run_uuid: ff020e31a1d2420c9ebee7a7e3d89e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851786961
+status: 3
+tags: []
+user_id: felip

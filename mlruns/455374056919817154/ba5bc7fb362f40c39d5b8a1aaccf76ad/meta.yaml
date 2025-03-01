@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ba5bc7fb362f40c39d5b8a1aaccf76ad/artifacts
+end_time: 1740852162048
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ba5bc7fb362f40c39d5b8a1aaccf76ad
+run_name: carefree-snail-386
+run_uuid: ba5bc7fb362f40c39d5b8a1aaccf76ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852161693
+status: 3
+tags: []
+user_id: felip

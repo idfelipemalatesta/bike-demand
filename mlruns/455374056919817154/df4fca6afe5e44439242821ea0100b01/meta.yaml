@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/df4fca6afe5e44439242821ea0100b01/artifacts
+end_time: 1740863348181
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: df4fca6afe5e44439242821ea0100b01
+run_name: amazing-auk-946
+run_uuid: df4fca6afe5e44439242821ea0100b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863315966
+status: 3
+tags: []
+user_id: felip

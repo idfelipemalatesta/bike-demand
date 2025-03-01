@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2c9417e4e9224743822da53398860224/artifacts
+end_time: 1740852255510
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2c9417e4e9224743822da53398860224
+run_name: calm-ram-413
+run_uuid: 2c9417e4e9224743822da53398860224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852255222
+status: 3
+tags: []
+user_id: felip

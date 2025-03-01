@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a0036cfd254c47569599bc4b7eac69ea/artifacts
+end_time: 1740852159200
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a0036cfd254c47569599bc4b7eac69ea
+run_name: unruly-fish-563
+run_uuid: a0036cfd254c47569599bc4b7eac69ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852158962
+status: 3
+tags: []
+user_id: felip

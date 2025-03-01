@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/846a0378627f4a2ca8dd4b9820c44003/artifacts
+end_time: 1740864626866
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 846a0378627f4a2ca8dd4b9820c44003
+run_name: mercurial-elk-734
+run_uuid: 846a0378627f4a2ca8dd4b9820c44003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864594933
+status: 3
+tags: []
+user_id: felip

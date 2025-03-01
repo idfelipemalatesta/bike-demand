@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/77cb620ffaaa4a3c982f23e034a5271e/artifacts
+deleted_time: 1740851958341
+end_time: 1740851753720
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 77cb620ffaaa4a3c982f23e034a5271e
+run_name: hilarious-cod-445
+run_uuid: 77cb620ffaaa4a3c982f23e034a5271e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851753506
+status: 3
+tags: []
+user_id: felip

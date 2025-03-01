@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9de8bcd0de514b30867d0eb5bdef25fb/artifacts
+deleted_time: 1740852013709
+end_time: 1740851814125
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9de8bcd0de514b30867d0eb5bdef25fb
+run_name: unleashed-penguin-39
+run_uuid: 9de8bcd0de514b30867d0eb5bdef25fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851813893
+status: 3
+tags: []
+user_id: felip

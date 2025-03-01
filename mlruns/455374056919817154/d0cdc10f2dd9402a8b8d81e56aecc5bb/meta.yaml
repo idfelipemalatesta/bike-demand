@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d0cdc10f2dd9402a8b8d81e56aecc5bb/artifacts
+end_time: 1740867826469
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d0cdc10f2dd9402a8b8d81e56aecc5bb
+run_name: caring-wren-748
+run_uuid: d0cdc10f2dd9402a8b8d81e56aecc5bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867794069
+status: 3
+tags: []
+user_id: felip

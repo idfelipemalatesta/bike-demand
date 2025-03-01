@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d52f3cf91bdc42f788f671e3469fe348/artifacts
+end_time: 1740852208676
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d52f3cf91bdc42f788f671e3469fe348
+run_name: serious-yak-131
+run_uuid: d52f3cf91bdc42f788f671e3469fe348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852208419
+status: 3
+tags: []
+user_id: felip

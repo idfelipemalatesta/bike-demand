@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3acdd9f9cf2a43fb88959fbd45cad746/artifacts
+end_time: 1740865868150
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 3acdd9f9cf2a43fb88959fbd45cad746
+run_name: bustling-goat-8
+run_uuid: 3acdd9f9cf2a43fb88959fbd45cad746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865835332
+status: 3
+tags: []
+user_id: felip

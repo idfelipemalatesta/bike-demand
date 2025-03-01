@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/65c3ac0630a64381bbf11f83128364f1/artifacts
+end_time: 1740852125835
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 65c3ac0630a64381bbf11f83128364f1
+run_name: stately-stoat-562
+run_uuid: 65c3ac0630a64381bbf11f83128364f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852125635
+status: 3
+tags: []
+user_id: felip

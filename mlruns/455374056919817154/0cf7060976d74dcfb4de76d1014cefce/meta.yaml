@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0cf7060976d74dcfb4de76d1014cefce/artifacts
+deleted_time: 1740851992248
+end_time: 1740851853621
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0cf7060976d74dcfb4de76d1014cefce
+run_name: welcoming-skunk-534
+run_uuid: 0cf7060976d74dcfb4de76d1014cefce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851853445
+status: 3
+tags: []
+user_id: felip

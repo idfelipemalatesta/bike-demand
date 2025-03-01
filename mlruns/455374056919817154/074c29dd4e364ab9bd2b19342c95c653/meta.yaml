@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/074c29dd4e364ab9bd2b19342c95c653/artifacts
+deleted_time: 1740851992053
+end_time: 1740851865209
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 074c29dd4e364ab9bd2b19342c95c653
+run_name: loud-doe-39
+run_uuid: 074c29dd4e364ab9bd2b19342c95c653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851864988
+status: 3
+tags: []
+user_id: felip

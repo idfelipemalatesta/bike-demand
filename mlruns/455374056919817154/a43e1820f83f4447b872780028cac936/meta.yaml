@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a43e1820f83f4447b872780028cac936/artifacts
+deleted_time: 1740851975699
+end_time: 1740851876889
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a43e1820f83f4447b872780028cac936
+run_name: stately-quail-343
+run_uuid: a43e1820f83f4447b872780028cac936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851876648
+status: 3
+tags: []
+user_id: felip

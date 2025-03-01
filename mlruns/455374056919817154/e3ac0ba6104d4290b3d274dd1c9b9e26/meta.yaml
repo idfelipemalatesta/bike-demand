@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e3ac0ba6104d4290b3d274dd1c9b9e26/artifacts
+end_time: 1740852213453
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e3ac0ba6104d4290b3d274dd1c9b9e26
+run_name: learned-pig-233
+run_uuid: e3ac0ba6104d4290b3d274dd1c9b9e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852213211
+status: 3
+tags: []
+user_id: felip

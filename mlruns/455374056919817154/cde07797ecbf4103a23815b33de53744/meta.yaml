@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cde07797ecbf4103a23815b33de53744/artifacts
+end_time: 1740852148623
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: cde07797ecbf4103a23815b33de53744
+run_name: skillful-sloth-776
+run_uuid: cde07797ecbf4103a23815b33de53744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852148374
+status: 3
+tags: []
+user_id: felip

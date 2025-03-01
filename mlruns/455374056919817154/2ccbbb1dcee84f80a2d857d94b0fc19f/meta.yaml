@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2ccbbb1dcee84f80a2d857d94b0fc19f/artifacts
+deleted_time: 1740852013936
+end_time: 1740851798165
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 2ccbbb1dcee84f80a2d857d94b0fc19f
+run_name: omniscient-hound-236
+run_uuid: 2ccbbb1dcee84f80a2d857d94b0fc19f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851797933
+status: 3
+tags: []
+user_id: felip

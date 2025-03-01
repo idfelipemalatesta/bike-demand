@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f12f7d6775364430a91a4203fd9d219f/artifacts
+deleted_time: 1740851975592
+end_time: 1740851883896
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f12f7d6775364430a91a4203fd9d219f
+run_name: enchanting-smelt-503
+run_uuid: f12f7d6775364430a91a4203fd9d219f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851883381
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5cfc161339784700afba31d241489b2c/artifacts
+end_time: 1740852114351
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5cfc161339784700afba31d241489b2c
+run_name: youthful-crane-774
+run_uuid: 5cfc161339784700afba31d241489b2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852114173
+status: 3
+tags: []
+user_id: felip

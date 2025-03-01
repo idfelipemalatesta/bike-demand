@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e2d7d697db4540a480db1cd8b892b62a/artifacts
+deleted_time: 1740852013531
+end_time: 1740851823566
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: e2d7d697db4540a480db1cd8b892b62a
+run_name: rogue-pug-543
+run_uuid: e2d7d697db4540a480db1cd8b892b62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851823312
+status: 3
+tags: []
+user_id: felip

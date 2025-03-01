@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/caa4316812c24a6f99d16d4fea7ab582/artifacts
+deleted_time: 1740851958232
+end_time: 1740851760119
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: caa4316812c24a6f99d16d4fea7ab582
+run_name: mysterious-wolf-716
+run_uuid: caa4316812c24a6f99d16d4fea7ab582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851759912
+status: 3
+tags: []
+user_id: felip

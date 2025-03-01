@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e53d829fe8d640f1b809cdcdd0be98f3/artifacts
+deleted_time: 1740852013821
+end_time: 1740851805971
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: e53d829fe8d640f1b809cdcdd0be98f3
+run_name: bright-ox-868
+run_uuid: e53d829fe8d640f1b809cdcdd0be98f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851805752
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/166ee397326542088fd4f8daa7e91450/artifacts
+end_time: 1740852156785
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 166ee397326542088fd4f8daa7e91450
+run_name: shivering-squid-706
+run_uuid: 166ee397326542088fd4f8daa7e91450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852156504
+status: 3
+tags: []
+user_id: felip

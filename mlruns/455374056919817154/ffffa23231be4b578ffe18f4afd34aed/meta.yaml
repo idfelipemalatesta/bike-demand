@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ffffa23231be4b578ffe18f4afd34aed/artifacts
+end_time: 1740855372965
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ffffa23231be4b578ffe18f4afd34aed
+run_name: shivering-rat-806
+run_uuid: ffffa23231be4b578ffe18f4afd34aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855342114
+status: 3
+tags: []
+user_id: felip

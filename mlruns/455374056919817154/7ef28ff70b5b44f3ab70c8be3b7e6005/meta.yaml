@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7ef28ff70b5b44f3ab70c8be3b7e6005/artifacts
+end_time: 1740852149969
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7ef28ff70b5b44f3ab70c8be3b7e6005
+run_name: abrasive-dove-61
+run_uuid: 7ef28ff70b5b44f3ab70c8be3b7e6005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852149732
+status: 3
+tags: []
+user_id: felip

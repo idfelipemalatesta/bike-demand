@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ae1648171d834f578036ec6092357d44/artifacts
+end_time: 1740866222654
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ae1648171d834f578036ec6092357d44
+run_name: glamorous-asp-416
+run_uuid: ae1648171d834f578036ec6092357d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866221651
+status: 3
+tags: []
+user_id: felip

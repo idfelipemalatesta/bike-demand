@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/753e024c92d24b75b7cd725450c7bb00/artifacts
+end_time: 1740852249934
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 753e024c92d24b75b7cd725450c7bb00
+run_name: caring-hog-173
+run_uuid: 753e024c92d24b75b7cd725450c7bb00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852249654
+status: 3
+tags: []
+user_id: felip

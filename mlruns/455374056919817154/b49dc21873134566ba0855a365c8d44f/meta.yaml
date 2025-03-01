@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b49dc21873134566ba0855a365c8d44f/artifacts
+end_time: 1740863475183
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b49dc21873134566ba0855a365c8d44f
+run_name: victorious-slug-512
+run_uuid: b49dc21873134566ba0855a365c8d44f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863474384
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/26ce0df509c642ddb64d34e99c2fc70c/artifacts
+end_time: 1740852182302
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 26ce0df509c642ddb64d34e99c2fc70c
+run_name: tasteful-perch-86
+run_uuid: 26ce0df509c642ddb64d34e99c2fc70c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852181949
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/edae53ad5a514f5689ec2f38749f9820/artifacts
+end_time: 1740865112483
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: edae53ad5a514f5689ec2f38749f9820
+run_name: carefree-donkey-980
+run_uuid: edae53ad5a514f5689ec2f38749f9820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865080000
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/22f36dd0d3b64f2e83bfa2c178d97c65/artifacts
+end_time: 1740864820017
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 22f36dd0d3b64f2e83bfa2c178d97c65
+run_name: fortunate-perch-41
+run_uuid: 22f36dd0d3b64f2e83bfa2c178d97c65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864788017
+status: 3
+tags: []
+user_id: felip

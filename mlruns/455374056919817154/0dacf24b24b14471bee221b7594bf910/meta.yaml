@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0dacf24b24b14471bee221b7594bf910/artifacts
+deleted_time: 1740851958423
+end_time: 1740851749334
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0dacf24b24b14471bee221b7594bf910
+run_name: polite-shad-341
+run_uuid: 0dacf24b24b14471bee221b7594bf910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851749129
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1059c452d1bc426db44f414a9c51c1a4/artifacts
+deleted_time: 1740852013706
+end_time: 1740851814441
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 1059c452d1bc426db44f414a9c51c1a4
+run_name: bald-trout-257
+run_uuid: 1059c452d1bc426db44f414a9c51c1a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851814219
+status: 3
+tags: []
+user_id: felip

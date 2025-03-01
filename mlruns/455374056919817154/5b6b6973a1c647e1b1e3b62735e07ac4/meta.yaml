@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5b6b6973a1c647e1b1e3b62735e07ac4/artifacts
+deleted_time: 1740852013886
+end_time: 1740851802052
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5b6b6973a1c647e1b1e3b62735e07ac4
+run_name: bold-donkey-589
+run_uuid: 5b6b6973a1c647e1b1e3b62735e07ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851801904
+status: 3
+tags: []
+user_id: felip

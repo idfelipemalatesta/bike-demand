@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5644cfb9be5e4bc3aca5cb81f985d936/artifacts
+end_time: 1740852237021
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5644cfb9be5e4bc3aca5cb81f985d936
+run_name: charming-stoat-244
+run_uuid: 5644cfb9be5e4bc3aca5cb81f985d936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852236839
+status: 3
+tags: []
+user_id: felip

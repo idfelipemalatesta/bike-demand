@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8b35c555964640958165f6bfb01bed4d/artifacts
+end_time: 1740867240452
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8b35c555964640958165f6bfb01bed4d
+run_name: indecisive-gnat-458
+run_uuid: 8b35c555964640958165f6bfb01bed4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867213387
+status: 3
+tags: []
+user_id: felip

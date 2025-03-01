@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6a4fe55ae9ce411aa82c42aa2ef2e59f/artifacts
+end_time: 1740860267632
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 6a4fe55ae9ce411aa82c42aa2ef2e59f
+run_name: delicate-wren-855
+run_uuid: 6a4fe55ae9ce411aa82c42aa2ef2e59f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860267044
+status: 3
+tags: []
+user_id: felip

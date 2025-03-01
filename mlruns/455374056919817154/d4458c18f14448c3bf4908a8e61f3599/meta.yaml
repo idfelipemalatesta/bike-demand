@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d4458c18f14448c3bf4908a8e61f3599/artifacts
+end_time: 1740852194094
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d4458c18f14448c3bf4908a8e61f3599
+run_name: stately-auk-970
+run_uuid: d4458c18f14448c3bf4908a8e61f3599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852193832
+status: 3
+tags: []
+user_id: felip

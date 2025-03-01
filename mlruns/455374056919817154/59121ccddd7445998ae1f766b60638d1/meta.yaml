@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/59121ccddd7445998ae1f766b60638d1/artifacts
+end_time: 1740852270791
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 59121ccddd7445998ae1f766b60638d1
+run_name: funny-grouse-154
+run_uuid: 59121ccddd7445998ae1f766b60638d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852270470
+status: 3
+tags: []
+user_id: felip

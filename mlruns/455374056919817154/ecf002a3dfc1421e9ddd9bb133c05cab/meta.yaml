@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ecf002a3dfc1421e9ddd9bb133c05cab/artifacts
+end_time: 1740852133815
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ecf002a3dfc1421e9ddd9bb133c05cab
+run_name: puzzled-yak-916
+run_uuid: ecf002a3dfc1421e9ddd9bb133c05cab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852133636
+status: 3
+tags: []
+user_id: felip

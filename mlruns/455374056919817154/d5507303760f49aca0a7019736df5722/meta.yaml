@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d5507303760f49aca0a7019736df5722/artifacts
+deleted_time: 1740851992212
+end_time: 1740851856223
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d5507303760f49aca0a7019736df5722
+run_name: thundering-roo-120
+run_uuid: d5507303760f49aca0a7019736df5722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851855936
+status: 3
+tags: []
+user_id: felip

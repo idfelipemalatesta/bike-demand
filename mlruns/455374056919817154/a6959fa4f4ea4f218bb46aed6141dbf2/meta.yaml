@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a6959fa4f4ea4f218bb46aed6141dbf2/artifacts
+deleted_time: 1740851975733
+end_time: 1740851874319
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a6959fa4f4ea4f218bb46aed6141dbf2
+run_name: crawling-rook-478
+run_uuid: a6959fa4f4ea4f218bb46aed6141dbf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851874078
+status: 3
+tags: []
+user_id: felip

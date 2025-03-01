@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2eba8d3e681c4c20b0dbd2fce400f267/artifacts
+deleted_time: 1740851992404
+end_time: 1740851844009
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 2eba8d3e681c4c20b0dbd2fce400f267
+run_name: gifted-chimp-406
+run_uuid: 2eba8d3e681c4c20b0dbd2fce400f267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851843779
+status: 3
+tags: []
+user_id: felip

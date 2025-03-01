@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4e4b92ef249b477690f282547600b418/artifacts
+end_time: 1740852156072
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 4e4b92ef249b477690f282547600b418
+run_name: kindly-fawn-113
+run_uuid: 4e4b92ef249b477690f282547600b418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852155843
+status: 3
+tags: []
+user_id: felip

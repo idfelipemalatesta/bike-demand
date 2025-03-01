@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ba70d2737fbb45db8e8feed20cde3f72/artifacts
+end_time: 1740868802753
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ba70d2737fbb45db8e8feed20cde3f72
+run_name: 500trails_500num_boost
+run_uuid: ba70d2737fbb45db8e8feed20cde3f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854323063
+status: 3
+tags: []
+user_id: felip

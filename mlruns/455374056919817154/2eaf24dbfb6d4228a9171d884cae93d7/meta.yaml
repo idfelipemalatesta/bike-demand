@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2eaf24dbfb6d4228a9171d884cae93d7/artifacts
+end_time: 1740854860114
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2eaf24dbfb6d4228a9171d884cae93d7
+run_name: serious-jay-203
+run_uuid: 2eaf24dbfb6d4228a9171d884cae93d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854859226
+status: 3
+tags: []
+user_id: felip

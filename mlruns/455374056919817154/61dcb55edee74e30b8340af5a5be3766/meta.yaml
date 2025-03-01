@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/61dcb55edee74e30b8340af5a5be3766/artifacts
+end_time: 1740863748733
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 61dcb55edee74e30b8340af5a5be3766
+run_name: clumsy-mole-396
+run_uuid: 61dcb55edee74e30b8340af5a5be3766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863712450
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/570eba0a51d3428d97d76ca8103eb43d/artifacts
+end_time: 1740856464628
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 570eba0a51d3428d97d76ca8103eb43d
+run_name: gifted-hog-806
+run_uuid: 570eba0a51d3428d97d76ca8103eb43d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740856431246
+status: 3
+tags: []
+user_id: felip

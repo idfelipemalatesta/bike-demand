@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/22076ad0ff3744d5acf0152b2ad3dfd9/artifacts
+end_time: 1740852223171
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 22076ad0ff3744d5acf0152b2ad3dfd9
+run_name: traveling-crow-797
+run_uuid: 22076ad0ff3744d5acf0152b2ad3dfd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852222907
+status: 3
+tags: []
+user_id: felip

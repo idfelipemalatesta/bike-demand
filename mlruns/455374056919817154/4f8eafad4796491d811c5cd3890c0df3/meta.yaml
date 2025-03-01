@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4f8eafad4796491d811c5cd3890c0df3/artifacts
+end_time: 1740866850585
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 4f8eafad4796491d811c5cd3890c0df3
+run_name: clean-panda-577
+run_uuid: 4f8eafad4796491d811c5cd3890c0df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866849802
+status: 3
+tags: []
+user_id: felip

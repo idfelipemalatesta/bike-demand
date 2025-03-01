@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9dbe2dc1c6ef46dda62739a26d273a2b/artifacts
+deleted_time: 1740852039904
+end_time: 1740851793919
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9dbe2dc1c6ef46dda62739a26d273a2b
+run_name: painted-kit-648
+run_uuid: 9dbe2dc1c6ef46dda62739a26d273a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851793692
+status: 3
+tags: []
+user_id: felip

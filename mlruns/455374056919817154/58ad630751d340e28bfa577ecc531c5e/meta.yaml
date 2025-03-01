@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/58ad630751d340e28bfa577ecc531c5e/artifacts
+deleted_time: 1740851992118
+end_time: 1740851861791
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 58ad630751d340e28bfa577ecc531c5e
+run_name: redolent-cat-493
+run_uuid: 58ad630751d340e28bfa577ecc531c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851861556
+status: 3
+tags: []
+user_id: felip

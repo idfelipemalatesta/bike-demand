@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5f055b6255ce4fb7acf83273a4b673fe/artifacts
+deleted_time: 1740851957815
+end_time: 1740851777290
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5f055b6255ce4fb7acf83273a4b673fe
+run_name: agreeable-swan-228
+run_uuid: 5f055b6255ce4fb7acf83273a4b673fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851776904
+status: 3
+tags: []
+user_id: felip

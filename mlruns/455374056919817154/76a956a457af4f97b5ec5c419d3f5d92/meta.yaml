@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/76a956a457af4f97b5ec5c419d3f5d92/artifacts
+deleted_time: 1740851975540
+end_time: 1740851888449
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 76a956a457af4f97b5ec5c419d3f5d92
+run_name: victorious-worm-309
+run_uuid: 76a956a457af4f97b5ec5c419d3f5d92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851888225
+status: 3
+tags: []
+user_id: felip

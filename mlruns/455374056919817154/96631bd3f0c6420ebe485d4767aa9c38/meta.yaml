@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/96631bd3f0c6420ebe485d4767aa9c38/artifacts
+deleted_time: 1740851958277
+end_time: 1740851757288
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 96631bd3f0c6420ebe485d4767aa9c38
+run_name: casual-stag-250
+run_uuid: 96631bd3f0c6420ebe485d4767aa9c38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851757090
+status: 3
+tags: []
+user_id: felip

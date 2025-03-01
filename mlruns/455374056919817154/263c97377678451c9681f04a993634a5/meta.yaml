@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/263c97377678451c9681f04a993634a5/artifacts
+end_time: 1740852266056
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 263c97377678451c9681f04a993634a5
+run_name: thoughtful-gnu-220
+run_uuid: 263c97377678451c9681f04a993634a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852265669
+status: 3
+tags: []
+user_id: felip

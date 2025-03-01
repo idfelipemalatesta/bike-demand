@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a4f3d034757a45c989af990a87dbcecb/artifacts
+end_time: 1740852239154
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a4f3d034757a45c989af990a87dbcecb
+run_name: stylish-fowl-642
+run_uuid: a4f3d034757a45c989af990a87dbcecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852238908
+status: 3
+tags: []
+user_id: felip

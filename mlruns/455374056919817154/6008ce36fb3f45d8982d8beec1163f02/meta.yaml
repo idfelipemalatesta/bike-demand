@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6008ce36fb3f45d8982d8beec1163f02/artifacts
+end_time: 1740861585482
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 6008ce36fb3f45d8982d8beec1163f02
+run_name: shivering-sponge-157
+run_uuid: 6008ce36fb3f45d8982d8beec1163f02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740861554098
+status: 3
+tags: []
+user_id: felip

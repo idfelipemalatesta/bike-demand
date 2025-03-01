@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ef55bea479e2459baa0e44ec42f651ff/artifacts
+deleted_time: 1740851992158
+end_time: 1740851859516
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ef55bea479e2459baa0e44ec42f651ff
+run_name: classy-pig-128
+run_uuid: ef55bea479e2459baa0e44ec42f651ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851859275
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a02e84a2be2745a883a7e4bd6c17affc/artifacts
+deleted_time: 1740852040378
+end_time: 1740851734588
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a02e84a2be2745a883a7e4bd6c17affc
+run_name: honorable-owl-557
+run_uuid: a02e84a2be2745a883a7e4bd6c17affc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851734458
+status: 3
+tags: []
+user_id: felip

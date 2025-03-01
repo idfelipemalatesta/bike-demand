@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6f10c56c01674134adf6c756aa937758/artifacts
+end_time: 1740852171823
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 6f10c56c01674134adf6c756aa937758
+run_name: stylish-mink-410
+run_uuid: 6f10c56c01674134adf6c756aa937758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852171654
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/66ab6480ddb74f72a4adfb49b7286329/artifacts
+end_time: 1740866157005
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 66ab6480ddb74f72a4adfb49b7286329
+run_name: marvelous-rat-151
+run_uuid: 66ab6480ddb74f72a4adfb49b7286329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866124784
+status: 3
+tags: []
+user_id: felip

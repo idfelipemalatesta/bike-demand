@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d0fd7baef733487ab7973abdf34fbd2d/artifacts
+deleted_time: 1740852013865
+end_time: 1740851803706
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d0fd7baef733487ab7973abdf34fbd2d
+run_name: loud-sponge-597
+run_uuid: d0fd7baef733487ab7973abdf34fbd2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851803474
+status: 3
+tags: []
+user_id: felip

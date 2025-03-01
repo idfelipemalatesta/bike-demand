@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/39f05fbd0beb4e7bae59aabee6382720/artifacts
+deleted_time: 1740851975559
+end_time: 1740851887048
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 39f05fbd0beb4e7bae59aabee6382720
+run_name: welcoming-snail-645
+run_uuid: 39f05fbd0beb4e7bae59aabee6382720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851886756
+status: 3
+tags: []
+user_id: felip

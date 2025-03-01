@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d98cdd38d26a4fd2a098d141e97aeda8/artifacts
+deleted_time: 1740852013605
+end_time: 1740851819559
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d98cdd38d26a4fd2a098d141e97aeda8
+run_name: capable-grouse-207
+run_uuid: d98cdd38d26a4fd2a098d141e97aeda8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851819359
+status: 3
+tags: []
+user_id: felip

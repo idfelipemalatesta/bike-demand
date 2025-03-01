@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0292c54d38ba414da89a5b79f3094877/artifacts
+end_time: 1740852273700
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0292c54d38ba414da89a5b79f3094877
+run_name: sneaky-moth-547
+run_uuid: 0292c54d38ba414da89a5b79f3094877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852273392
+status: 3
+tags: []
+user_id: felip

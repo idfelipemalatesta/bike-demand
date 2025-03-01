@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fa967b1ae6e7439bb5b0ed94fa9bdf11/artifacts
+deleted_time: 1740851958040
+end_time: 1740851769291
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: fa967b1ae6e7439bb5b0ed94fa9bdf11
+run_name: invincible-lark-388
+run_uuid: fa967b1ae6e7439bb5b0ed94fa9bdf11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851769086
+status: 3
+tags: []
+user_id: felip

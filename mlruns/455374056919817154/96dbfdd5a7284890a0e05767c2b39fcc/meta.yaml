@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/96dbfdd5a7284890a0e05767c2b39fcc/artifacts
+end_time: 1740859757829
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 96dbfdd5a7284890a0e05767c2b39fcc
+run_name: luminous-gnat-231
+run_uuid: 96dbfdd5a7284890a0e05767c2b39fcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740859725796
+status: 3
+tags: []
+user_id: felip

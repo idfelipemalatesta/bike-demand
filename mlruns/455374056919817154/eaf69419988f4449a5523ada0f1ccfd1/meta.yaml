@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/eaf69419988f4449a5523ada0f1ccfd1/artifacts
+deleted_time: 1740851958021
+end_time: 1740851771171
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: eaf69419988f4449a5523ada0f1ccfd1
+run_name: awesome-steed-52
+run_uuid: eaf69419988f4449a5523ada0f1ccfd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851770954
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e8a10f6b669f41e490895b253e0ec631/artifacts
+end_time: 1740858001186
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e8a10f6b669f41e490895b253e0ec631
+run_name: gregarious-fox-18
+run_uuid: e8a10f6b669f41e490895b253e0ec631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857964901
+status: 3
+tags: []
+user_id: felip

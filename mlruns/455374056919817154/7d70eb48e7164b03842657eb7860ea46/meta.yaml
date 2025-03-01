@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7d70eb48e7164b03842657eb7860ea46/artifacts
+deleted_time: 1740852040064
+end_time: 1740851784869
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 7d70eb48e7164b03842657eb7860ea46
+run_name: hilarious-finch-629
+run_uuid: 7d70eb48e7164b03842657eb7860ea46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851784657
+status: 3
+tags: []
+user_id: felip

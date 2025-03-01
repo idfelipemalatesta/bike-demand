@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/869a52421ce447ed95759ef2ce0e416a/artifacts
+end_time: 1740855342028
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 869a52421ce447ed95759ef2ce0e416a
+run_name: enchanting-stork-377
+run_uuid: 869a52421ce447ed95759ef2ce0e416a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855312762
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0ba39fbec70349d3bc2759a91dcd6973/artifacts
+end_time: 1740852274492
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0ba39fbec70349d3bc2759a91dcd6973
+run_name: brawny-ant-765
+run_uuid: 0ba39fbec70349d3bc2759a91dcd6973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852274217
+status: 3
+tags: []
+user_id: felip

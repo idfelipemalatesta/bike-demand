@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9407d12165ae477a9b5d1e1d77afb108/artifacts
+deleted_time: 1740851975715
+end_time: 1740851875894
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9407d12165ae477a9b5d1e1d77afb108
+run_name: caring-ant-546
+run_uuid: 9407d12165ae477a9b5d1e1d77afb108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851875677
+status: 3
+tags: []
+user_id: felip

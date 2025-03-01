@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a93df3a5fe46440c925effa72dd92aa5/artifacts
+end_time: 1740852142237
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a93df3a5fe46440c925effa72dd92aa5
+run_name: marvelous-shrew-823
+run_uuid: a93df3a5fe46440c925effa72dd92aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852142023
+status: 3
+tags: []
+user_id: felip

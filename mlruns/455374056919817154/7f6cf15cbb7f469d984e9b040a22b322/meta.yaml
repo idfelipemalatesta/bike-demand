@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7f6cf15cbb7f469d984e9b040a22b322/artifacts
+deleted_time: 1740852040235
+end_time: 1740851741408
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 7f6cf15cbb7f469d984e9b040a22b322
+run_name: overjoyed-shark-691
+run_uuid: 7f6cf15cbb7f469d984e9b040a22b322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851741241
+status: 3
+tags: []
+user_id: felip

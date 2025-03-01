@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8766ad184a624050831572b149c6485f/artifacts
+end_time: 1740852248792
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8766ad184a624050831572b149c6485f
+run_name: enthused-seal-156
+run_uuid: 8766ad184a624050831572b149c6485f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852248548
+status: 3
+tags: []
+user_id: felip

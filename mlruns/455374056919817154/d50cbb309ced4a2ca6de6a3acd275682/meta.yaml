@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d50cbb309ced4a2ca6de6a3acd275682/artifacts
+end_time: 1740868731236
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d50cbb309ced4a2ca6de6a3acd275682
+run_name: burly-mouse-133
+run_uuid: d50cbb309ced4a2ca6de6a3acd275682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868697236
+status: 3
+tags: []
+user_id: felip

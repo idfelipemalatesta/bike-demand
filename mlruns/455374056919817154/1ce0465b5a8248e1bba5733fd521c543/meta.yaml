@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1ce0465b5a8248e1bba5733fd521c543/artifacts
+deleted_time: 1740852040365
+end_time: 1740851735187
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 1ce0465b5a8248e1bba5733fd521c543
+run_name: big-hawk-278
+run_uuid: 1ce0465b5a8248e1bba5733fd521c543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851734899
+status: 3
+tags: []
+user_id: felip

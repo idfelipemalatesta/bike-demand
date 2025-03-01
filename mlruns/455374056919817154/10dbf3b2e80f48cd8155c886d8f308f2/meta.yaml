@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/10dbf3b2e80f48cd8155c886d8f308f2/artifacts
+end_time: 1740852143793
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 10dbf3b2e80f48cd8155c886d8f308f2
+run_name: trusting-fly-838
+run_uuid: 10dbf3b2e80f48cd8155c886d8f308f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852143549
+status: 3
+tags: []
+user_id: felip

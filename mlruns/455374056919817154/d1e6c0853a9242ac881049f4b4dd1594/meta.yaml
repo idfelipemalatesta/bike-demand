@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d1e6c0853a9242ac881049f4b4dd1594/artifacts
+end_time: 1740865545000
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d1e6c0853a9242ac881049f4b4dd1594
+run_name: gaudy-sloth-77
+run_uuid: d1e6c0853a9242ac881049f4b4dd1594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865513100
+status: 3
+tags: []
+user_id: felip

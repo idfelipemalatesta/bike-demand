@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b9ceb8572882449c8a0168a039d06cbe/artifacts
+end_time: 1740854804005
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b9ceb8572882449c8a0168a039d06cbe
+run_name: caring-sponge-448
+run_uuid: b9ceb8572882449c8a0168a039d06cbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854803036
+status: 3
+tags: []
+user_id: felip

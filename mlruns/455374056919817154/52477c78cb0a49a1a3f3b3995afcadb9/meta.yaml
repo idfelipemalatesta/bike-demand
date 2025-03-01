@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/52477c78cb0a49a1a3f3b3995afcadb9/artifacts
+deleted_time: 1740851975819
+end_time: 1740851868487
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 52477c78cb0a49a1a3f3b3995afcadb9
+run_name: zealous-tern-214
+run_uuid: 52477c78cb0a49a1a3f3b3995afcadb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851868233
+status: 3
+tags: []
+user_id: felip

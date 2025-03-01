@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2a8be59b2e9d477dbb388fad56508d9e/artifacts
+deleted_time: 1740852013769
+end_time: 1740851810122
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 2a8be59b2e9d477dbb388fad56508d9e
+run_name: monumental-gnat-215
+run_uuid: 2a8be59b2e9d477dbb388fad56508d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851809891
+status: 3
+tags: []
+user_id: felip

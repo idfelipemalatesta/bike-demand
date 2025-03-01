@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d1160ed707804b83a20e3f32f1f38ab5/artifacts
+end_time: 1740858039427
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d1160ed707804b83a20e3f32f1f38ab5
+run_name: dashing-worm-574
+run_uuid: d1160ed707804b83a20e3f32f1f38ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858001304
+status: 3
+tags: []
+user_id: felip

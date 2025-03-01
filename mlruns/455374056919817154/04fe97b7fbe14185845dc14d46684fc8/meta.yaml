@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/04fe97b7fbe14185845dc14d46684fc8/artifacts
+end_time: 1740852164404
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 04fe97b7fbe14185845dc14d46684fc8
+run_name: bittersweet-shad-229
+run_uuid: 04fe97b7fbe14185845dc14d46684fc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852164154
+status: 3
+tags: []
+user_id: felip

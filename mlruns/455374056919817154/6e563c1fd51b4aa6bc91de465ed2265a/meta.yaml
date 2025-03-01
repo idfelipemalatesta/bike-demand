@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6e563c1fd51b4aa6bc91de465ed2265a/artifacts
+end_time: 1740852157860
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 6e563c1fd51b4aa6bc91de465ed2265a
+run_name: gifted-fox-699
+run_uuid: 6e563c1fd51b4aa6bc91de465ed2265a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852157620
+status: 3
+tags: []
+user_id: felip

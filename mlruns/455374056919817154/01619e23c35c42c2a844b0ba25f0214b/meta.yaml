@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/01619e23c35c42c2a844b0ba25f0214b/artifacts
+end_time: 1740855581785
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 01619e23c35c42c2a844b0ba25f0214b
+run_name: resilient-carp-912
+run_uuid: 01619e23c35c42c2a844b0ba25f0214b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855550961
+status: 3
+tags: []
+user_id: felip

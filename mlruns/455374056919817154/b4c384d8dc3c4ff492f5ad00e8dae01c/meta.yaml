@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b4c384d8dc3c4ff492f5ad00e8dae01c/artifacts
+end_time: 1740852127705
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b4c384d8dc3c4ff492f5ad00e8dae01c
+run_name: handsome-wren-627
+run_uuid: b4c384d8dc3c4ff492f5ad00e8dae01c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852127472
+status: 3
+tags: []
+user_id: felip

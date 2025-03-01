@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9c8db2a805f64bce9bc484d377bb415a/artifacts
+end_time: 1740863025435
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 9c8db2a805f64bce9bc484d377bb415a
+run_name: skillful-goose-803
+run_uuid: 9c8db2a805f64bce9bc484d377bb415a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862993814
+status: 3
+tags: []
+user_id: felip

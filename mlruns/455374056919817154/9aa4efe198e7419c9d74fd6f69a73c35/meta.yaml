@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9aa4efe198e7419c9d74fd6f69a73c35/artifacts
+deleted_time: 1740851992275
+end_time: 1740851852616
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9aa4efe198e7419c9d74fd6f69a73c35
+run_name: honorable-gnat-265
+run_uuid: 9aa4efe198e7419c9d74fd6f69a73c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851852307
+status: 3
+tags: []
+user_id: felip

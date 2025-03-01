@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c51b54c3cf6b4240bba86996fb1b7068/artifacts
+end_time: 1740852200310
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c51b54c3cf6b4240bba86996fb1b7068
+run_name: wise-croc-503
+run_uuid: c51b54c3cf6b4240bba86996fb1b7068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852200072
+status: 3
+tags: []
+user_id: felip

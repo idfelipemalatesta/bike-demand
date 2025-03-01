@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cd22b9916f774dd5af3b2ddfa689d81e/artifacts
+end_time: 1740864850919
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: cd22b9916f774dd5af3b2ddfa689d81e
+run_name: aged-conch-257
+run_uuid: cd22b9916f774dd5af3b2ddfa689d81e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864820100
+status: 3
+tags: []
+user_id: felip

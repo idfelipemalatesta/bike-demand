@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/642eefd316ca4e5894f1566eafa43a12/artifacts
+end_time: 1740852227795
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 642eefd316ca4e5894f1566eafa43a12
+run_name: languid-shad-498
+run_uuid: 642eefd316ca4e5894f1566eafa43a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852227505
+status: 3
+tags: []
+user_id: felip

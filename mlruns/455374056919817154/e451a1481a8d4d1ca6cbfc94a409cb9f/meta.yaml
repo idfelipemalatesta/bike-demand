@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e451a1481a8d4d1ca6cbfc94a409cb9f/artifacts
+end_time: 1740852268286
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e451a1481a8d4d1ca6cbfc94a409cb9f
+run_name: worried-crane-345
+run_uuid: e451a1481a8d4d1ca6cbfc94a409cb9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852268034
+status: 3
+tags: []
+user_id: felip

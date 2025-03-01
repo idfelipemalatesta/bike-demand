@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a3c342ac24294bf08d18d3a5576290f7/artifacts
+end_time: 1740852144767
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a3c342ac24294bf08d18d3a5576290f7
+run_name: nebulous-hog-29
+run_uuid: a3c342ac24294bf08d18d3a5576290f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852144538
+status: 3
+tags: []
+user_id: felip

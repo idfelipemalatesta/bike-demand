@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/337cb2ea394b45aabf7d4687b6e48458/artifacts
+deleted_time: 1740852013885
+end_time: 1740851802384
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 337cb2ea394b45aabf7d4687b6e48458
+run_name: gifted-cat-917
+run_uuid: 337cb2ea394b45aabf7d4687b6e48458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851802144
+status: 3
+tags: []
+user_id: felip

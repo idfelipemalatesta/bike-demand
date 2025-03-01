@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bb94b58776f04294bc8bcc907822dee2/artifacts
+deleted_time: 1740851992509
+end_time: 1740851837313
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: bb94b58776f04294bc8bcc907822dee2
+run_name: judicious-rat-766
+run_uuid: bb94b58776f04294bc8bcc907822dee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851837071
+status: 3
+tags: []
+user_id: felip

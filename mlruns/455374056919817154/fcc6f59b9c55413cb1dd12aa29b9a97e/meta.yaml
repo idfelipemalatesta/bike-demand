@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fcc6f59b9c55413cb1dd12aa29b9a97e/artifacts
+end_time: 1740868057652
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: fcc6f59b9c55413cb1dd12aa29b9a97e
+run_name: salty-jay-27
+run_uuid: fcc6f59b9c55413cb1dd12aa29b9a97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868023569
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ce7d64d5a2c54c27b8733dcc8d2fbea0/artifacts
+end_time: 1740858772865
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ce7d64d5a2c54c27b8733dcc8d2fbea0
+run_name: industrious-hen-156
+run_uuid: ce7d64d5a2c54c27b8733dcc8d2fbea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858732199
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a8ff3ac0355147f1bf8d9a2673bcdcb6/artifacts
+deleted_time: 1740852013460
+end_time: 1740851827452
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a8ff3ac0355147f1bf8d9a2673bcdcb6
+run_name: bright-carp-164
+run_uuid: a8ff3ac0355147f1bf8d9a2673bcdcb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851827193
+status: 3
+tags: []
+user_id: felip

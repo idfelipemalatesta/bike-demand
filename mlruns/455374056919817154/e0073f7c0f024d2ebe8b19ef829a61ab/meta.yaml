@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e0073f7c0f024d2ebe8b19ef829a61ab/artifacts
+deleted_time: 1740851975436
+end_time: 1740851895864
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: e0073f7c0f024d2ebe8b19ef829a61ab
+run_name: bold-kite-896
+run_uuid: e0073f7c0f024d2ebe8b19ef829a61ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851895633
+status: 3
+tags: []
+user_id: felip

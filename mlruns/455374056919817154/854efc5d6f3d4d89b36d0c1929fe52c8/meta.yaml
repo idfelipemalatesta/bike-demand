@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/854efc5d6f3d4d89b36d0c1929fe52c8/artifacts
+deleted_time: 1740851975420
+end_time: 1740851896770
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 854efc5d6f3d4d89b36d0c1929fe52c8
+run_name: luminous-kit-994
+run_uuid: 854efc5d6f3d4d89b36d0c1929fe52c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851896541
+status: 3
+tags: []
+user_id: felip

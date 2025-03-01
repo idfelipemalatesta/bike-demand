@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/278e59f719694e17804ae4e454310908/artifacts
+end_time: 1740852278200
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 278e59f719694e17804ae4e454310908
+run_name: dashing-wasp-825
+run_uuid: 278e59f719694e17804ae4e454310908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852277948
+status: 3
+tags: []
+user_id: felip

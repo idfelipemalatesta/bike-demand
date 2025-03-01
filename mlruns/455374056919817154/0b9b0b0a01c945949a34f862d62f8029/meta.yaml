@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0b9b0b0a01c945949a34f862d62f8029/artifacts
+deleted_time: 1740851992135
+end_time: 1740851860840
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 0b9b0b0a01c945949a34f862d62f8029
+run_name: luxuriant-ape-911
+run_uuid: 0b9b0b0a01c945949a34f862d62f8029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851860598
+status: 3
+tags: []
+user_id: felip

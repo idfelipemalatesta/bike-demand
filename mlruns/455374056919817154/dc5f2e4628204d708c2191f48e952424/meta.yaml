@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/dc5f2e4628204d708c2191f48e952424/artifacts
+deleted_time: 1740851958463
+end_time: 1740851747109
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: dc5f2e4628204d708c2191f48e952424
+run_name: traveling-trout-444
+run_uuid: dc5f2e4628204d708c2191f48e952424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851746922
+status: 3
+tags: []
+user_id: felip

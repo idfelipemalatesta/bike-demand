@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/da8fe899ee3f49cc998d1e9379c3da55/artifacts
+end_time: 1740855523589
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: da8fe899ee3f49cc998d1e9379c3da55
+run_name: bold-roo-576
+run_uuid: da8fe899ee3f49cc998d1e9379c3da55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855492261
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8d9e0b533a5c4ef3924fd2fdf4fddd1c/artifacts
+end_time: 1740866948485
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8d9e0b533a5c4ef3924fd2fdf4fddd1c
+run_name: legendary-carp-938
+run_uuid: 8d9e0b533a5c4ef3924fd2fdf4fddd1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866915751
+status: 3
+tags: []
+user_id: felip

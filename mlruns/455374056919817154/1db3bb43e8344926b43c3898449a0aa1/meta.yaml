@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1db3bb43e8344926b43c3898449a0aa1/artifacts
+end_time: 1740867666201
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1db3bb43e8344926b43c3898449a0aa1
+run_name: inquisitive-roo-997
+run_uuid: 1db3bb43e8344926b43c3898449a0aa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867632985
+status: 3
+tags: []
+user_id: felip

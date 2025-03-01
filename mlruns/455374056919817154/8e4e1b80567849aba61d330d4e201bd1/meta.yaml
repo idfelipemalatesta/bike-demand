@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8e4e1b80567849aba61d330d4e201bd1/artifacts
+end_time: 1740852130914
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8e4e1b80567849aba61d330d4e201bd1
+run_name: magnificent-deer-307
+run_uuid: 8e4e1b80567849aba61d330d4e201bd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852130754
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/29c4a898a1d2499b8250f5faa176c6dd/artifacts
+deleted_time: 1740851975509
+end_time: 1740851890411
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 29c4a898a1d2499b8250f5faa176c6dd
+run_name: placid-hound-326
+run_uuid: 29c4a898a1d2499b8250f5faa176c6dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851890182
+status: 3
+tags: []
+user_id: felip

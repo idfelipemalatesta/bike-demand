@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/35c92d33741e4b42841c5941e171d379/artifacts
+deleted_time: 1740851992227
+end_time: 1740851855438
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 35c92d33741e4b42841c5941e171d379
+run_name: bemused-sloth-687
+run_uuid: 35c92d33741e4b42841c5941e171d379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851855132
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/927a4bcc99574da892e7d56a45627102/artifacts
+deleted_time: 1740851958099
+end_time: 1740851767252
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 927a4bcc99574da892e7d56a45627102
+run_name: thoughtful-doe-155
+run_uuid: 927a4bcc99574da892e7d56a45627102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851767003
+status: 3
+tags: []
+user_id: felip

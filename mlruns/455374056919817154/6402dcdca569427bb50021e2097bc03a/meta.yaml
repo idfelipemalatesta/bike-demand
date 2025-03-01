@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6402dcdca569427bb50021e2097bc03a/artifacts
+end_time: 1740854369486
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 6402dcdca569427bb50021e2097bc03a
+run_name: loud-cub-402
+run_uuid: 6402dcdca569427bb50021e2097bc03a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854367767
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/adac3c23a9ce449fa16f8af717adad59/artifacts
+end_time: 1740852256002
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: adac3c23a9ce449fa16f8af717adad59
+run_name: calm-donkey-703
+run_uuid: adac3c23a9ce449fa16f8af717adad59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852255637
+status: 3
+tags: []
+user_id: felip

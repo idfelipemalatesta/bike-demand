@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cdab688d298e41deb940de0d574759f1/artifacts
+deleted_time: 1740851958155
+end_time: 1740851764785
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: cdab688d298e41deb940de0d574759f1
+run_name: industrious-wolf-723
+run_uuid: cdab688d298e41deb940de0d574759f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851764593
+status: 3
+tags: []
+user_id: felip

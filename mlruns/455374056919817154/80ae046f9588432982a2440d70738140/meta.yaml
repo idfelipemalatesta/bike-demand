@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/80ae046f9588432982a2440d70738140/artifacts
+end_time: 1740862072649
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 80ae046f9588432982a2440d70738140
+run_name: salty-shrew-799
+run_uuid: 80ae046f9588432982a2440d70738140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862040913
+status: 3
+tags: []
+user_id: felip

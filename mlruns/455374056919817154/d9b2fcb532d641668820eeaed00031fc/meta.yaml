@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d9b2fcb532d641668820eeaed00031fc/artifacts
+deleted_time: 1740851958100
+end_time: 1740851767564
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d9b2fcb532d641668820eeaed00031fc
+run_name: resilient-lamb-252
+run_uuid: d9b2fcb532d641668820eeaed00031fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851767339
+status: 3
+tags: []
+user_id: felip

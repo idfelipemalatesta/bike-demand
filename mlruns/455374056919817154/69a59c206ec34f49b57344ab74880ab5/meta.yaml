@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/69a59c206ec34f49b57344ab74880ab5/artifacts
+deleted_time: 1740852013605
+end_time: 1740851819868
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 69a59c206ec34f49b57344ab74880ab5
+run_name: nebulous-swan-702
+run_uuid: 69a59c206ec34f49b57344ab74880ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851819661
+status: 3
+tags: []
+user_id: felip

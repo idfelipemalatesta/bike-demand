@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bbeb83644895455ea56dfb1ac317698b/artifacts
+deleted_time: 1740852013581
+end_time: 1740851821127
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: bbeb83644895455ea56dfb1ac317698b
+run_name: delicate-bear-107
+run_uuid: bbeb83644895455ea56dfb1ac317698b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851820905
+status: 3
+tags: []
+user_id: felip

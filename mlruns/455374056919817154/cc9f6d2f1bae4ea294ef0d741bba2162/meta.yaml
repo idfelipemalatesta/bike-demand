@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cc9f6d2f1bae4ea294ef0d741bba2162/artifacts
+deleted_time: 1740851992423
+end_time: 1740851842588
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: cc9f6d2f1bae4ea294ef0d741bba2162
+run_name: mysterious-shad-381
+run_uuid: cc9f6d2f1bae4ea294ef0d741bba2162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851842343
+status: 3
+tags: []
+user_id: felip

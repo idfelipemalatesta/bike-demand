@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cc650a7a9d6e4e168f1402f137088f43/artifacts
+deleted_time: 1740852040148
+end_time: 1740851778974
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: cc650a7a9d6e4e168f1402f137088f43
+run_name: lyrical-perch-26
+run_uuid: cc650a7a9d6e4e168f1402f137088f43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851778735
+status: 3
+tags: []
+user_id: felip

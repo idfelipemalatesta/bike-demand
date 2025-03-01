@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e4f440aff4304d8ea97d7bc69899678e/artifacts
+deleted_time: 1740851992154
+end_time: 1740851860171
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: e4f440aff4304d8ea97d7bc69899678e
+run_name: powerful-steed-182
+run_uuid: e4f440aff4304d8ea97d7bc69899678e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851859942
+status: 3
+tags: []
+user_id: felip

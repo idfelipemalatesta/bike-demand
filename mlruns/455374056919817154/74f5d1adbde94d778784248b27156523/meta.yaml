@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/74f5d1adbde94d778784248b27156523/artifacts
+deleted_time: 1740852013826
+end_time: 1740851805662
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 74f5d1adbde94d778784248b27156523
+run_name: gregarious-hound-244
+run_uuid: 74f5d1adbde94d778784248b27156523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851805440
+status: 3
+tags: []
+user_id: felip

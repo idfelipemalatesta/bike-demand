@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/dfe6f56d16c14ee9a29e823082228d6a/artifacts
+end_time: 1740854805118
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: dfe6f56d16c14ee9a29e823082228d6a
+run_name: likeable-moth-203
+run_uuid: dfe6f56d16c14ee9a29e823082228d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854804099
+status: 3
+tags: []
+user_id: felip

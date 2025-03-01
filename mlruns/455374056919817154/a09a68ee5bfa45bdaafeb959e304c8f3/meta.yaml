@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a09a68ee5bfa45bdaafeb959e304c8f3/artifacts
+end_time: 1740852167524
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a09a68ee5bfa45bdaafeb959e304c8f3
+run_name: worried-auk-136
+run_uuid: a09a68ee5bfa45bdaafeb959e304c8f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852167254
+status: 3
+tags: []
+user_id: felip

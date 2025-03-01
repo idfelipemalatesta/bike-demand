@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8464b58b37cd45beb74a98d38e693cca/artifacts
+end_time: 1740857170092
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8464b58b37cd45beb74a98d38e693cca
+run_name: rumbling-sow-968
+run_uuid: 8464b58b37cd45beb74a98d38e693cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857134101
+status: 3
+tags: []
+user_id: felip

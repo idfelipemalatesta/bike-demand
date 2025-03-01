@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/fb839c70671c4cd79ada594d47aeb79d/artifacts
+deleted_time: 1740852013508
+end_time: 1740851824990
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: fb839c70671c4cd79ada594d47aeb79d
+run_name: stately-goat-52
+run_uuid: fb839c70671c4cd79ada594d47aeb79d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851824721
+status: 3
+tags: []
+user_id: felip

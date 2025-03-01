@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/18810aa6d87243d6a09ed5a1a6a130df/artifacts
+end_time: 1740865344534
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 18810aa6d87243d6a09ed5a1a6a130df
+run_name: adaptable-snake-614
+run_uuid: 18810aa6d87243d6a09ed5a1a6a130df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865312633
+status: 3
+tags: []
+user_id: felip

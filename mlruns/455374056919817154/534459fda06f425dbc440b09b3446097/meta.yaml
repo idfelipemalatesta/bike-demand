@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/534459fda06f425dbc440b09b3446097/artifacts
+end_time: 1740862136366
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 534459fda06f425dbc440b09b3446097
+run_name: gaudy-newt-993
+run_uuid: 534459fda06f425dbc440b09b3446097
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862135562
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c9571645a3fb4a809e7765ca0b588d0a/artifacts
+end_time: 1740859470138
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c9571645a3fb4a809e7765ca0b588d0a
+run_name: carefree-gnat-759
+run_uuid: c9571645a3fb4a809e7765ca0b588d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740859438542
+status: 3
+tags: []
+user_id: felip

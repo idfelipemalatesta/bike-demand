@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/070217b0ace9432dac842481e789cfeb/artifacts
+end_time: 1740855671563
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 070217b0ace9432dac842481e789cfeb
+run_name: likeable-sow-178
+run_uuid: 070217b0ace9432dac842481e789cfeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855642227
+status: 3
+tags: []
+user_id: felip

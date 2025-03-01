@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5fa611f58da744dab6e74d4ca1daed86/artifacts
+end_time: 1740852260300
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5fa611f58da744dab6e74d4ca1daed86
+run_name: fearless-finch-972
+run_uuid: 5fa611f58da744dab6e74d4ca1daed86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852260039
+status: 3
+tags: []
+user_id: felip

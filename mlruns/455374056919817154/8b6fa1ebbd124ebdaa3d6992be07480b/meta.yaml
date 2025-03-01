@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8b6fa1ebbd124ebdaa3d6992be07480b/artifacts
+end_time: 1740856194470
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8b6fa1ebbd124ebdaa3d6992be07480b
+run_name: rare-quail-791
+run_uuid: 8b6fa1ebbd124ebdaa3d6992be07480b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740856164182
+status: 3
+tags: []
+user_id: felip

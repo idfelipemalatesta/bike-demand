@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1c8e8852a89248e0a3ae7573a5f0cc0c/artifacts
+end_time: 1740856431156
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1c8e8852a89248e0a3ae7573a5f0cc0c
+run_name: charming-squid-694
+run_uuid: 1c8e8852a89248e0a3ae7573a5f0cc0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740856397226
+status: 3
+tags: []
+user_id: felip

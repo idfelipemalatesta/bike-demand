@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5a31c19ad9a34518a7e8d140136cabb3/artifacts
+deleted_time: 1740851975612
+end_time: 1740851882949
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5a31c19ad9a34518a7e8d140136cabb3
+run_name: intrigued-elk-333
+run_uuid: 5a31c19ad9a34518a7e8d140136cabb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851882715
+status: 3
+tags: []
+user_id: felip

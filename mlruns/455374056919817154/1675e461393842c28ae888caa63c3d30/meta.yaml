@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1675e461393842c28ae888caa63c3d30/artifacts
+end_time: 1740854859117
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1675e461393842c28ae888caa63c3d30
+run_name: bald-bee-881
+run_uuid: 1675e461393842c28ae888caa63c3d30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854806915
+status: 3
+tags: []
+user_id: felip

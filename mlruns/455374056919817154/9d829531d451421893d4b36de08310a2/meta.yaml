@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9d829531d451421893d4b36de08310a2/artifacts
+deleted_time: 1740851975500
+end_time: 1740851891422
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 9d829531d451421893d4b36de08310a2
+run_name: judicious-smelt-6
+run_uuid: 9d829531d451421893d4b36de08310a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851891166
+status: 3
+tags: []
+user_id: felip

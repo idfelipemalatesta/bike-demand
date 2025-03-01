@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/93c3ec4cd1a34904b539793e5fc13ec0/artifacts
+deleted_time: 1740852040185
+end_time: 1740851744626
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 93c3ec4cd1a34904b539793e5fc13ec0
+run_name: likeable-panda-276
+run_uuid: 93c3ec4cd1a34904b539793e5fc13ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851744462
+status: 3
+tags: []
+user_id: felip

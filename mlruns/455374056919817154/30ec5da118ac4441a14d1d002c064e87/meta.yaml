@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/30ec5da118ac4441a14d1d002c064e87/artifacts
+end_time: 1740855758695
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 30ec5da118ac4441a14d1d002c064e87
+run_name: crawling-boar-739
+run_uuid: 30ec5da118ac4441a14d1d002c064e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855729009
+status: 3
+tags: []
+user_id: felip

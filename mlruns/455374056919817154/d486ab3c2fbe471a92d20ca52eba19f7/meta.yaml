@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d486ab3c2fbe471a92d20ca52eba19f7/artifacts
+end_time: 1740864266931
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d486ab3c2fbe471a92d20ca52eba19f7
+run_name: enthused-elk-405
+run_uuid: d486ab3c2fbe471a92d20ca52eba19f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864234818
+status: 3
+tags: []
+user_id: felip

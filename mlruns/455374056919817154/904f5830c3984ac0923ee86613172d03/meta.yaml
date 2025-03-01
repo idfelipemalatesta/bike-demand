@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/904f5830c3984ac0923ee86613172d03/artifacts
+end_time: 1740852217234
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 904f5830c3984ac0923ee86613172d03
+run_name: placid-kit-722
+run_uuid: 904f5830c3984ac0923ee86613172d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852216996
+status: 3
+tags: []
+user_id: felip

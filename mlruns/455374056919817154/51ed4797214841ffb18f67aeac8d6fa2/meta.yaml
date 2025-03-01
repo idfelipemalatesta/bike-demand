@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/51ed4797214841ffb18f67aeac8d6fa2/artifacts
+deleted_time: 1740851975707
+end_time: 1740851876199
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 51ed4797214841ffb18f67aeac8d6fa2
+run_name: capable-swan-296
+run_uuid: 51ed4797214841ffb18f67aeac8d6fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851875987
+status: 3
+tags: []
+user_id: felip

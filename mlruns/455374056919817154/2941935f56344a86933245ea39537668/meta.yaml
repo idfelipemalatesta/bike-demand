@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2941935f56344a86933245ea39537668/artifacts
+end_time: 1740852213807
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2941935f56344a86933245ea39537668
+run_name: bald-fish-338
+run_uuid: 2941935f56344a86933245ea39537668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852213547
+status: 3
+tags: []
+user_id: felip

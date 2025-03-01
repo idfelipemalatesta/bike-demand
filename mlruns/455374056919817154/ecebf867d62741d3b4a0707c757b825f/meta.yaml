@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ecebf867d62741d3b4a0707c757b825f/artifacts
+end_time: 1740854802944
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ecebf867d62741d3b4a0707c757b825f
+run_name: rebellious-fly-933
+run_uuid: ecebf867d62741d3b4a0707c757b825f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854801633
+status: 3
+tags: []
+user_id: felip

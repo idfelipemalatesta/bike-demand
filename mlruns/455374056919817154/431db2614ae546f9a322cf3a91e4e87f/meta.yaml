@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/431db2614ae546f9a322cf3a91e4e87f/artifacts
+end_time: 1740852119075
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 431db2614ae546f9a322cf3a91e4e87f
+run_name: puzzled-horse-157
+run_uuid: 431db2614ae546f9a322cf3a91e4e87f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852118806
+status: 3
+tags: []
+user_id: felip

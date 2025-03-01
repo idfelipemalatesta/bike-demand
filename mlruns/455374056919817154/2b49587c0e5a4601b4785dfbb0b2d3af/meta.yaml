@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2b49587c0e5a4601b4785dfbb0b2d3af/artifacts
+deleted_time: 1740854226947
+end_time: 1740854183949
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 2b49587c0e5a4601b4785dfbb0b2d3af
+run_name: wistful-mole-934
+run_uuid: 2b49587c0e5a4601b4785dfbb0b2d3af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740853812446
+status: 4
+tags: []
+user_id: felip

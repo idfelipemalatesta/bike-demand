@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/364be46a0f5f4c479914fd0f6a4df30b/artifacts
+deleted_time: 1740851975633
+end_time: 1740851880892
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 364be46a0f5f4c479914fd0f6a4df30b
+run_name: tasteful-pug-646
+run_uuid: 364be46a0f5f4c479914fd0f6a4df30b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851880667
+status: 3
+tags: []
+user_id: felip

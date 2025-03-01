@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6b5fa300c0e149e29c24dac8a09ddd67/artifacts
+deleted_time: 1740852013786
+end_time: 1740851808707
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 6b5fa300c0e149e29c24dac8a09ddd67
+run_name: traveling-flea-992
+run_uuid: 6b5fa300c0e149e29c24dac8a09ddd67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851808483
+status: 3
+tags: []
+user_id: felip

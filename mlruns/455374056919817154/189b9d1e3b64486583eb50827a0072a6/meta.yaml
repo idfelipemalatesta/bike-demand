@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/189b9d1e3b64486583eb50827a0072a6/artifacts
+deleted_time: 1740851958319
+end_time: 1740851754935
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 189b9d1e3b64486583eb50827a0072a6
+run_name: beautiful-cat-920
+run_uuid: 189b9d1e3b64486583eb50827a0072a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851754737
+status: 3
+tags: []
+user_id: felip

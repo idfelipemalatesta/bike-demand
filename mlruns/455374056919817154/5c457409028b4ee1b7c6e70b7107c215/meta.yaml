@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5c457409028b4ee1b7c6e70b7107c215/artifacts
+end_time: 1740860813816
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5c457409028b4ee1b7c6e70b7107c215
+run_name: orderly-crane-676
+run_uuid: 5c457409028b4ee1b7c6e70b7107c215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860774284
+status: 3
+tags: []
+user_id: felip

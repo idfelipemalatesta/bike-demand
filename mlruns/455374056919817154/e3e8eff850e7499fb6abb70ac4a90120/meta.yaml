@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e3e8eff850e7499fb6abb70ac4a90120/artifacts
+end_time: 1740858848521
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e3e8eff850e7499fb6abb70ac4a90120
+run_name: able-yak-776
+run_uuid: e3e8eff850e7499fb6abb70ac4a90120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858811514
+status: 3
+tags: []
+user_id: felip

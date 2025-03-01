@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a1b41b557a1f41528789988de723e0ba/artifacts
+end_time: 1740852175245
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a1b41b557a1f41528789988de723e0ba
+run_name: funny-dog-93
+run_uuid: a1b41b557a1f41528789988de723e0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852174998
+status: 3
+tags: []
+user_id: felip

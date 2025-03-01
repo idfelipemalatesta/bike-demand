@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ab2f1900a4c8491dbe477f9f584ed056/artifacts
+end_time: 1740852203843
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ab2f1900a4c8491dbe477f9f584ed056
+run_name: unleashed-elk-280
+run_uuid: ab2f1900a4c8491dbe477f9f584ed056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852203584
+status: 3
+tags: []
+user_id: felip

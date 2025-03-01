@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d228d0c01ada421aab92d126b9f5bed7/artifacts
+end_time: 1740854521764
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d228d0c01ada421aab92d126b9f5bed7
+run_name: stately-moth-458
+run_uuid: d228d0c01ada421aab92d126b9f5bed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854521213
+status: 3
+tags: []
+user_id: felip

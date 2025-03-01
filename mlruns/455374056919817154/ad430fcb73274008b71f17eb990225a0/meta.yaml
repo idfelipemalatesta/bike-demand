@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ad430fcb73274008b71f17eb990225a0/artifacts
+deleted_time: 1740851957861
+end_time: 1740851775734
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ad430fcb73274008b71f17eb990225a0
+run_name: delightful-lynx-784
+run_uuid: ad430fcb73274008b71f17eb990225a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851775459
+status: 3
+tags: []
+user_id: felip

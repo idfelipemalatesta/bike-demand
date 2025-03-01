@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/428e0034c3f446bca7d1e22350162878/artifacts
+end_time: 1740859243994
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 428e0034c3f446bca7d1e22350162878
+run_name: likeable-flea-839
+run_uuid: 428e0034c3f446bca7d1e22350162878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740859212340
+status: 3
+tags: []
+user_id: felip

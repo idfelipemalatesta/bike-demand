@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c1cebf6960ff486abb61fea10fc7e268/artifacts
+end_time: 1740868664153
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c1cebf6960ff486abb61fea10fc7e268
+run_name: sedate-panda-126
+run_uuid: c1cebf6960ff486abb61fea10fc7e268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740868631386
+status: 3
+tags: []
+user_id: felip

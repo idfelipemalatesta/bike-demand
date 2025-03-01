@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e89f60a348ad42dcb5767b815ad91546/artifacts
+end_time: 1740854629212
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e89f60a348ad42dcb5767b815ad91546
+run_name: kindly-swan-440
+run_uuid: e89f60a348ad42dcb5767b815ad91546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854628579
+status: 3
+tags: []
+user_id: felip

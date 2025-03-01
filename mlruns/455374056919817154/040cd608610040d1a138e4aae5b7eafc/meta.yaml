@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/040cd608610040d1a138e4aae5b7eafc/artifacts
+end_time: 1740855905095
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 040cd608610040d1a138e4aae5b7eafc
+run_name: awesome-shrew-497
+run_uuid: 040cd608610040d1a138e4aae5b7eafc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855875985
+status: 3
+tags: []
+user_id: felip

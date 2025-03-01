@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/046c06c76476465d82689e875a4fd82f/artifacts
+deleted_time: 1740851992511
+end_time: 1740851836986
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 046c06c76476465d82689e875a4fd82f
+run_name: whimsical-fox-390
+run_uuid: 046c06c76476465d82689e875a4fd82f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851836827
+status: 3
+tags: []
+user_id: felip

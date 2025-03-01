@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/aa31dbd8f7c1455485d24f7c3bc19967/artifacts
+end_time: 1740852246279
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: aa31dbd8f7c1455485d24f7c3bc19967
+run_name: gentle-croc-58
+run_uuid: aa31dbd8f7c1455485d24f7c3bc19967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852246002
+status: 3
+tags: []
+user_id: felip

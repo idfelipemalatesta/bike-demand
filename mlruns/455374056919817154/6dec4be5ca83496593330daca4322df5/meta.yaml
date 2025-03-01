@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6dec4be5ca83496593330daca4322df5/artifacts
+deleted_time: 1740851975482
+end_time: 1740851892775
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 6dec4be5ca83496593330daca4322df5
+run_name: placid-fox-440
+run_uuid: 6dec4be5ca83496593330daca4322df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851892542
+status: 3
+tags: []
+user_id: felip

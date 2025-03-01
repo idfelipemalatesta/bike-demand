@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/423f716a1daa43839124449353cfc36a/artifacts
+end_time: 1740852243516
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 423f716a1daa43839124449353cfc36a
+run_name: invincible-bass-923
+run_uuid: 423f716a1daa43839124449353cfc36a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852243219
+status: 3
+tags: []
+user_id: felip

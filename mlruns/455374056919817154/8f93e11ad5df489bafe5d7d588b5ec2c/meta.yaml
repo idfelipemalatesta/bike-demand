@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8f93e11ad5df489bafe5d7d588b5ec2c/artifacts
+end_time: 1740852230261
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8f93e11ad5df489bafe5d7d588b5ec2c
+run_name: puzzled-lark-620
+run_uuid: 8f93e11ad5df489bafe5d7d588b5ec2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852230004
+status: 3
+tags: []
+user_id: felip

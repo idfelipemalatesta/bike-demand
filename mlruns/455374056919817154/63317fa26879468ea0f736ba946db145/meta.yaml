@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/63317fa26879468ea0f736ba946db145/artifacts
+end_time: 1740852137758
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 63317fa26879468ea0f736ba946db145
+run_name: zealous-sow-403
+run_uuid: 63317fa26879468ea0f736ba946db145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852137534
+status: 3
+tags: []
+user_id: felip

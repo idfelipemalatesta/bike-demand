@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7244c77a007846b094096cc06706a80c/artifacts
+end_time: 1740852117540
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7244c77a007846b094096cc06706a80c
+run_name: dashing-skink-224
+run_uuid: 7244c77a007846b094096cc06706a80c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852117321
+status: 3
+tags: []
+user_id: felip

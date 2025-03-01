@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/359b7b94da2c47b9b359bd8abbc3678a/artifacts
+end_time: 1740852236076
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 359b7b94da2c47b9b359bd8abbc3678a
+run_name: respected-duck-275
+run_uuid: 359b7b94da2c47b9b359bd8abbc3678a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852235840
+status: 3
+tags: []
+user_id: felip

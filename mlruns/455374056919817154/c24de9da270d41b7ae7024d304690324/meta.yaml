@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c24de9da270d41b7ae7024d304690324/artifacts
+end_time: 1740852285863
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c24de9da270d41b7ae7024d304690324
+run_name: nebulous-wasp-643
+run_uuid: c24de9da270d41b7ae7024d304690324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852285535
+status: 3
+tags: []
+user_id: felip

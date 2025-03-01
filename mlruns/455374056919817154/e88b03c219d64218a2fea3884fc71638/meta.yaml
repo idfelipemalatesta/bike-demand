@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e88b03c219d64218a2fea3884fc71638/artifacts
+end_time: 1740866915685
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e88b03c219d64218a2fea3884fc71638
+run_name: debonair-goose-858
+run_uuid: e88b03c219d64218a2fea3884fc71638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866915085
+status: 3
+tags: []
+user_id: felip

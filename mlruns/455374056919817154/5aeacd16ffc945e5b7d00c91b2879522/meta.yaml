@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5aeacd16ffc945e5b7d00c91b2879522/artifacts
+deleted_time: 1740852040273
+end_time: 1740851739319
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5aeacd16ffc945e5b7d00c91b2879522
+run_name: wise-bug-605
+run_uuid: 5aeacd16ffc945e5b7d00c91b2879522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851739142
+status: 3
+tags: []
+user_id: felip

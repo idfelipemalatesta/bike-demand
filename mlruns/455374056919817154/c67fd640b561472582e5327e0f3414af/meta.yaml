@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c67fd640b561472582e5327e0f3414af/artifacts
+deleted_time: 1740851958190
+end_time: 1740851762719
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: c67fd640b561472582e5327e0f3414af
+run_name: adorable-stork-544
+run_uuid: c67fd640b561472582e5327e0f3414af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851762318
+status: 3
+tags: []
+user_id: felip

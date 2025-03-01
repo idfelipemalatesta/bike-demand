@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/33af0fe7bbd1424e8325882e34036c34/artifacts
+end_time: 1740858084187
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 33af0fe7bbd1424e8325882e34036c34
+run_name: casual-loon-356
+run_uuid: 33af0fe7bbd1424e8325882e34036c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858039520
+status: 3
+tags: []
+user_id: felip

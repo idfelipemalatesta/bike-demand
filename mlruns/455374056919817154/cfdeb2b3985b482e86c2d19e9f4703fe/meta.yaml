@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cfdeb2b3985b482e86c2d19e9f4703fe/artifacts
+end_time: 1740855190251
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: cfdeb2b3985b482e86c2d19e9f4703fe
+run_name: bemused-hare-835
+run_uuid: cfdeb2b3985b482e86c2d19e9f4703fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740855150784
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8a883729b625466c8bf2b9929a98c481/artifacts
+end_time: 1740857786116
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8a883729b625466c8bf2b9929a98c481
+run_name: powerful-croc-484
+run_uuid: 8a883729b625466c8bf2b9929a98c481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740857748933
+status: 3
+tags: []
+user_id: felip

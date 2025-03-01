@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f0c5d026bd864723ba2a2a353e775123/artifacts
+end_time: 1740852241165
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f0c5d026bd864723ba2a2a353e775123
+run_name: auspicious-vole-389
+run_uuid: f0c5d026bd864723ba2a2a353e775123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852240841
+status: 3
+tags: []
+user_id: felip

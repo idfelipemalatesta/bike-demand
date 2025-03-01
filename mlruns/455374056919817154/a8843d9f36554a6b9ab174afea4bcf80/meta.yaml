@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a8843d9f36554a6b9ab174afea4bcf80/artifacts
+end_time: 1740852198914
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a8843d9f36554a6b9ab174afea4bcf80
+run_name: likeable-gull-813
+run_uuid: a8843d9f36554a6b9ab174afea4bcf80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852198672
+status: 3
+tags: []
+user_id: felip

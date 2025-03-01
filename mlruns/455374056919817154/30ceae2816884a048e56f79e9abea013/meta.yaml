@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/30ceae2816884a048e56f79e9abea013/artifacts
+deleted_time: 1740851975750
+end_time: 1740851873978
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 30ceae2816884a048e56f79e9abea013
+run_name: enchanting-dog-48
+run_uuid: 30ceae2816884a048e56f79e9abea013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851873706
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/75d9f537794c4d2d90b19ecd2ffb3b53/artifacts
+end_time: 1740866619418
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 75d9f537794c4d2d90b19ecd2ffb3b53
+run_name: beautiful-doe-49
+run_uuid: 75d9f537794c4d2d90b19ecd2ffb3b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866584884
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c160b39b0bc742d1b75c002be20dcc5d/artifacts
+end_time: 1740854366716
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c160b39b0bc742d1b75c002be20dcc5d
+run_name: blushing-moose-907
+run_uuid: c160b39b0bc742d1b75c002be20dcc5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854365279
+status: 3
+tags: []
+user_id: felip

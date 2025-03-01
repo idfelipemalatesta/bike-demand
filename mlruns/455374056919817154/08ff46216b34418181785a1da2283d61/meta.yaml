@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/08ff46216b34418181785a1da2283d61/artifacts
+end_time: 1740852131197
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 08ff46216b34418181785a1da2283d61
+run_name: sassy-bear-336
+run_uuid: 08ff46216b34418181785a1da2283d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852131006
+status: 3
+tags: []
+user_id: felip

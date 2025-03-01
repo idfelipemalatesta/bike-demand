@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3d56c2734e4d4354a5122b005256501a/artifacts
+deleted_time: 1740852013574
+end_time: 1740851821445
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3d56c2734e4d4354a5122b005256501a
+run_name: adventurous-goat-170
+run_uuid: 3d56c2734e4d4354a5122b005256501a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851821219
+status: 3
+tags: []
+user_id: felip

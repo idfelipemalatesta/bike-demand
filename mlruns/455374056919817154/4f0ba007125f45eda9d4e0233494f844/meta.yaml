@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4f0ba007125f45eda9d4e0233494f844/artifacts
+end_time: 1740852169376
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 4f0ba007125f45eda9d4e0233494f844
+run_name: orderly-roo-758
+run_uuid: 4f0ba007125f45eda9d4e0233494f844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852169124
+status: 3
+tags: []
+user_id: felip

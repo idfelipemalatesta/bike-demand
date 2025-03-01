@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f583a42f6b3f4017b47660e345d3582f/artifacts
+deleted_time: 1740851958252
+end_time: 1740851758939
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f583a42f6b3f4017b47660e345d3582f
+run_name: classy-fly-61
+run_uuid: f583a42f6b3f4017b47660e345d3582f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851758736
+status: 3
+tags: []
+user_id: felip

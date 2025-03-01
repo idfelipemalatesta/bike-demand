@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8b9d7a50ef5b40419fb6c0cd287aa46d/artifacts
+end_time: 1740854362429
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 8b9d7a50ef5b40419fb6c0cd287aa46d
+run_name: delightful-koi-343
+run_uuid: 8b9d7a50ef5b40419fb6c0cd287aa46d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854326729
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b201c6c86c54486b8a2d7e0dea67c922/artifacts
+end_time: 1740862963379
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b201c6c86c54486b8a2d7e0dea67c922
+run_name: adorable-wolf-383
+run_uuid: b201c6c86c54486b8a2d7e0dea67c922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862931780
+status: 3
+tags: []
+user_id: felip

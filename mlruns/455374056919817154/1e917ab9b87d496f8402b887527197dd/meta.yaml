@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1e917ab9b87d496f8402b887527197dd/artifacts
+end_time: 1740854367662
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1e917ab9b87d496f8402b887527197dd
+run_name: exultant-crane-987
+run_uuid: 1e917ab9b87d496f8402b887527197dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854366813
+status: 3
+tags: []
+user_id: felip

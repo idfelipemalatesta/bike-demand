@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e1aafc6f5d954f769e50aae871c3b983/artifacts
+deleted_time: 1740851992409
+end_time: 1740851843672
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: e1aafc6f5d954f769e50aae871c3b983
+run_name: bouncy-fly-865
+run_uuid: e1aafc6f5d954f769e50aae871c3b983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851843405
+status: 3
+tags: []
+user_id: felip

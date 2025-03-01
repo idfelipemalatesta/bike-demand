@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/26041f8028b94b85844351a1a5eb072e/artifacts
+deleted_time: 1740852013406
+end_time: 1740851830071
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 26041f8028b94b85844351a1a5eb072e
+run_name: overjoyed-gull-810
+run_uuid: 26041f8028b94b85844351a1a5eb072e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851829835
+status: 3
+tags: []
+user_id: felip

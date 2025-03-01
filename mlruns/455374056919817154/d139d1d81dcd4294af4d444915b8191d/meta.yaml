@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d139d1d81dcd4294af4d444915b8191d/artifacts
+end_time: 1740852211914
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d139d1d81dcd4294af4d444915b8191d
+run_name: dapper-finch-884
+run_uuid: d139d1d81dcd4294af4d444915b8191d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852211706
+status: 3
+tags: []
+user_id: felip

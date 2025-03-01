@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/18bd72b1aa904038b5da9396d354f377/artifacts
+deleted_time: 1740852013905
+end_time: 1740851800425
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 18bd72b1aa904038b5da9396d354f377
+run_name: sneaky-bat-224
+run_uuid: 18bd72b1aa904038b5da9396d354f377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851800199
+status: 3
+tags: []
+user_id: felip

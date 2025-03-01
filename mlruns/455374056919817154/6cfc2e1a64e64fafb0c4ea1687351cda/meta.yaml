@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6cfc2e1a64e64fafb0c4ea1687351cda/artifacts
+end_time: 1740852217754
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 6cfc2e1a64e64fafb0c4ea1687351cda
+run_name: rare-sponge-772
+run_uuid: 6cfc2e1a64e64fafb0c4ea1687351cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852217354
+status: 3
+tags: []
+user_id: felip

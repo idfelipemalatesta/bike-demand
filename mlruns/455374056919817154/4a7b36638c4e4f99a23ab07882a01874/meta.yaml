@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4a7b36638c4e4f99a23ab07882a01874/artifacts
+deleted_time: 1740852040268
+end_time: 1740851739583
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 4a7b36638c4e4f99a23ab07882a01874
+run_name: fearless-donkey-82
+run_uuid: 4a7b36638c4e4f99a23ab07882a01874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851739412
+status: 3
+tags: []
+user_id: felip

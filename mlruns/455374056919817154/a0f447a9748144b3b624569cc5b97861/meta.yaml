@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a0f447a9748144b3b624569cc5b97861/artifacts
+deleted_time: 1740852013420
+end_time: 1740851829741
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a0f447a9748144b3b624569cc5b97861
+run_name: clean-lynx-900
+run_uuid: a0f447a9748144b3b624569cc5b97861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851829516
+status: 3
+tags: []
+user_id: felip

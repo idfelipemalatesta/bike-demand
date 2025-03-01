@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6a40663a5a3e49c299929945d3dcc4d3/artifacts
+deleted_time: 1740851992021
+end_time: 1740851866175
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 6a40663a5a3e49c299929945d3dcc4d3
+run_name: enchanting-sheep-835
+run_uuid: 6a40663a5a3e49c299929945d3dcc4d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851865944
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/23bcb19e990840af9c53b9677a33a06c/artifacts
+end_time: 1740852258406
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 23bcb19e990840af9c53b9677a33a06c
+run_name: handsome-cat-418
+run_uuid: 23bcb19e990840af9c53b9677a33a06c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852258022
+status: 3
+tags: []
+user_id: felip

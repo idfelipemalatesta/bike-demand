@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/afced62dfe454c118923e9f6d82180be/artifacts
+end_time: 1740852145734
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: afced62dfe454c118923e9f6d82180be
+run_name: amazing-newt-857
+run_uuid: afced62dfe454c118923e9f6d82180be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852145509
+status: 3
+tags: []
+user_id: felip

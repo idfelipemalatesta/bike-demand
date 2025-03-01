@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e5cce0a707934150ad55a9843615d320/artifacts
+deleted_time: 1740851992201
+end_time: 1740851857389
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: e5cce0a707934150ad55a9843615d320
+run_name: casual-mare-425
+run_uuid: e5cce0a707934150ad55a9843615d320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851857069
+status: 3
+tags: []
+user_id: felip

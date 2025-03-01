@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/b3450434649d436ab8f6c8da6335b738/artifacts
+end_time: 1740854806819
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: b3450434649d436ab8f6c8da6335b738
+run_name: skillful-gull-890
+run_uuid: b3450434649d436ab8f6c8da6335b738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854805203
+status: 3
+tags: []
+user_id: felip

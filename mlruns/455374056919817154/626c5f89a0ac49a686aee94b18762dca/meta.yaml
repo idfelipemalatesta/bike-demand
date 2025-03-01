@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/626c5f89a0ac49a686aee94b18762dca/artifacts
+deleted_time: 1740851975570
+end_time: 1740851886288
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 626c5f89a0ac49a686aee94b18762dca
+run_name: victorious-wren-846
+run_uuid: 626c5f89a0ac49a686aee94b18762dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851885914
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ffa0bfcfd68c4e66b9a2bbf684a50ac9/artifacts
+end_time: 1740852275547
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ffa0bfcfd68c4e66b9a2bbf684a50ac9
+run_name: suave-dove-43
+run_uuid: ffa0bfcfd68c4e66b9a2bbf684a50ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852275292
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/69dc3f657adc417583ef99d901dd9c5e/artifacts
+end_time: 1740862709716
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 69dc3f657adc417583ef99d901dd9c5e
+run_name: upset-penguin-981
+run_uuid: 69dc3f657adc417583ef99d901dd9c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862678230
+status: 3
+tags: []
+user_id: felip

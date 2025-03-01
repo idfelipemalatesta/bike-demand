@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1345d92d57474e43903b08e8fa310831/artifacts
+end_time: 1740860299847
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1345d92d57474e43903b08e8fa310831
+run_name: rambunctious-cub-284
+run_uuid: 1345d92d57474e43903b08e8fa310831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860267715
+status: 3
+tags: []
+user_id: felip

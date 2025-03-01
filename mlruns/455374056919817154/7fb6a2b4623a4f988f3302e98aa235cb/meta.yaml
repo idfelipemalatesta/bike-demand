@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7fb6a2b4623a4f988f3302e98aa235cb/artifacts
+deleted_time: 1740851957897
+end_time: 1740851774391
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 7fb6a2b4623a4f988f3302e98aa235cb
+run_name: marvelous-quail-29
+run_uuid: 7fb6a2b4623a4f988f3302e98aa235cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851774176
+status: 3
+tags: []
+user_id: felip

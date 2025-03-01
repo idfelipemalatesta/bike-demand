@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8daf2e94c5894213b12504d19a52c0d8/artifacts
+deleted_time: 1740851992059
+end_time: 1740851864230
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 8daf2e94c5894213b12504d19a52c0d8
+run_name: gregarious-shoat-719
+run_uuid: 8daf2e94c5894213b12504d19a52c0d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851863975
+status: 3
+tags: []
+user_id: felip

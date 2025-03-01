@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/39ecda326fa24d5fa206f6e97d2af6f5/artifacts
+end_time: 1740852188438
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 39ecda326fa24d5fa206f6e97d2af6f5
+run_name: bright-fawn-795
+run_uuid: 39ecda326fa24d5fa206f6e97d2af6f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852188157
+status: 3
+tags: []
+user_id: felip

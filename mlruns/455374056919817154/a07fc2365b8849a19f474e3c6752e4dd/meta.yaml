@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a07fc2365b8849a19f474e3c6752e4dd/artifacts
+end_time: 1740865932684
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a07fc2365b8849a19f474e3c6752e4dd
+run_name: monumental-worm-966
+run_uuid: a07fc2365b8849a19f474e3c6752e4dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865900515
+status: 3
+tags: []
+user_id: felip

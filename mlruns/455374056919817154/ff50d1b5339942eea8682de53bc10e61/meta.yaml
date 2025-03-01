@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ff50d1b5339942eea8682de53bc10e61/artifacts
+deleted_time: 1740851958290
+end_time: 1740851756681
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ff50d1b5339942eea8682de53bc10e61
+run_name: lyrical-vole-879
+run_uuid: ff50d1b5339942eea8682de53bc10e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851756483
+status: 3
+tags: []
+user_id: felip

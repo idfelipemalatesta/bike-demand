@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/9479ee88b9f34e5494fc4d0e81af9d58/artifacts
+end_time: 1740854588246
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 9479ee88b9f34e5494fc4d0e81af9d58
+run_name: agreeable-shrike-621
+run_uuid: 9479ee88b9f34e5494fc4d0e81af9d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740854552029
+status: 3
+tags: []
+user_id: felip

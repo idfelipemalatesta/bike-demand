@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/75b7cf9ad865401da2f33a1e24a766b4/artifacts
+end_time: 1740865613355
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 75b7cf9ad865401da2f33a1e24a766b4
+run_name: smiling-skink-867
+run_uuid: 75b7cf9ad865401da2f33a1e24a766b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740865580784
+status: 3
+tags: []
+user_id: felip

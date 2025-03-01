@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4f19d2fe935c4abd8a05ff177f15b1e1/artifacts
+deleted_time: 1740851992470
+end_time: 1740851839785
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 4f19d2fe935c4abd8a05ff177f15b1e1
+run_name: thundering-bass-742
+run_uuid: 4f19d2fe935c4abd8a05ff177f15b1e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851839439
+status: 3
+tags: []
+user_id: felip

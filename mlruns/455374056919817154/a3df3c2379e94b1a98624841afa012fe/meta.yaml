@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a3df3c2379e94b1a98624841afa012fe/artifacts
+end_time: 1740852261452
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: a3df3c2379e94b1a98624841afa012fe
+run_name: luxuriant-trout-194
+run_uuid: a3df3c2379e94b1a98624841afa012fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852261171
+status: 3
+tags: []
+user_id: felip

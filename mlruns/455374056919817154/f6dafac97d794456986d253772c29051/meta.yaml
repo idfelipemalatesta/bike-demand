@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f6dafac97d794456986d253772c29051/artifacts
+deleted_time: 1740852013924
+end_time: 1740851799133
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f6dafac97d794456986d253772c29051
+run_name: suave-wren-997
+run_uuid: f6dafac97d794456986d253772c29051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851798892
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f67ff211e6ef41d58e137cce9942e54e/artifacts
+end_time: 1740852195955
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f67ff211e6ef41d58e137cce9942e54e
+run_name: dazzling-jay-553
+run_uuid: f67ff211e6ef41d58e137cce9942e54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852195641
+status: 3
+tags: []
+user_id: felip

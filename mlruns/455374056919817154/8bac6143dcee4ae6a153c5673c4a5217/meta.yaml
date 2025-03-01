@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/8bac6143dcee4ae6a153c5673c4a5217/artifacts
+deleted_time: 1740851957893
+end_time: 1740851774686
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 8bac6143dcee4ae6a153c5673c4a5217
+run_name: funny-croc-110
+run_uuid: 8bac6143dcee4ae6a153c5673c4a5217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851774482
+status: 3
+tags: []
+user_id: felip

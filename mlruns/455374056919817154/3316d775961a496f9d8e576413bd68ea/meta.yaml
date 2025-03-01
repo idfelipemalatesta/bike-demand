@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3316d775961a496f9d8e576413bd68ea/artifacts
+deleted_time: 1740851992418
+end_time: 1740851842940
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3316d775961a496f9d8e576413bd68ea
+run_name: legendary-skunk-835
+run_uuid: 3316d775961a496f9d8e576413bd68ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851842684
+status: 3
+tags: []
+user_id: felip

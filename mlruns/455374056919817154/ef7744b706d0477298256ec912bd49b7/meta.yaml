@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ef7744b706d0477298256ec912bd49b7/artifacts
+deleted_time: 1740851975750
+end_time: 1740851873606
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ef7744b706d0477298256ec912bd49b7
+run_name: welcoming-stoat-13
+run_uuid: ef7744b706d0477298256ec912bd49b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851873322
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f4720035c15d4529af503ac6e3fb538c/artifacts
+deleted_time: 1740852040201
+end_time: 1740851743605
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f4720035c15d4529af503ac6e3fb538c
+run_name: peaceful-mouse-69
+run_uuid: f4720035c15d4529af503ac6e3fb538c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851743369
+status: 3
+tags: []
+user_id: felip

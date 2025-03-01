@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/883f03deabe44b76a19f1642bb747dbb/artifacts
+end_time: 1740860736385
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 883f03deabe44b76a19f1642bb747dbb
+run_name: amazing-bug-117
+run_uuid: 883f03deabe44b76a19f1642bb747dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860695269
+status: 3
+tags: []
+user_id: felip

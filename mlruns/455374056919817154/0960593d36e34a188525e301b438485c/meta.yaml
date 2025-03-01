@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/0960593d36e34a188525e301b438485c/artifacts
+end_time: 1740859597887
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 0960593d36e34a188525e301b438485c
+run_name: smiling-hen-340
+run_uuid: 0960593d36e34a188525e301b438485c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740859566199
+status: 3
+tags: []
+user_id: felip

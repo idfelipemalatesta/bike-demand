@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ffa2e0e3886444cbb070d39dd449b3d1/artifacts
+end_time: 1740858124767
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ffa2e0e3886444cbb070d39dd449b3d1
+run_name: auspicious-snipe-677
+run_uuid: ffa2e0e3886444cbb070d39dd449b3d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740858084284
+status: 3
+tags: []
+user_id: felip

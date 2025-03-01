@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7f3acb67039a4282aca91e1832cd3557/artifacts
+end_time: 1740852115892
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7f3acb67039a4282aca91e1832cd3557
+run_name: luxuriant-lamb-575
+run_uuid: 7f3acb67039a4282aca91e1832cd3557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852115746
+status: 3
+tags: []
+user_id: felip

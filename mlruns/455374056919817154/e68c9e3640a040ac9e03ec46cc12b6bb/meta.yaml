@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e68c9e3640a040ac9e03ec46cc12b6bb/artifacts
+deleted_time: 1740851975534
+end_time: 1740851889144
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: e68c9e3640a040ac9e03ec46cc12b6bb
+run_name: dashing-moose-654
+run_uuid: e68c9e3640a040ac9e03ec46cc12b6bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851888898
+status: 3
+tags: []
+user_id: felip

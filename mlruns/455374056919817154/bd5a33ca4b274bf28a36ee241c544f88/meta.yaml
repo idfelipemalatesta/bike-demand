@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bd5a33ca4b274bf28a36ee241c544f88/artifacts
+end_time: 1740860927636
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: bd5a33ca4b274bf28a36ee241c544f88
+run_name: wistful-finch-175
+run_uuid: bd5a33ca4b274bf28a36ee241c544f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860891013
+status: 3
+tags: []
+user_id: felip

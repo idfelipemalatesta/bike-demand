@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cba1b77715fb4b2099dbe119d235cd88/artifacts
+deleted_time: 1740851992387
+end_time: 1740851845010
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: cba1b77715fb4b2099dbe119d235cd88
+run_name: masked-zebra-81
+run_uuid: cba1b77715fb4b2099dbe119d235cd88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851844788
+status: 3
+tags: []
+user_id: felip

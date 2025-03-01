@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/57c4a559e2b346c68a75f5753787e08f/artifacts
+end_time: 1740863442330
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 57c4a559e2b346c68a75f5753787e08f
+run_name: zealous-trout-740
+run_uuid: 57c4a559e2b346c68a75f5753787e08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863410464
+status: 3
+tags: []
+user_id: felip

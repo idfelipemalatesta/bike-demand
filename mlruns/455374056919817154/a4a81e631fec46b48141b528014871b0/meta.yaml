@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a4a81e631fec46b48141b528014871b0/artifacts
+deleted_time: 1740852040175
+end_time: 1740851745269
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a4a81e631fec46b48141b528014871b0
+run_name: smiling-bird-260
+run_uuid: a4a81e631fec46b48141b528014871b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851745056
+status: 3
+tags: []
+user_id: felip

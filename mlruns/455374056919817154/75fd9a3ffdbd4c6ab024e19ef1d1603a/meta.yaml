@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/75fd9a3ffdbd4c6ab024e19ef1d1603a/artifacts
+end_time: 1740852245897
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 75fd9a3ffdbd4c6ab024e19ef1d1603a
+run_name: luxuriant-bear-745
+run_uuid: 75fd9a3ffdbd4c6ab024e19ef1d1603a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852245618
+status: 3
+tags: []
+user_id: felip

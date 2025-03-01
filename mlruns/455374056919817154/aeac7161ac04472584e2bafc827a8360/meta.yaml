@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/aeac7161ac04472584e2bafc827a8360/artifacts
+deleted_time: 1740851992315
+end_time: 1740851849939
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: aeac7161ac04472584e2bafc827a8360
+run_name: suave-bat-755
+run_uuid: aeac7161ac04472584e2bafc827a8360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851849692
+status: 3
+tags: []
+user_id: felip

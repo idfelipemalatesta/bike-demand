@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ff684621e3bc458781a67875bbc99084/artifacts
+end_time: 1740852279670
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: ff684621e3bc458781a67875bbc99084
+run_name: bouncy-ape-558
+run_uuid: ff684621e3bc458781a67875bbc99084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852279381
+status: 3
+tags: []
+user_id: felip

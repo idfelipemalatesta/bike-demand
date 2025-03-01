@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/35cdf9e24a2f4f018c535767bed65270/artifacts
+end_time: 1740862104481
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 35cdf9e24a2f4f018c535767bed65270
+run_name: sassy-mole-174
+run_uuid: 35cdf9e24a2f4f018c535767bed65270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862072733
+status: 3
+tags: []
+user_id: felip

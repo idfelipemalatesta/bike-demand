@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/df83e9e9fd3c475a8fcd79e2ff7866fe/artifacts
+end_time: 1740860266966
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: df83e9e9fd3c475a8fcd79e2ff7866fe
+run_name: fun-horse-805
+run_uuid: df83e9e9fd3c475a8fcd79e2ff7866fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860235398
+status: 3
+tags: []
+user_id: felip

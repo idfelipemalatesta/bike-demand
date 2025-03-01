@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3618e0f51f1348f6a199e64f27c12b44/artifacts
+deleted_time: 1740851992541
+end_time: 1740851835511
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 3618e0f51f1348f6a199e64f27c12b44
+run_name: amazing-shrimp-584
+run_uuid: 3618e0f51f1348f6a199e64f27c12b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851835305
+status: 3
+tags: []
+user_id: felip

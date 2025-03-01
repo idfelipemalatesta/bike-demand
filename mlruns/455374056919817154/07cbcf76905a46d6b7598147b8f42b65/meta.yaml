@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/07cbcf76905a46d6b7598147b8f42b65/artifacts
+deleted_time: 1740851975369
+end_time: 1740851899634
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 07cbcf76905a46d6b7598147b8f42b65
+run_name: burly-bird-984
+run_uuid: 07cbcf76905a46d6b7598147b8f42b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851899259
+status: 3
+tags: []
+user_id: felip

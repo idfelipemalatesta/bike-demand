@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/1398ba69619a4caf89ec03f70dc6b06d/artifacts
+end_time: 1740852221648
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 1398ba69619a4caf89ec03f70dc6b06d
+run_name: legendary-mare-254
+run_uuid: 1398ba69619a4caf89ec03f70dc6b06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852221377
+status: 3
+tags: []
+user_id: felip

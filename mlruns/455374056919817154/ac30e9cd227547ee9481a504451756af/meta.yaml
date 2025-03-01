@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ac30e9cd227547ee9481a504451756af/artifacts
+deleted_time: 1740852013734
+end_time: 1740851812154
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ac30e9cd227547ee9481a504451756af
+run_name: popular-roo-602
+run_uuid: ac30e9cd227547ee9481a504451756af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851811920
+status: 3
+tags: []
+user_id: felip

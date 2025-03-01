@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/18b78cc309434bd183c143c631ef57c7/artifacts
+end_time: 1740852242664
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 18b78cc309434bd183c143c631ef57c7
+run_name: monumental-ape-371
+run_uuid: 18b78cc309434bd183c143c631ef57c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852242228
+status: 3
+tags: []
+user_id: felip

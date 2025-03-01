@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a8fca009e1dc4b54b517c13d1a3957da/artifacts
+deleted_time: 1740851975550
+end_time: 1740851888124
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a8fca009e1dc4b54b517c13d1a3957da
+run_name: suave-fox-198
+run_uuid: a8fca009e1dc4b54b517c13d1a3957da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851887894
+status: 3
+tags: []
+user_id: felip

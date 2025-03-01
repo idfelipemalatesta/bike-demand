@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6d48397a62244f5097483a2ce46ccd99/artifacts
+deleted_time: 1740852013864
+end_time: 1740851803376
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 6d48397a62244f5097483a2ce46ccd99
+run_name: whimsical-wasp-646
+run_uuid: 6d48397a62244f5097483a2ce46ccd99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851803170
+status: 3
+tags: []
+user_id: felip

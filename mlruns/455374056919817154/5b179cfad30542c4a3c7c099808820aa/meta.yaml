@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5b179cfad30542c4a3c7c099808820aa/artifacts
+end_time: 1740852286330
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 5b179cfad30542c4a3c7c099808820aa
+run_name: amazing-stoat-780
+run_uuid: 5b179cfad30542c4a3c7c099808820aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852285988
+status: 3
+tags: []
+user_id: felip

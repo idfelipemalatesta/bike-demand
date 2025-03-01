@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/41d34467290c46e19099bcb609af72a4/artifacts
+end_time: 1740852195092
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 41d34467290c46e19099bcb609af72a4
+run_name: valuable-tern-313
+run_uuid: 41d34467290c46e19099bcb609af72a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852194825
+status: 3
+tags: []
+user_id: felip

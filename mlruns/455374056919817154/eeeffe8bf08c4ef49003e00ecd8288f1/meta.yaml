@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/eeeffe8bf08c4ef49003e00ecd8288f1/artifacts
+deleted_time: 1740852013839
+end_time: 1740851804707
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: eeeffe8bf08c4ef49003e00ecd8288f1
+run_name: kindly-dove-878
+run_uuid: eeeffe8bf08c4ef49003e00ecd8288f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851804472
+status: 3
+tags: []
+user_id: felip

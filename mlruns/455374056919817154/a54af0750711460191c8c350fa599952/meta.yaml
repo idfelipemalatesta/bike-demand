@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/a54af0750711460191c8c350fa599952/artifacts
+deleted_time: 1740852039896
+end_time: 1740851795319
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: a54af0750711460191c8c350fa599952
+run_name: overjoyed-fowl-919
+run_uuid: a54af0750711460191c8c350fa599952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851795069
+status: 3
+tags: []
+user_id: felip

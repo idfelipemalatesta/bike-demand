@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2cfe96b97ae44d84b6f6c35e8dbf226c/artifacts
+end_time: 1740862867247
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2cfe96b97ae44d84b6f6c35e8dbf226c
+run_name: caring-turtle-515
+run_uuid: 2cfe96b97ae44d84b6f6c35e8dbf226c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740862841163
+status: 3
+tags: []
+user_id: felip

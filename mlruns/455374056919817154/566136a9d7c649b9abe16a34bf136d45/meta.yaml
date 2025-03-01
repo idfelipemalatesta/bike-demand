@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/566136a9d7c649b9abe16a34bf136d45/artifacts
+end_time: 1740864364564
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 566136a9d7c649b9abe16a34bf136d45
+run_name: flawless-toad-942
+run_uuid: 566136a9d7c649b9abe16a34bf136d45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740864363967
+status: 3
+tags: []
+user_id: felip

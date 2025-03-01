@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ed34261bcea0420db168cdbb06db0732/artifacts
+deleted_time: 1740852013852
+end_time: 1740851804051
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ed34261bcea0420db168cdbb06db0732
+run_name: lyrical-bug-474
+run_uuid: ed34261bcea0420db168cdbb06db0732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851803797
+status: 3
+tags: []
+user_id: felip

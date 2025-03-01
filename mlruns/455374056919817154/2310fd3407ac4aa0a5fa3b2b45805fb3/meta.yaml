@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/2310fd3407ac4aa0a5fa3b2b45805fb3/artifacts
+end_time: 1740852123726
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 2310fd3407ac4aa0a5fa3b2b45805fb3
+run_name: resilient-shrimp-200
+run_uuid: 2310fd3407ac4aa0a5fa3b2b45805fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852123539
+status: 3
+tags: []
+user_id: felip

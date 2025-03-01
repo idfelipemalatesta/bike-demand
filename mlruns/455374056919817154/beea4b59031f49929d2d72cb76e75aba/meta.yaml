@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/beea4b59031f49929d2d72cb76e75aba/artifacts
+end_time: 1740866189205
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: beea4b59031f49929d2d72cb76e75aba
+run_name: bittersweet-dog-222
+run_uuid: beea4b59031f49929d2d72cb76e75aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740866157084
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/5eb3df0a467b4d0ebdeb8254af838197/artifacts
+deleted_time: 1740851975463
+end_time: 1740851894456
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 5eb3df0a467b4d0ebdeb8254af838197
+run_name: bemused-foal-533
+run_uuid: 5eb3df0a467b4d0ebdeb8254af838197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851894207
+status: 3
+tags: []
+user_id: felip

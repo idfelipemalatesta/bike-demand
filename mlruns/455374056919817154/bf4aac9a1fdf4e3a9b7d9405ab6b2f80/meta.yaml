@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/bf4aac9a1fdf4e3a9b7d9405ab6b2f80/artifacts
+deleted_time: 1740851992313
+end_time: 1740851850265
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: bf4aac9a1fdf4e3a9b7d9405ab6b2f80
+run_name: able-mink-137
+run_uuid: bf4aac9a1fdf4e3a9b7d9405ab6b2f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851850029
+status: 3
+tags: []
+user_id: felip

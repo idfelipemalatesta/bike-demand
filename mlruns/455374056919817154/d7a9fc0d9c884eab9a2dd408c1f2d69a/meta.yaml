@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d7a9fc0d9c884eab9a2dd408c1f2d69a/artifacts
+end_time: 1740863315868
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: d7a9fc0d9c884eab9a2dd408c1f2d69a
+run_name: vaunted-whale-126
+run_uuid: d7a9fc0d9c884eab9a2dd408c1f2d69a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740863283563
+status: 3
+tags: []
+user_id: felip

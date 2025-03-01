@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f6fb1e98bea747a3bad6810f02eaab4f/artifacts
+deleted_time: 1740852040314
+end_time: 1740851737024
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: f6fb1e98bea747a3bad6810f02eaab4f
+run_name: unique-penguin-903
+run_uuid: f6fb1e98bea747a3bad6810f02eaab4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851736897
+status: 3
+tags: []
+user_id: felip

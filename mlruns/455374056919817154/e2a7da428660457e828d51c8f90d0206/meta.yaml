@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/e2a7da428660457e828d51c8f90d0206/artifacts
+end_time: 1740856054540
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: e2a7da428660457e828d51c8f90d0206
+run_name: spiffy-ray-316
+run_uuid: e2a7da428660457e828d51c8f90d0206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740856053943
+status: 3
+tags: []
+user_id: felip

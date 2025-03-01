@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/ec817c8d84cb47e8a594a37900714c9c/artifacts
+deleted_time: 1740852040008
+end_time: 1740851787859
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: ec817c8d84cb47e8a594a37900714c9c
+run_name: selective-ram-807
+run_uuid: ec817c8d84cb47e8a594a37900714c9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851787621
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/4b9356d2b6ec46e5808d0cb9ffa12ee9/artifacts
+end_time: 1740852225398
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 4b9356d2b6ec46e5808d0cb9ffa12ee9
+run_name: grandiose-pug-881
+run_uuid: 4b9356d2b6ec46e5808d0cb9ffa12ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852225104
+status: 3
+tags: []
+user_id: felip

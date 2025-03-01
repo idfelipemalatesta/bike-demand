@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/f74baea90ac7462f8c1292cfeaf36c0a/artifacts
+end_time: 1740867534985
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: f74baea90ac7462f8c1292cfeaf36c0a
+run_name: gaudy-donkey-657
+run_uuid: f74baea90ac7462f8c1292cfeaf36c0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867502285
+status: 3
+tags: []
+user_id: felip

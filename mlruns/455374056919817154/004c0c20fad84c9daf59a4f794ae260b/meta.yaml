@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/004c0c20fad84c9daf59a4f794ae260b/artifacts
+deleted_time: 1740852039990
+end_time: 1740851788790
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: 004c0c20fad84c9daf59a4f794ae260b
+run_name: amusing-gnat-336
+run_uuid: 004c0c20fad84c9daf59a4f794ae260b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851788569
+status: 3
+tags: []
+user_id: felip

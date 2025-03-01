@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/7202208c5ef943c5a3aed827fde17859/artifacts
+end_time: 1740852116392
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 7202208c5ef943c5a3aed827fde17859
+run_name: monumental-asp-180
+run_uuid: 7202208c5ef943c5a3aed827fde17859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852116238
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/6d85e371ce944c0b81bad24fb4d14a97/artifacts
+end_time: 1740852126435
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 6d85e371ce944c0b81bad24fb4d14a97
+run_name: nosy-boar-905
+run_uuid: 6d85e371ce944c0b81bad24fb4d14a97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852126246
+status: 3
+tags: []
+user_id: felip

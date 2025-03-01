@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/c1a6c87b55bc4982ab41e99f7c96e053/artifacts
+end_time: 1740867145918
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: c1a6c87b55bc4982ab41e99f7c96e053
+run_name: amazing-stag-769
+run_uuid: c1a6c87b55bc4982ab41e99f7c96e053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740867113151
+status: 3
+tags: []
+user_id: felip

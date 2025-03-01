@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/d526b136f2ae42d285fd7785573ed77f/artifacts
+deleted_time: 1740852040076
+end_time: 1740851783776
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: d526b136f2ae42d285fd7785573ed77f
+run_name: carefree-shrew-625
+run_uuid: d526b136f2ae42d285fd7785573ed77f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851783571
+status: 3
+tags: []
+user_id: felip

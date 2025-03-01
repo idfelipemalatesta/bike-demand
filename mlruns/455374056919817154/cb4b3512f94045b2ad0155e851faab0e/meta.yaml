@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/cb4b3512f94045b2ad0155e851faab0e/artifacts
+deleted_time: 1740851958416
+end_time: 1740851749626
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: deleted
+run_id: cb4b3512f94045b2ad0155e851faab0e
+run_name: handsome-newt-583
+run_uuid: cb4b3512f94045b2ad0155e851faab0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740851749424
+status: 3
+tags: []
+user_id: felip

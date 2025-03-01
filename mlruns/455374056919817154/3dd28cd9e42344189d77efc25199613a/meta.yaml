@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/455374056919817154/3dd28cd9e42344189d77efc25199613a/artifacts
+end_time: 1740852188059
+entry_point_name: ''
+experiment_id: '455374056919817154'
+lifecycle_stage: active
+run_id: 3dd28cd9e42344189d77efc25199613a
+run_name: youthful-ox-479
+run_uuid: 3dd28cd9e42344189d77efc25199613a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740852187814
+status: 3
+tags: []
+user_id: felip
