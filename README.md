@@ -13,7 +13,7 @@ O objetivo do projeto está em demonstrar a habilidade na utilização de ferram
 
 ### EDA
 
-<img src="mlartifacts\710293299470340528\99f0bbb18b6f4b039ebbeb88eabcfa72\artifacts\correlation_plot.png">
+<img src="report\figures\correlation_plot.png">
 
 <img src="report\figures\correlation_all.png">
 
