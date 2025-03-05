@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/91dba339456c45f5a2d2eb0837c974fa/artifacts
+end_time: 1741208285812
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 91dba339456c45f5a2d2eb0837c974fa
+run_name: charming-fowl-531
+run_uuid: 91dba339456c45f5a2d2eb0837c974fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208283395
+status: 3
+tags: []
+user_id: felip

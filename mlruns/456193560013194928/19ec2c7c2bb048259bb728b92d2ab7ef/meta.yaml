@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/19ec2c7c2bb048259bb728b92d2ab7ef/artifacts
+end_time: 1741209072650
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 19ec2c7c2bb048259bb728b92d2ab7ef
+run_name: ambitious-auk-341
+run_uuid: 19ec2c7c2bb048259bb728b92d2ab7ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209070389
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/3a25785cdb8d4e48b8e83558f3ba6666/artifacts
+end_time: 1741208480699
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 3a25785cdb8d4e48b8e83558f3ba6666
+run_name: beautiful-dove-854
+run_uuid: 3a25785cdb8d4e48b8e83558f3ba6666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208478473
+status: 3
+tags: []
+user_id: felip

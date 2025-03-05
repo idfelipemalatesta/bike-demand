@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/225e09763bac40a589e7ea2f086a38f2/artifacts
+end_time: 1741209648678
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 225e09763bac40a589e7ea2f086a38f2
+run_name: brawny-kite-382
+run_uuid: 225e09763bac40a589e7ea2f086a38f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209648303
+status: 3
+tags: []
+user_id: felip

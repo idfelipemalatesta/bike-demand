@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f4d9364529f54b1abf7ead92d2a57c97/artifacts
+end_time: 1741209443957
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f4d9364529f54b1abf7ead92d2a57c97
+run_name: exultant-yak-624
+run_uuid: f4d9364529f54b1abf7ead92d2a57c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209443574
+status: 3
+tags: []
+user_id: felip

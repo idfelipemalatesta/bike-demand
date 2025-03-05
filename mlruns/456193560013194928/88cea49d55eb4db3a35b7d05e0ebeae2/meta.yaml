@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/88cea49d55eb4db3a35b7d05e0ebeae2/artifacts
+end_time: 1741208248376
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 88cea49d55eb4db3a35b7d05e0ebeae2
+run_name: powerful-koi-291
+run_uuid: 88cea49d55eb4db3a35b7d05e0ebeae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208245706
+status: 3
+tags: []
+user_id: felip

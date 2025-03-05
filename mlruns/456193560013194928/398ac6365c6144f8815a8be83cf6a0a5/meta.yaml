@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/398ac6365c6144f8815a8be83cf6a0a5/artifacts
+end_time: 1741208056968
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 398ac6365c6144f8815a8be83cf6a0a5
+run_name: painted-mule-523
+run_uuid: 398ac6365c6144f8815a8be83cf6a0a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208054535
+status: 3
+tags: []
+user_id: felip

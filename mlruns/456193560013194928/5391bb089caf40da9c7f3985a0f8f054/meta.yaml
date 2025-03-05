@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/5391bb089caf40da9c7f3985a0f8f054/artifacts
+end_time: 1741208778521
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 5391bb089caf40da9c7f3985a0f8f054
+run_name: kindly-zebra-551
+run_uuid: 5391bb089caf40da9c7f3985a0f8f054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208776224
+status: 3
+tags: []
+user_id: felip

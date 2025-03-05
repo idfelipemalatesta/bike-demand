@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/26ff49d74f9145c09acfae86ac7ab29f/artifacts
+end_time: 1741209529216
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 26ff49d74f9145c09acfae86ac7ab29f
+run_name: defiant-pug-429
+run_uuid: 26ff49d74f9145c09acfae86ac7ab29f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209528751
+status: 3
+tags: []
+user_id: felip

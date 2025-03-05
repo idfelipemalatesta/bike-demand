@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/f14aef8a820f476783d5c70fd8b2c158/artifacts
+end_time: 1741209831165
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: f14aef8a820f476783d5c70fd8b2c158
+run_name: zealous-gnat-700
+run_uuid: f14aef8a820f476783d5c70fd8b2c158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209830340
+status: 3
+tags: []
+user_id: felip

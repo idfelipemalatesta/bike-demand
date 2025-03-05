@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f5b0184f3cc04e569a85c9954e476913/artifacts
+end_time: 1741208360105
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f5b0184f3cc04e569a85c9954e476913
+run_name: agreeable-elk-474
+run_uuid: f5b0184f3cc04e569a85c9954e476913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208357898
+status: 3
+tags: []
+user_id: felip

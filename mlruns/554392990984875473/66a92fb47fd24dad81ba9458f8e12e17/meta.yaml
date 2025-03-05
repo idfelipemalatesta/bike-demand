@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/66a92fb47fd24dad81ba9458f8e12e17/artifacts
+end_time: 1741209713975
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 66a92fb47fd24dad81ba9458f8e12e17
+run_name: trusting-calf-616
+run_uuid: 66a92fb47fd24dad81ba9458f8e12e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209706384
+status: 3
+tags: []
+user_id: felip

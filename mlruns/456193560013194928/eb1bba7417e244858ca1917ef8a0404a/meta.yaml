@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/eb1bba7417e244858ca1917ef8a0404a/artifacts
+end_time: 1741208562800
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: eb1bba7417e244858ca1917ef8a0404a
+run_name: unruly-zebra-178
+run_uuid: eb1bba7417e244858ca1917ef8a0404a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208560015
+status: 3
+tags: []
+user_id: felip

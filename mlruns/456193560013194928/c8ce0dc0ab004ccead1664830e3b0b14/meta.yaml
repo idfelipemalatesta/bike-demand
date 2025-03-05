@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/c8ce0dc0ab004ccead1664830e3b0b14/artifacts
+end_time: 1741209081583
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: c8ce0dc0ab004ccead1664830e3b0b14
+run_name: thundering-pug-773
+run_uuid: c8ce0dc0ab004ccead1664830e3b0b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209078948
+status: 3
+tags: []
+user_id: felip

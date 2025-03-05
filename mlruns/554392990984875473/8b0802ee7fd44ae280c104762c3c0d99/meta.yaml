@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/8b0802ee7fd44ae280c104762c3c0d99/artifacts
+end_time: 1741209833841
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 8b0802ee7fd44ae280c104762c3c0d99
+run_name: valuable-calf-765
+run_uuid: 8b0802ee7fd44ae280c104762c3c0d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209833250
+status: 3
+tags: []
+user_id: felip

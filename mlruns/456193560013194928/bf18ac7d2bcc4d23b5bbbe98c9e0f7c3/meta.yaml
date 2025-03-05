@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/bf18ac7d2bcc4d23b5bbbe98c9e0f7c3/artifacts
+end_time: 1741209444880
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: bf18ac7d2bcc4d23b5bbbe98c9e0f7c3
+run_name: vaunted-slug-709
+run_uuid: bf18ac7d2bcc4d23b5bbbe98c9e0f7c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209444471
+status: 3
+tags: []
+user_id: felip

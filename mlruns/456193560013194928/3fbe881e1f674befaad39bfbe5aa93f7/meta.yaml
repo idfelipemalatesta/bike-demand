@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/3fbe881e1f674befaad39bfbe5aa93f7/artifacts
+end_time: 1741208853818
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 3fbe881e1f674befaad39bfbe5aa93f7
+run_name: trusting-bass-689
+run_uuid: 3fbe881e1f674befaad39bfbe5aa93f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208851367
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/fd90a3a4c6e344488f501c880f614539/artifacts
+end_time: 1741208296561
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: fd90a3a4c6e344488f501c880f614539
+run_name: receptive-sloth-118
+run_uuid: fd90a3a4c6e344488f501c880f614539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208293332
+status: 3
+tags: []
+user_id: felip

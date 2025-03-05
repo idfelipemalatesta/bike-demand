@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/190d50c223ed4bb1a415c39df49da258/artifacts
+end_time: 1741208437523
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 190d50c223ed4bb1a415c39df49da258
+run_name: nosy-worm-308
+run_uuid: 190d50c223ed4bb1a415c39df49da258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208434999
+status: 3
+tags: []
+user_id: felip

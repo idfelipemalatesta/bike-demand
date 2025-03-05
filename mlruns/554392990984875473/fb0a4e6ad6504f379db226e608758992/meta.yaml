@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/fb0a4e6ad6504f379db226e608758992/artifacts
+end_time: 1741209630031
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: fb0a4e6ad6504f379db226e608758992
+run_name: incongruous-ant-82
+run_uuid: fb0a4e6ad6504f379db226e608758992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209622348
+status: 3
+tags: []
+user_id: felip

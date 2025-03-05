@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/887e5166e5e241f2b93471a8dc92c677/artifacts
+end_time: 1741208861493
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 887e5166e5e241f2b93471a8dc92c677
+run_name: skittish-snake-752
+run_uuid: 887e5166e5e241f2b93471a8dc92c677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208859091
+status: 3
+tags: []
+user_id: felip

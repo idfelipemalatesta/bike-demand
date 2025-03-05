@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/00fd9249c05f46ef8bae753a5c38bb0c/artifacts
+end_time: 1741208971880
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 00fd9249c05f46ef8bae753a5c38bb0c
+run_name: useful-mare-977
+run_uuid: 00fd9249c05f46ef8bae753a5c38bb0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208969259
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/4a4c99c0b53d407f893c7329a0fe0d6f/artifacts
+end_time: 1741208602618
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 4a4c99c0b53d407f893c7329a0fe0d6f
+run_name: thoughtful-bat-554
+run_uuid: 4a4c99c0b53d407f893c7329a0fe0d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208599858
+status: 3
+tags: []
+user_id: felip

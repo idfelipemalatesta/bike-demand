@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/b8a0340ec27e4240a28a57f89dd051cd/artifacts
+end_time: 1741209436973
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: b8a0340ec27e4240a28a57f89dd051cd
+run_name: delightful-chimp-136
+run_uuid: b8a0340ec27e4240a28a57f89dd051cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209436639
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/dae8c41a3287438bba955759d262ccad/artifacts
+end_time: 1741208151755
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: dae8c41a3287438bba955759d262ccad
+run_name: enthused-ape-755
+run_uuid: dae8c41a3287438bba955759d262ccad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208149101
+status: 3
+tags: []
+user_id: felip

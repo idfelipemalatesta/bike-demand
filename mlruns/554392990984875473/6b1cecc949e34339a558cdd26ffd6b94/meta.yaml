@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/6b1cecc949e34339a558cdd26ffd6b94/artifacts
+end_time: 1741209777163
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 6b1cecc949e34339a558cdd26ffd6b94
+run_name: unique-dog-252
+run_uuid: 6b1cecc949e34339a558cdd26ffd6b94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209769936
+status: 3
+tags: []
+user_id: felip

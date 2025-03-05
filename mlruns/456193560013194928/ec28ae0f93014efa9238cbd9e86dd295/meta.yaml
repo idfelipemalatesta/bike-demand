@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ec28ae0f93014efa9238cbd9e86dd295/artifacts
+end_time: 1741208419733
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ec28ae0f93014efa9238cbd9e86dd295
+run_name: unique-skink-587
+run_uuid: ec28ae0f93014efa9238cbd9e86dd295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208417421
+status: 3
+tags: []
+user_id: felip

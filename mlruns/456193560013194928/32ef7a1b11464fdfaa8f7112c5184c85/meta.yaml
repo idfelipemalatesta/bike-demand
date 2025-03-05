@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/32ef7a1b11464fdfaa8f7112c5184c85/artifacts
+end_time: 1741208399449
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 32ef7a1b11464fdfaa8f7112c5184c85
+run_name: burly-worm-977
+run_uuid: 32ef7a1b11464fdfaa8f7112c5184c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208397053
+status: 3
+tags: []
+user_id: felip

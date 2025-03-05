@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/353b933866c44b7baecddb559a01e417/artifacts
+end_time: 1741209651822
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 353b933866c44b7baecddb559a01e417
+run_name: sedate-sloth-130
+run_uuid: 353b933866c44b7baecddb559a01e417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209651503
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/4b4c16a99df34da6ad64e80d01d9412e/artifacts
+end_time: 1741209739264
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 4b4c16a99df34da6ad64e80d01d9412e
+run_name: fun-bee-72
+run_uuid: 4b4c16a99df34da6ad64e80d01d9412e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209733467
+status: 3
+tags: []
+user_id: felip

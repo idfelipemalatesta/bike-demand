@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/4452aa1a63a044bc8fa190cf9fed58a0/artifacts
+end_time: 1741208685318
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 4452aa1a63a044bc8fa190cf9fed58a0
+run_name: fearless-cod-60
+run_uuid: 4452aa1a63a044bc8fa190cf9fed58a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208683368
+status: 3
+tags: []
+user_id: felip

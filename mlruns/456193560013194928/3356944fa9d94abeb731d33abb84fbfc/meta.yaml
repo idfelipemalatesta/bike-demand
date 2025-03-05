@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/3356944fa9d94abeb731d33abb84fbfc/artifacts
+end_time: 1741208607846
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 3356944fa9d94abeb731d33abb84fbfc
+run_name: serious-dove-118
+run_uuid: 3356944fa9d94abeb731d33abb84fbfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208605383
+status: 3
+tags: []
+user_id: felip

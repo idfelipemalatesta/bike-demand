@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/1050f5c6a1854dad906d93942b72c0a5/artifacts
+end_time: 1741208110873
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 1050f5c6a1854dad906d93942b72c0a5
+run_name: tasteful-steed-84
+run_uuid: 1050f5c6a1854dad906d93942b72c0a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208108832
+status: 3
+tags: []
+user_id: felip

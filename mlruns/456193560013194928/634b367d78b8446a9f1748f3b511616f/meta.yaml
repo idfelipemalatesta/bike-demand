@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/634b367d78b8446a9f1748f3b511616f/artifacts
+end_time: 1741208268058
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 634b367d78b8446a9f1748f3b511616f
+run_name: whimsical-shark-411
+run_uuid: 634b367d78b8446a9f1748f3b511616f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208265503
+status: 3
+tags: []
+user_id: felip

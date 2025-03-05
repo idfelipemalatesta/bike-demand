@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a05320047a4b47059447e36257af76f9/artifacts
+end_time: 1741208004378
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a05320047a4b47059447e36257af76f9
+run_name: gifted-moth-654
+run_uuid: a05320047a4b47059447e36257af76f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208001632
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/4a2852fe7ae84285a815fc99358d9343/artifacts
+end_time: 1741209021112
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 4a2852fe7ae84285a815fc99358d9343
+run_name: welcoming-koi-210
+run_uuid: 4a2852fe7ae84285a815fc99358d9343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209018635
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/fe0b9b6ea2db4cefb6fcb5ba04d63c21/artifacts
+end_time: 1741208735200
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: fe0b9b6ea2db4cefb6fcb5ba04d63c21
+run_name: resilient-moose-459
+run_uuid: fe0b9b6ea2db4cefb6fcb5ba04d63c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208732187
+status: 3
+tags: []
+user_id: felip

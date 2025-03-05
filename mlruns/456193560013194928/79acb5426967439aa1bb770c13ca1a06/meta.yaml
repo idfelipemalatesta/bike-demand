@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/79acb5426967439aa1bb770c13ca1a06/artifacts
+end_time: 1741208717033
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 79acb5426967439aa1bb770c13ca1a06
+run_name: sassy-deer-728
+run_uuid: 79acb5426967439aa1bb770c13ca1a06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208714124
+status: 3
+tags: []
+user_id: felip

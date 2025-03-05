@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/7a7c3189a0104508a48ec54670e6c7fd/artifacts
+end_time: 1741209096429
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 7a7c3189a0104508a48ec54670e6c7fd
+run_name: sincere-toad-275
+run_uuid: 7a7c3189a0104508a48ec54670e6c7fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209093633
+status: 3
+tags: []
+user_id: felip

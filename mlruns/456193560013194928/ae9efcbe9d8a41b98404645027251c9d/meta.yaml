@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ae9efcbe9d8a41b98404645027251c9d/artifacts
+end_time: 1741208229598
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ae9efcbe9d8a41b98404645027251c9d
+run_name: colorful-gnu-257
+run_uuid: ae9efcbe9d8a41b98404645027251c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208229201
+status: 3
+tags: []
+user_id: felip

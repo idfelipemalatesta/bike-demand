@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/5cceff885b0f47dfa57bb93502eac34a/artifacts
+end_time: 1741208233210
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 5cceff885b0f47dfa57bb93502eac34a
+run_name: stylish-koi-529
+run_uuid: 5cceff885b0f47dfa57bb93502eac34a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208230578
+status: 3
+tags: []
+user_id: felip

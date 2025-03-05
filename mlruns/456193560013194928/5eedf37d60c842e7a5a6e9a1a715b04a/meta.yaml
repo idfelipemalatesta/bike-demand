@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/5eedf37d60c842e7a5a6e9a1a715b04a/artifacts
+end_time: 1741209497290
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 5eedf37d60c842e7a5a6e9a1a715b04a
+run_name: popular-stoat-369
+run_uuid: 5eedf37d60c842e7a5a6e9a1a715b04a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209494738
+status: 3
+tags: []
+user_id: felip

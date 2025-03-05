@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/89e942e7ff1f4a079f9d1135014391e3/artifacts
+end_time: 1741209475411
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 89e942e7ff1f4a079f9d1135014391e3
+run_name: nosy-carp-345
+run_uuid: 89e942e7ff1f4a079f9d1135014391e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209473102
+status: 3
+tags: []
+user_id: felip

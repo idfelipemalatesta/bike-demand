@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/9ec89828ab924e18a86171a55b092481/artifacts
+end_time: 1741208303743
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 9ec89828ab924e18a86171a55b092481
+run_name: smiling-stork-940
+run_uuid: 9ec89828ab924e18a86171a55b092481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208301574
+status: 3
+tags: []
+user_id: felip

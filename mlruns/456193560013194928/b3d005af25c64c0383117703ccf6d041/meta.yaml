@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/b3d005af25c64c0383117703ccf6d041/artifacts
+end_time: 1741208072629
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: b3d005af25c64c0383117703ccf6d041
+run_name: sneaky-shad-806
+run_uuid: b3d005af25c64c0383117703ccf6d041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208070164
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a15615eac3f24b4693f5e0713a5cd0bb/artifacts
+end_time: 1741208692378
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a15615eac3f24b4693f5e0713a5cd0bb
+run_name: sedate-hog-869
+run_uuid: a15615eac3f24b4693f5e0713a5cd0bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208690176
+status: 3
+tags: []
+user_id: felip

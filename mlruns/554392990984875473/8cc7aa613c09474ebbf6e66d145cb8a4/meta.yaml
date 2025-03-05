@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/8cc7aa613c09474ebbf6e66d145cb8a4/artifacts
+end_time: 1741209844439
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 8cc7aa613c09474ebbf6e66d145cb8a4
+run_name: gentle-yak-539
+run_uuid: 8cc7aa613c09474ebbf6e66d145cb8a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209843737
+status: 3
+tags: []
+user_id: felip

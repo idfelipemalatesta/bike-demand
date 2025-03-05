@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f53f9b219b7849ca965540d8baf3896b/artifacts
+end_time: 1741209447592
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f53f9b219b7849ca965540d8baf3896b
+run_name: delicate-snipe-588
+run_uuid: f53f9b219b7849ca965540d8baf3896b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209447365
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/5e2ffa83244944f9aee63ddc7e6f6705/artifacts
+end_time: 1741208915937
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 5e2ffa83244944f9aee63ddc7e6f6705
+run_name: honorable-sponge-190
+run_uuid: 5e2ffa83244944f9aee63ddc7e6f6705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208913132
+status: 3
+tags: []
+user_id: felip

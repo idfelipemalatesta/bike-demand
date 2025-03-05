@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/d890c897b5724fcc908363736515aff7/artifacts
+end_time: 1741209443477
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: d890c897b5724fcc908363736515aff7
+run_name: inquisitive-asp-48
+run_uuid: d890c897b5724fcc908363736515aff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209443139
+status: 3
+tags: []
+user_id: felip

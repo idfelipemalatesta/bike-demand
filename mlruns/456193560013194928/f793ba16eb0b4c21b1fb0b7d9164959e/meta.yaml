@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f793ba16eb0b4c21b1fb0b7d9164959e/artifacts
+end_time: 1741209535768
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f793ba16eb0b4c21b1fb0b7d9164959e
+run_name: mercurial-snail-176
+run_uuid: f793ba16eb0b4c21b1fb0b7d9164959e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209535471
+status: 3
+tags: []
+user_id: felip

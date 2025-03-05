@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/646cf831b7794bc2b72e9be59e3206ed/artifacts
+end_time: 1741208186211
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 646cf831b7794bc2b72e9be59e3206ed
+run_name: lyrical-moth-821
+run_uuid: 646cf831b7794bc2b72e9be59e3206ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208185843
+status: 3
+tags: []
+user_id: felip

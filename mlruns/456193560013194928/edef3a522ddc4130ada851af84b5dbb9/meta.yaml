@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/edef3a522ddc4130ada851af84b5dbb9/artifacts
+end_time: 1741208183046
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: edef3a522ddc4130ada851af84b5dbb9
+run_name: vaunted-tern-573
+run_uuid: edef3a522ddc4130ada851af84b5dbb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208180694
+status: 3
+tags: []
+user_id: felip

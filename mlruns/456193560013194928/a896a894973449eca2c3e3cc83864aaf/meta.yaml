@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a896a894973449eca2c3e3cc83864aaf/artifacts
+end_time: 1741209101400
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a896a894973449eca2c3e3cc83864aaf
+run_name: thundering-robin-396
+run_uuid: a896a894973449eca2c3e3cc83864aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209099206
+status: 3
+tags: []
+user_id: felip

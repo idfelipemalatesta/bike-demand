@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f812914c14d14f258b45990265fc2765/artifacts
+end_time: 1741208455647
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f812914c14d14f258b45990265fc2765
+run_name: nosy-asp-579
+run_uuid: f812914c14d14f258b45990265fc2765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208453203
+status: 3
+tags: []
+user_id: felip

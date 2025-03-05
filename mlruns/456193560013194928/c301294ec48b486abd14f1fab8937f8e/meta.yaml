@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/c301294ec48b486abd14f1fab8937f8e/artifacts
+end_time: 1741208652491
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: c301294ec48b486abd14f1fab8937f8e
+run_name: bouncy-tern-221
+run_uuid: c301294ec48b486abd14f1fab8937f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208650673
+status: 3
+tags: []
+user_id: felip

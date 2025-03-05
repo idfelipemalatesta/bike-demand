@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/96baa27250664860915f78626f8d8b2a/artifacts
+end_time: 1741208807503
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 96baa27250664860915f78626f8d8b2a
+run_name: intelligent-boar-852
+run_uuid: 96baa27250664860915f78626f8d8b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208805584
+status: 3
+tags: []
+user_id: felip

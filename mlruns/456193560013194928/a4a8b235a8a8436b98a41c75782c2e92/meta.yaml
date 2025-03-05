@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a4a8b235a8a8436b98a41c75782c2e92/artifacts
+end_time: 1741208468398
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a4a8b235a8a8436b98a41c75782c2e92
+run_name: omniscient-crab-408
+run_uuid: a4a8b235a8a8436b98a41c75782c2e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208465763
+status: 3
+tags: []
+user_id: felip

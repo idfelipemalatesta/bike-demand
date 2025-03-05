@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/7274c45bea4545ecb54b4d66617a4619/artifacts
+end_time: 1741209480560
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 7274c45bea4545ecb54b4d66617a4619
+run_name: wistful-turtle-313
+run_uuid: 7274c45bea4545ecb54b4d66617a4619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209478275
+status: 3
+tags: []
+user_id: felip

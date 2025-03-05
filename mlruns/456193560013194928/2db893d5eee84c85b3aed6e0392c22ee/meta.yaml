@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/2db893d5eee84c85b3aed6e0392c22ee/artifacts
+end_time: 1741208485725
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 2db893d5eee84c85b3aed6e0392c22ee
+run_name: bouncy-wasp-435
+run_uuid: 2db893d5eee84c85b3aed6e0392c22ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208483440
+status: 3
+tags: []
+user_id: felip

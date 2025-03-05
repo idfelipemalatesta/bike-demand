@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/e314674cbe9b4a678091643c652395e6/artifacts
+end_time: 1741208475666
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: e314674cbe9b4a678091643c652395e6
+run_name: resilient-mare-731
+run_uuid: e314674cbe9b4a678091643c652395e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208473283
+status: 3
+tags: []
+user_id: felip

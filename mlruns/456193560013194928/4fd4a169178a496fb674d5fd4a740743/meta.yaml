@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/4fd4a169178a496fb674d5fd4a740743/artifacts
+end_time: 1741209534968
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 4fd4a169178a496fb674d5fd4a740743
+run_name: amazing-stork-620
+run_uuid: 4fd4a169178a496fb674d5fd4a740743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209534660
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f50e5d59615742118f72d535ffa26439/artifacts
+end_time: 1741208984257
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f50e5d59615742118f72d535ffa26439
+run_name: fortunate-sponge-458
+run_uuid: f50e5d59615742118f72d535ffa26439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208981055
+status: 3
+tags: []
+user_id: felip

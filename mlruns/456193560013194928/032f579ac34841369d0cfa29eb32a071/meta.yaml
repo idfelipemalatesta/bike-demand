@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/032f579ac34841369d0cfa29eb32a071/artifacts
+end_time: 1741209018531
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 032f579ac34841369d0cfa29eb32a071
+run_name: bouncy-ram-130
+run_uuid: 032f579ac34841369d0cfa29eb32a071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209016455
+status: 3
+tags: []
+user_id: felip

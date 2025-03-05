@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ca5a4b8544b44e4d87734f9bcd025b82/artifacts
+end_time: 1741208006810
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ca5a4b8544b44e4d87734f9bcd025b82
+run_name: merciful-toad-488
+run_uuid: ca5a4b8544b44e4d87734f9bcd025b82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208004820
+status: 3
+tags: []
+user_id: felip

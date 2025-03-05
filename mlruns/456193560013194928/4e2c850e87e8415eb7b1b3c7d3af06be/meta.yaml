@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/4e2c850e87e8415eb7b1b3c7d3af06be/artifacts
+end_time: 1741209105905
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 4e2c850e87e8415eb7b1b3c7d3af06be
+run_name: skittish-hare-693
+run_uuid: 4e2c850e87e8415eb7b1b3c7d3af06be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209103870
+status: 3
+tags: []
+user_id: felip

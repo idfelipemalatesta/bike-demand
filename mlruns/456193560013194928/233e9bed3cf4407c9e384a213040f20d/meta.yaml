@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/233e9bed3cf4407c9e384a213040f20d/artifacts
+end_time: 1741208093779
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 233e9bed3cf4407c9e384a213040f20d
+run_name: suave-roo-480
+run_uuid: 233e9bed3cf4407c9e384a213040f20d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208091665
+status: 3
+tags: []
+user_id: felip

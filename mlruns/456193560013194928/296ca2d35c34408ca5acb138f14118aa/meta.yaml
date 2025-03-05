@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/296ca2d35c34408ca5acb138f14118aa/artifacts
+end_time: 1741208722187
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 296ca2d35c34408ca5acb138f14118aa
+run_name: dashing-koi-517
+run_uuid: 296ca2d35c34408ca5acb138f14118aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208719674
+status: 3
+tags: []
+user_id: felip

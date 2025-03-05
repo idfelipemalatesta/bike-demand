@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f4d95a94f0ae4a5e82ccdf4abdb6c8f0/artifacts
+end_time: 1741208792254
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f4d95a94f0ae4a5e82ccdf4abdb6c8f0
+run_name: painted-carp-506
+run_uuid: f4d95a94f0ae4a5e82ccdf4abdb6c8f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208790204
+status: 3
+tags: []
+user_id: felip

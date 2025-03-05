@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/54ff00ca8ec44dc88d4e2d1de38daed1/artifacts
+end_time: 1741208814884
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 54ff00ca8ec44dc88d4e2d1de38daed1
+run_name: shivering-zebra-412
+run_uuid: 54ff00ca8ec44dc88d4e2d1de38daed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208812601
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/b3b5d83a4a604f2ea5e857e8fd9ae0f5/artifacts
+end_time: 1741209769844
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: b3b5d83a4a604f2ea5e857e8fd9ae0f5
+run_name: shivering-snipe-565
+run_uuid: b3b5d83a4a604f2ea5e857e8fd9ae0f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209762218
+status: 3
+tags: []
+user_id: felip

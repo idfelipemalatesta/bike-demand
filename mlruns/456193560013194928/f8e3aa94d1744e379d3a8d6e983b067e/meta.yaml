@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f8e3aa94d1744e379d3a8d6e983b067e/artifacts
+end_time: 1741208969146
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f8e3aa94d1744e379d3a8d6e983b067e
+run_name: rebellious-lynx-644
+run_uuid: f8e3aa94d1744e379d3a8d6e983b067e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208966630
+status: 3
+tags: []
+user_id: felip

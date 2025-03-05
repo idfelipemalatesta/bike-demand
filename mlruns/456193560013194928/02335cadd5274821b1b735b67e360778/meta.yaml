@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/02335cadd5274821b1b735b67e360778/artifacts
+end_time: 1741208051403
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 02335cadd5274821b1b735b67e360778
+run_name: stylish-cat-68
+run_uuid: 02335cadd5274821b1b735b67e360778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208049390
+status: 3
+tags: []
+user_id: felip

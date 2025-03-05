@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/6a7d03e013cf42debdf636e07dd01dd4/artifacts
+end_time: 1741209075871
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 6a7d03e013cf42debdf636e07dd01dd4
+run_name: sedate-flea-217
+run_uuid: 6a7d03e013cf42debdf636e07dd01dd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209072752
+status: 3
+tags: []
+user_id: felip

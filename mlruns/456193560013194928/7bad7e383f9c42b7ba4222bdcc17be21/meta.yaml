@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/7bad7e383f9c42b7ba4222bdcc17be21/artifacts
+end_time: 1741208925184
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 7bad7e383f9c42b7ba4222bdcc17be21
+run_name: orderly-carp-514
+run_uuid: 7bad7e383f9c42b7ba4222bdcc17be21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208922541
+status: 3
+tags: []
+user_id: felip

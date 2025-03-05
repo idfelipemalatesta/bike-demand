@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a9ce43bdf56841a7bd8cdce768b9e1f6/artifacts
+end_time: 1741208858652
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a9ce43bdf56841a7bd8cdce768b9e1f6
+run_name: wistful-dolphin-870
+run_uuid: a9ce43bdf56841a7bd8cdce768b9e1f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208856602
+status: 3
+tags: []
+user_id: felip

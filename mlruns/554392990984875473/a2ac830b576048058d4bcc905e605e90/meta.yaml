@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/a2ac830b576048058d4bcc905e605e90/artifacts
+end_time: 1741209840993
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: a2ac830b576048058d4bcc905e605e90
+run_name: loud-fox-322
+run_uuid: a2ac830b576048058d4bcc905e605e90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209840398
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/c3c22a8656514f2f98fb44531fc66401/artifacts
+end_time: 1741208323370
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: c3c22a8656514f2f98fb44531fc66401
+run_name: fearless-bird-976
+run_uuid: c3c22a8656514f2f98fb44531fc66401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208320918
+status: 3
+tags: []
+user_id: felip

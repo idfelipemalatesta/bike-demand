@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/8530cff88cfa4a34a881e26fd6e36f8f/artifacts
+end_time: 1741208028909
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 8530cff88cfa4a34a881e26fd6e36f8f
+run_name: wise-horse-552
+run_uuid: 8530cff88cfa4a34a881e26fd6e36f8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208026306
+status: 3
+tags: []
+user_id: felip

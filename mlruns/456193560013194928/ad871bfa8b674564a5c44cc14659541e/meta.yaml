@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ad871bfa8b674564a5c44cc14659541e/artifacts
+end_time: 1741208559906
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ad871bfa8b674564a5c44cc14659541e
+run_name: melodic-ram-807
+run_uuid: ad871bfa8b674564a5c44cc14659541e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208557310
+status: 3
+tags: []
+user_id: felip

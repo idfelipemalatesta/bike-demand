@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/9c878499eb914c6d91a66da057e0b8fe/artifacts
+end_time: 1741208708734
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 9c878499eb914c6d91a66da057e0b8fe
+run_name: wistful-steed-200
+run_uuid: 9c878499eb914c6d91a66da057e0b8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208706496
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/45f4fec206ef4ed08508340cd67e5f39/artifacts
+end_time: 1741209534559
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 45f4fec206ef4ed08508340cd67e5f39
+run_name: dapper-sow-76
+run_uuid: 45f4fec206ef4ed08508340cd67e5f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209534231
+status: 3
+tags: []
+user_id: felip

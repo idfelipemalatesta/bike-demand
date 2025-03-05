@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ece4d81798be49bcabe32e7b6ce5e7b4/artifacts
+end_time: 1741208856505
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ece4d81798be49bcabe32e7b6ce5e7b4
+run_name: funny-bat-566
+run_uuid: ece4d81798be49bcabe32e7b6ce5e7b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208853929
+status: 3
+tags: []
+user_id: felip

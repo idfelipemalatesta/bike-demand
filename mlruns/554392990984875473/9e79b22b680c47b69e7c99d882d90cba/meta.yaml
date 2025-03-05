@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/9e79b22b680c47b69e7c99d882d90cba/artifacts
+end_time: 1741209837427
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 9e79b22b680c47b69e7c99d882d90cba
+run_name: shivering-gnat-259
+run_uuid: 9e79b22b680c47b69e7c99d882d90cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209836558
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/4b26f5a056fe40bbba57e4aeb1e45c42/artifacts
+end_time: 1741208070063
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 4b26f5a056fe40bbba57e4aeb1e45c42
+run_name: secretive-ant-944
+run_uuid: 4b26f5a056fe40bbba57e4aeb1e45c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208067772
+status: 3
+tags: []
+user_id: felip

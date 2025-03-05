@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/e4ef8a1c170d4e52b67773d4adf9dbc3/artifacts
+end_time: 1741208207456
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: e4ef8a1c170d4e52b67773d4adf9dbc3
+run_name: blushing-steed-38
+run_uuid: e4ef8a1c170d4e52b67773d4adf9dbc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208205003
+status: 3
+tags: []
+user_id: felip

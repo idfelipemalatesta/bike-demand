@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/4db40a00f0e240a0a6c4d1a920075247/artifacts
+end_time: 1741208083108
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 4db40a00f0e240a0a6c4d1a920075247
+run_name: treasured-fish-734
+run_uuid: 4db40a00f0e240a0a6c4d1a920075247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208080971
+status: 3
+tags: []
+user_id: felip

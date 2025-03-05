@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/4ece842ee69a424d891cf8f016b95463/artifacts
+end_time: 1741208995076
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 4ece842ee69a424d891cf8f016b95463
+run_name: enchanting-toad-876
+run_uuid: 4ece842ee69a424d891cf8f016b95463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208992576
+status: 3
+tags: []
+user_id: felip

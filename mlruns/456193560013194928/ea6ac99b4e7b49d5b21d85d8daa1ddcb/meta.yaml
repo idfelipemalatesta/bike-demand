@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ea6ac99b4e7b49d5b21d85d8daa1ddcb/artifacts
+end_time: 1741208301473
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ea6ac99b4e7b49d5b21d85d8daa1ddcb
+run_name: debonair-midge-645
+run_uuid: ea6ac99b4e7b49d5b21d85d8daa1ddcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208299123
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/91356e5ca6b7418fa960568dd33ace32/artifacts
+end_time: 1741208166167
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 91356e5ca6b7418fa960568dd33ace32
+run_name: amazing-pig-271
+run_uuid: 91356e5ca6b7418fa960568dd33ace32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208163902
+status: 3
+tags: []
+user_id: felip

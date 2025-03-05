@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/9ed71c84bc684a5a9451629cbbe0a522/artifacts
+end_time: 1741209537838
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 9ed71c84bc684a5a9451629cbbe0a522
+run_name: casual-colt-392
+run_uuid: 9ed71c84bc684a5a9451629cbbe0a522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209537535
+status: 3
+tags: []
+user_id: felip

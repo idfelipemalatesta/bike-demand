@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/207e9fd3517b4ff78039a2757da3d295/artifacts
+end_time: 1741209464719
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 207e9fd3517b4ff78039a2757da3d295
+run_name: wise-hawk-748
+run_uuid: 207e9fd3517b4ff78039a2757da3d295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209463240
+status: 3
+tags: []
+user_id: felip

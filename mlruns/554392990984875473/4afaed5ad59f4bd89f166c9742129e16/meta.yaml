@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/4afaed5ad59f4bd89f166c9742129e16/artifacts
+end_time: 1741209649660
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 4afaed5ad59f4bd89f166c9742129e16
+run_name: unequaled-ray-518
+run_uuid: 4afaed5ad59f4bd89f166c9742129e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209649296
+status: 3
+tags: []
+user_id: felip

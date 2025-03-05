@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f91dd14a69f94fd08c37ac251a1cc47b/artifacts
+end_time: 1741208921847
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f91dd14a69f94fd08c37ac251a1cc47b
+run_name: aged-fowl-341
+run_uuid: f91dd14a69f94fd08c37ac251a1cc47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208919112
+status: 3
+tags: []
+user_id: felip

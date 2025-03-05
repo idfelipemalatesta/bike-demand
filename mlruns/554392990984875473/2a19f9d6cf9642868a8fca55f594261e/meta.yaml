@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/2a19f9d6cf9642868a8fca55f594261e/artifacts
+end_time: 1741209792604
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 2a19f9d6cf9642868a8fca55f594261e
+run_name: bittersweet-jay-212
+run_uuid: 2a19f9d6cf9642868a8fca55f594261e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209784955
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/304902b839834ecf9cf3686a6b1e33ee/artifacts
+end_time: 1741209062799
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 304902b839834ecf9cf3686a6b1e33ee
+run_name: intrigued-moose-210
+run_uuid: 304902b839834ecf9cf3686a6b1e33ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209060531
+status: 3
+tags: []
+user_id: felip

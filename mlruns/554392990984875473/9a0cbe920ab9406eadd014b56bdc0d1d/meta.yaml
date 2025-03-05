@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/9a0cbe920ab9406eadd014b56bdc0d1d/artifacts
+end_time: 1741209632259
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 9a0cbe920ab9406eadd014b56bdc0d1d
+run_name: amusing-koi-20
+run_uuid: 9a0cbe920ab9406eadd014b56bdc0d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209631908
+status: 3
+tags: []
+user_id: felip

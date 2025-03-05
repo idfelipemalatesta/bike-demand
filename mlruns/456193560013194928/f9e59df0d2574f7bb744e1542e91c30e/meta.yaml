@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f9e59df0d2574f7bb744e1542e91c30e/artifacts
+end_time: 1741208391985
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f9e59df0d2574f7bb744e1542e91c30e
+run_name: unleashed-jay-889
+run_uuid: f9e59df0d2574f7bb744e1542e91c30e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208391739
+status: 3
+tags: []
+user_id: felip

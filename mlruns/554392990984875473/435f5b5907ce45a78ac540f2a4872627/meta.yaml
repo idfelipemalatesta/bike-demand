@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/435f5b5907ce45a78ac540f2a4872627/artifacts
+end_time: 1741209647081
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 435f5b5907ce45a78ac540f2a4872627
+run_name: aged-foal-115
+run_uuid: 435f5b5907ce45a78ac540f2a4872627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209641209
+status: 3
+tags: []
+user_id: felip

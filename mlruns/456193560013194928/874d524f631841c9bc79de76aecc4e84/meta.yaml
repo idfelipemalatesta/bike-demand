@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/874d524f631841c9bc79de76aecc4e84/artifacts
+end_time: 1741209029367
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 874d524f631841c9bc79de76aecc4e84
+run_name: bittersweet-slug-360
+run_uuid: 874d524f631841c9bc79de76aecc4e84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209026844
+status: 3
+tags: []
+user_id: felip

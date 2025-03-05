@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/6b861bbede1140cb9f3c62cc1aa44785/artifacts
+end_time: 1741208796541
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 6b861bbede1140cb9f3c62cc1aa44785
+run_name: adaptable-fish-942
+run_uuid: 6b861bbede1140cb9f3c62cc1aa44785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208795134
+status: 3
+tags: []
+user_id: felip

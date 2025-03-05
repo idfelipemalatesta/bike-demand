@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/b54c5f6bf0e1400ea5b6ff367a18ea4f/artifacts
+end_time: 1741209532404
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: b54c5f6bf0e1400ea5b6ff367a18ea4f
+run_name: abundant-slug-24
+run_uuid: b54c5f6bf0e1400ea5b6ff367a18ea4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209532070
+status: 3
+tags: []
+user_id: felip

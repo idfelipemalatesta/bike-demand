@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/e3f5c76a6fa74ac2b4e5be92eced7d5c/artifacts
+end_time: 1741208178306
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: e3f5c76a6fa74ac2b4e5be92eced7d5c
+run_name: unruly-hound-979
+run_uuid: e3f5c76a6fa74ac2b4e5be92eced7d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208175648
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/27597a6d038e420285ae57f5f2a99c63/artifacts
+end_time: 1741208135698
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 27597a6d038e420285ae57f5f2a99c63
+run_name: amazing-shad-914
+run_uuid: 27597a6d038e420285ae57f5f2a99c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208133320
+status: 3
+tags: []
+user_id: felip

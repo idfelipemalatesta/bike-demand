@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/80b8e630520446cfbdf1a8a04b2f2afd/artifacts
+end_time: 1741208713698
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 80b8e630520446cfbdf1a8a04b2f2afd
+run_name: secretive-koi-862
+run_uuid: 80b8e630520446cfbdf1a8a04b2f2afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208711300
+status: 3
+tags: []
+user_id: felip

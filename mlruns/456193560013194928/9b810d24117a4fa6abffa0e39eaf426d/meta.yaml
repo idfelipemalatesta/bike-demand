@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/9b810d24117a4fa6abffa0e39eaf426d/artifacts
+end_time: 1741208310836
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 9b810d24117a4fa6abffa0e39eaf426d
+run_name: persistent-skunk-322
+run_uuid: 9b810d24117a4fa6abffa0e39eaf426d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208308594
+status: 3
+tags: []
+user_id: felip

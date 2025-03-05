@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/d5bc830178df429383ebcb725d20f5d3/artifacts
+end_time: 1741208193032
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: d5bc830178df429383ebcb725d20f5d3
+run_name: fearless-smelt-716
+run_uuid: d5bc830178df429383ebcb725d20f5d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208190799
+status: 3
+tags: []
+user_id: felip

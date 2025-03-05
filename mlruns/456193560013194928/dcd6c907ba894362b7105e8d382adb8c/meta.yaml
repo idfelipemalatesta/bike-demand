@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/dcd6c907ba894362b7105e8d382adb8c/artifacts
+end_time: 1741209078841
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: dcd6c907ba894362b7105e8d382adb8c
+run_name: intrigued-snake-65
+run_uuid: dcd6c907ba894362b7105e8d382adb8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209075975
+status: 3
+tags: []
+user_id: felip

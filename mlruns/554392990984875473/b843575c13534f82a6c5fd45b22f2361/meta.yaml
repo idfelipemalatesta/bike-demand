@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/b843575c13534f82a6c5fd45b22f2361/artifacts
+end_time: 1741209856676
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: b843575c13534f82a6c5fd45b22f2361
+run_name: charming-gull-867
+run_uuid: b843575c13534f82a6c5fd45b22f2361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209856332
+status: 3
+tags: []
+user_id: felip

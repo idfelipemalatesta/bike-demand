@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ca9eccf959804de78a6bc8833339d012/artifacts
+end_time: 1741208235430
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ca9eccf959804de78a6bc8833339d012
+run_name: gentle-shrew-915
+run_uuid: ca9eccf959804de78a6bc8833339d012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208235040
+status: 3
+tags: []
+user_id: felip

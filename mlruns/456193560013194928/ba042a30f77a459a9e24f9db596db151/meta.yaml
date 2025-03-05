@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ba042a30f77a459a9e24f9db596db151/artifacts
+end_time: 1741208669705
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ba042a30f77a459a9e24f9db596db151
+run_name: mercurial-crow-886
+run_uuid: ba042a30f77a459a9e24f9db596db151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208667375
+status: 3
+tags: []
+user_id: felip

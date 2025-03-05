@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/3eece2b3256b49bfbeab16d2c4cbb470/artifacts
+end_time: 1741208337824
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 3eece2b3256b49bfbeab16d2c4cbb470
+run_name: casual-gnat-737
+run_uuid: 3eece2b3256b49bfbeab16d2c4cbb470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208335498
+status: 3
+tags: []
+user_id: felip

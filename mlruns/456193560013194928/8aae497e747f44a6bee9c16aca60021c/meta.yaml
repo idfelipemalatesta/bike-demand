@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/8aae497e747f44a6bee9c16aca60021c/artifacts
+end_time: 1741209429328
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 8aae497e747f44a6bee9c16aca60021c
+run_name: dashing-quail-689
+run_uuid: 8aae497e747f44a6bee9c16aca60021c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209427718
+status: 3
+tags: []
+user_id: felip

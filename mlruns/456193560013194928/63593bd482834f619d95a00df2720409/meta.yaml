@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/63593bd482834f619d95a00df2720409/artifacts
+end_time: 1741209110590
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 63593bd482834f619d95a00df2720409
+run_name: beautiful-steed-167
+run_uuid: 63593bd482834f619d95a00df2720409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209108078
+status: 3
+tags: []
+user_id: felip

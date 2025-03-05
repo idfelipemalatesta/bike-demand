@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/6dbd10bd95c6485d9bbcb3f6d2b3a2cb/artifacts
+end_time: 1741209466965
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 6dbd10bd95c6485d9bbcb3f6d2b3a2cb
+run_name: rare-duck-50
+run_uuid: 6dbd10bd95c6485d9bbcb3f6d2b3a2cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209464812
+status: 3
+tags: []
+user_id: felip

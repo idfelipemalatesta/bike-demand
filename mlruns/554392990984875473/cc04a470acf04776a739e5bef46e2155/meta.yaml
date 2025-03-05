@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/cc04a470acf04776a739e5bef46e2155/artifacts
+end_time: 1741209845298
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: cc04a470acf04776a739e5bef46e2155
+run_name: abundant-mink-201
+run_uuid: cc04a470acf04776a739e5bef46e2155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209844534
+status: 3
+tags: []
+user_id: felip

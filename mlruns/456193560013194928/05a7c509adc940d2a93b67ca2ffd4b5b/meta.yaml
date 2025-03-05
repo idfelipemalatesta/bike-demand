@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/05a7c509adc940d2a93b67ca2ffd4b5b/artifacts
+end_time: 1741208118033
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 05a7c509adc940d2a93b67ca2ffd4b5b
+run_name: welcoming-grouse-168
+run_uuid: 05a7c509adc940d2a93b67ca2ffd4b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208115810
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/c939f23c2c6441b5a541c7ab00fc7f03/artifacts
+end_time: 1741208054041
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: c939f23c2c6441b5a541c7ab00fc7f03
+run_name: fearless-gnat-493
+run_uuid: c939f23c2c6441b5a541c7ab00fc7f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208051510
+status: 3
+tags: []
+user_id: felip

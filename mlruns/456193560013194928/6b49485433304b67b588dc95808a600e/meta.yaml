@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/6b49485433304b67b588dc95808a600e/artifacts
+end_time: 1741209521745
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 6b49485433304b67b588dc95808a600e
+run_name: stylish-newt-279
+run_uuid: 6b49485433304b67b588dc95808a600e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209519707
+status: 3
+tags: []
+user_id: felip

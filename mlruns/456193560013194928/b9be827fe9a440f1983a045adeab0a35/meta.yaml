@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/b9be827fe9a440f1983a045adeab0a35/artifacts
+end_time: 1741208640154
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: b9be827fe9a440f1983a045adeab0a35
+run_name: upbeat-hog-33
+run_uuid: b9be827fe9a440f1983a045adeab0a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208637700
+status: 3
+tags: []
+user_id: felip

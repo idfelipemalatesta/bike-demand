@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/51e3dd5a5153424e9bd71d0762f971a7/artifacts
+end_time: 1741208696870
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 51e3dd5a5153424e9bd71d0762f971a7
+run_name: omniscient-goose-977
+run_uuid: 51e3dd5a5153424e9bd71d0762f971a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208694856
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/653aeba06b024f1daa415b82661a1750/artifacts
+end_time: 1741209823176
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 653aeba06b024f1daa415b82661a1750
+run_name: bald-auk-947
+run_uuid: 653aeba06b024f1daa415b82661a1750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209822185
+status: 3
+tags: []
+user_id: felip

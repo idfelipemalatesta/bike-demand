@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/1e28f9e982ee4c608fff0348de67a8f0/artifacts
+end_time: 1741209649183
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 1e28f9e982ee4c608fff0348de67a8f0
+run_name: lyrical-croc-876
+run_uuid: 1e28f9e982ee4c608fff0348de67a8f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209648786
+status: 3
+tags: []
+user_id: felip

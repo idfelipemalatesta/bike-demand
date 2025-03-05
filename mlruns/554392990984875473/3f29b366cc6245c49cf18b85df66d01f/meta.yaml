@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/3f29b366cc6245c49cf18b85df66d01f/artifacts
+end_time: 1741209640657
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 3f29b366cc6245c49cf18b85df66d01f
+run_name: burly-snake-705
+run_uuid: 3f29b366cc6245c49cf18b85df66d01f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209640001
+status: 3
+tags: []
+user_id: felip

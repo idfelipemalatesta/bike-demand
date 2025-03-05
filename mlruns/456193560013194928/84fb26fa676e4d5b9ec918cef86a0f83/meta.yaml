@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/84fb26fa676e4d5b9ec918cef86a0f83/artifacts
+end_time: 1741209436541
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 84fb26fa676e4d5b9ec918cef86a0f83
+run_name: blushing-grouse-601
+run_uuid: 84fb26fa676e4d5b9ec918cef86a0f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209434332
+status: 3
+tags: []
+user_id: felip

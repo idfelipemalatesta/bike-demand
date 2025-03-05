@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/cfec8d33f0174605837c4abb797ceb12/artifacts
+end_time: 1741209441937
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: cfec8d33f0174605837c4abb797ceb12
+run_name: sneaky-midge-783
+run_uuid: cfec8d33f0174605837c4abb797ceb12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209439849
+status: 3
+tags: []
+user_id: felip

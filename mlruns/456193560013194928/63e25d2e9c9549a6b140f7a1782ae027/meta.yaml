@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/63e25d2e9c9549a6b140f7a1782ae027/artifacts
+end_time: 1741208521773
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 63e25d2e9c9549a6b140f7a1782ae027
+run_name: serious-roo-257
+run_uuid: 63e25d2e9c9549a6b140f7a1782ae027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208519478
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/dba5ffb89716453491d872c769633971/artifacts
+end_time: 1741208610714
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: dba5ffb89716453491d872c769633971
+run_name: gaudy-lamb-688
+run_uuid: dba5ffb89716453491d872c769633971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208610467
+status: 3
+tags: []
+user_id: felip

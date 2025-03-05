@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a212e966132740eb82efb8e7668317ac/artifacts
+end_time: 1741208492923
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a212e966132740eb82efb8e7668317ac
+run_name: mysterious-vole-882
+run_uuid: a212e966132740eb82efb8e7668317ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208490609
+status: 3
+tags: []
+user_id: felip

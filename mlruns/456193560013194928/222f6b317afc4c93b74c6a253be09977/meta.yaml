@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/222f6b317afc4c93b74c6a253be09977/artifacts
+end_time: 1741209437369
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 222f6b317afc4c93b74c6a253be09977
+run_name: shivering-shad-192
+run_uuid: 222f6b317afc4c93b74c6a253be09977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209437065
+status: 3
+tags: []
+user_id: felip

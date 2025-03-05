@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/e745d66f48a2416fadef8520e15f7752/artifacts
+end_time: 1741208874629
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: e745d66f48a2416fadef8520e15f7752
+run_name: clean-kit-388
+run_uuid: e745d66f48a2416fadef8520e15f7752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208872282
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/58b437365d0f49f48a5acdef2d4274ab/artifacts
+end_time: 1741208015632
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 58b437365d0f49f48a5acdef2d4274ab
+run_name: rumbling-shad-636
+run_uuid: 58b437365d0f49f48a5acdef2d4274ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208013045
+status: 3
+tags: []
+user_id: felip

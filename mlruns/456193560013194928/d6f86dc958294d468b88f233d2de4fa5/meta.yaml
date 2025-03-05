@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/d6f86dc958294d468b88f233d2de4fa5/artifacts
+end_time: 1741208357800
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: d6f86dc958294d468b88f233d2de4fa5
+run_name: redolent-newt-761
+run_uuid: d6f86dc958294d468b88f233d2de4fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208355339
+status: 3
+tags: []
+user_id: felip

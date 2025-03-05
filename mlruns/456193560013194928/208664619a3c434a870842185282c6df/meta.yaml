@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/208664619a3c434a870842185282c6df/artifacts
+end_time: 1741208732091
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 208664619a3c434a870842185282c6df
+run_name: skittish-eel-196
+run_uuid: 208664619a3c434a870842185282c6df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208729702
+status: 3
+tags: []
+user_id: felip

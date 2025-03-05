@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ad8911f0e9324242a2008562973c8346/artifacts
+end_time: 1741209532833
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ad8911f0e9324242a2008562973c8346
+run_name: judicious-goat-298
+run_uuid: ad8911f0e9324242a2008562973c8346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209532503
+status: 3
+tags: []
+user_id: felip

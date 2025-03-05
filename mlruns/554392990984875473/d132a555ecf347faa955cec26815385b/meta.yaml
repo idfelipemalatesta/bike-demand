@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/d132a555ecf347faa955cec26815385b/artifacts
+end_time: 1741209621879
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: d132a555ecf347faa955cec26815385b
+run_name: casual-steed-397
+run_uuid: d132a555ecf347faa955cec26815385b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209620891
+status: 3
+tags: []
+user_id: felip

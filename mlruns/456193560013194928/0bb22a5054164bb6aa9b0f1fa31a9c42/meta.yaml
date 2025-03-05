@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/0bb22a5054164bb6aa9b0f1fa31a9c42/artifacts
+end_time: 1741208460733
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 0bb22a5054164bb6aa9b0f1fa31a9c42
+run_name: vaunted-ox-833
+run_uuid: 0bb22a5054164bb6aa9b0f1fa31a9c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208458222
+status: 3
+tags: []
+user_id: felip

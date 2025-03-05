@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/4352640106e3440caf97909cd416c75d/artifacts
+end_time: 1741209534125
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 4352640106e3440caf97909cd416c75d
+run_name: defiant-gnu-331
+run_uuid: 4352640106e3440caf97909cd416c75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209533799
+status: 3
+tags: []
+user_id: felip

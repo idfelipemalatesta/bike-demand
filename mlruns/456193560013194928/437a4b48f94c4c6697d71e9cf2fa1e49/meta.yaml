@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/437a4b48f94c4c6697d71e9cf2fa1e49/artifacts
+end_time: 1741209442276
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 437a4b48f94c4c6697d71e9cf2fa1e49
+run_name: efficient-newt-824
+run_uuid: 437a4b48f94c4c6697d71e9cf2fa1e49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209442037
+status: 3
+tags: []
+user_id: felip

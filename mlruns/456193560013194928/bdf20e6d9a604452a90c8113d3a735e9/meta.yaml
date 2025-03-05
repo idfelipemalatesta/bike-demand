@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/bdf20e6d9a604452a90c8113d3a735e9/artifacts
+end_time: 1741209492951
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: bdf20e6d9a604452a90c8113d3a735e9
+run_name: placid-conch-228
+run_uuid: bdf20e6d9a604452a90c8113d3a735e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209492702
+status: 3
+tags: []
+user_id: felip

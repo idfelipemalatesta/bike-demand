@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/756c54ab92794a47950c4a2cb2fe7a49/artifacts
+end_time: 1741208125415
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 756c54ab92794a47950c4a2cb2fe7a49
+run_name: efficient-dove-856
+run_uuid: 756c54ab92794a47950c4a2cb2fe7a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208123084
+status: 3
+tags: []
+user_id: felip

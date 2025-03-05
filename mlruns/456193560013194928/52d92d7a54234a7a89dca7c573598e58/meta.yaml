@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/52d92d7a54234a7a89dca7c573598e58/artifacts
+end_time: 1741208236282
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 52d92d7a54234a7a89dca7c573598e58
+run_name: auspicious-bear-690
+run_uuid: 52d92d7a54234a7a89dca7c573598e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208235967
+status: 3
+tags: []
+user_id: felip

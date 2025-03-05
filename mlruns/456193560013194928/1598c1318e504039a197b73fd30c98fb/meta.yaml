@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/1598c1318e504039a197b73fd30c98fb/artifacts
+end_time: 1741208896639
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 1598c1318e504039a197b73fd30c98fb
+run_name: industrious-grub-135
+run_uuid: 1598c1318e504039a197b73fd30c98fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208894268
+status: 3
+tags: []
+user_id: felip

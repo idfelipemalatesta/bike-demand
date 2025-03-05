@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ae7d15bb72314d08a41cd8a21080405f/artifacts
+end_time: 1741208414800
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ae7d15bb72314d08a41cd8a21080405f
+run_name: nosy-ray-290
+run_uuid: ae7d15bb72314d08a41cd8a21080405f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208412382
+status: 3
+tags: []
+user_id: felip

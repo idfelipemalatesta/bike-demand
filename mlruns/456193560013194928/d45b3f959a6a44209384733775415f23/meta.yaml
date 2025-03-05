@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/d45b3f959a6a44209384733775415f23/artifacts
+end_time: 1741208299025
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: d45b3f959a6a44209384733775415f23
+run_name: adorable-cub-747
+run_uuid: d45b3f959a6a44209384733775415f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208296667
+status: 3
+tags: []
+user_id: felip

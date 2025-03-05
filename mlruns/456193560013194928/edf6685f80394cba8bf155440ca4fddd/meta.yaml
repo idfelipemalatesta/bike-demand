@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/edf6685f80394cba8bf155440ca4fddd/artifacts
+end_time: 1741208825119
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: edf6685f80394cba8bf155440ca4fddd
+run_name: awesome-horse-999
+run_uuid: edf6685f80394cba8bf155440ca4fddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208822906
+status: 3
+tags: []
+user_id: felip

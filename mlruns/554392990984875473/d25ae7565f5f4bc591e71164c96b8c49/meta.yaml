@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/d25ae7565f5f4bc591e71164c96b8c49/artifacts
+end_time: 1741209842101
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: d25ae7565f5f4bc591e71164c96b8c49
+run_name: puzzled-ox-947
+run_uuid: d25ae7565f5f4bc591e71164c96b8c49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209841101
+status: 3
+tags: []
+user_id: felip

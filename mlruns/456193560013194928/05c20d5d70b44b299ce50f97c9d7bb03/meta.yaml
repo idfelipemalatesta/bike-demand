@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/05c20d5d70b44b299ce50f97c9d7bb03/artifacts
+end_time: 1741208204896
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 05c20d5d70b44b299ce50f97c9d7bb03
+run_name: thoughtful-gnat-483
+run_uuid: 05c20d5d70b44b299ce50f97c9d7bb03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208202809
+status: 3
+tags: []
+user_id: felip

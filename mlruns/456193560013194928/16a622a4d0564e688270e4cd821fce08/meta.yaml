@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/16a622a4d0564e688270e4cd821fce08/artifacts
+end_time: 1741208168500
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 16a622a4d0564e688270e4cd821fce08
+run_name: rare-bug-662
+run_uuid: 16a622a4d0564e688270e4cd821fce08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208166264
+status: 3
+tags: []
+user_id: felip

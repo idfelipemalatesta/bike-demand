@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a30ae8594a1c4376bca2b22810ddb105/artifacts
+end_time: 1741208473182
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a30ae8594a1c4376bca2b22810ddb105
+run_name: enchanting-colt-920
+run_uuid: a30ae8594a1c4376bca2b22810ddb105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208470955
+status: 3
+tags: []
+user_id: felip

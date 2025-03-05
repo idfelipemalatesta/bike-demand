@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/670d2cc4e15046dead98103d93e412aa/artifacts
+end_time: 1741208344922
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 670d2cc4e15046dead98103d93e412aa
+run_name: nervous-shrew-468
+run_uuid: 670d2cc4e15046dead98103d93e412aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208342677
+status: 3
+tags: []
+user_id: felip

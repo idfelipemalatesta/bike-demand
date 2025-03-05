@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/d15da435863e4098bd4c12536451ce5d/artifacts
+end_time: 1741208928260
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: d15da435863e4098bd4c12536451ce5d
+run_name: valuable-bird-370
+run_uuid: d15da435863e4098bd4c12536451ce5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208925292
+status: 3
+tags: []
+user_id: felip

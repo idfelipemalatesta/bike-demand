@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/57886c7daa2c417cadd306b1b1aada50/artifacts
+end_time: 1741209800205
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 57886c7daa2c417cadd306b1b1aada50
+run_name: illustrious-tern-669
+run_uuid: 57886c7daa2c417cadd306b1b1aada50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209792699
+status: 3
+tags: []
+user_id: felip

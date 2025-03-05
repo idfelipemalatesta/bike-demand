@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ac233dd009a747ea881a9dd002f3c9ad/artifacts
+end_time: 1741208478388
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ac233dd009a747ea881a9dd002f3c9ad
+run_name: youthful-donkey-865
+run_uuid: ac233dd009a747ea881a9dd002f3c9ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208478149
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/bf9cdc10552f4beda26affe9a35b3feb/artifacts
+end_time: 1741208533608
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: bf9cdc10552f4beda26affe9a35b3feb
+run_name: traveling-ape-266
+run_uuid: bf9cdc10552f4beda26affe9a35b3feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208531379
+status: 3
+tags: []
+user_id: felip

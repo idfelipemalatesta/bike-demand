@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/72c05a0fa44b4008b006ce0da2016ece/artifacts
+end_time: 1741208001535
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 72c05a0fa44b4008b006ce0da2016ece
+run_name: wise-flea-399
+run_uuid: 72c05a0fa44b4008b006ce0da2016ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741207999411
+status: 3
+tags: []
+user_id: felip

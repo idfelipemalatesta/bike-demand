@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/0a4279d3ac4e4266a026c52988648593/artifacts
+end_time: 1741208946160
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 0a4279d3ac4e4266a026c52988648593
+run_name: marvelous-pig-304
+run_uuid: 0a4279d3ac4e4266a026c52988648593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208943423
+status: 3
+tags: []
+user_id: felip

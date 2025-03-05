@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/bf5861e87ed448ccb0222d025a3307b3/artifacts
+end_time: 1741208851265
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: bf5861e87ed448ccb0222d025a3307b3
+run_name: agreeable-toad-237
+run_uuid: bf5861e87ed448ccb0222d025a3307b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208848598
+status: 3
+tags: []
+user_id: felip

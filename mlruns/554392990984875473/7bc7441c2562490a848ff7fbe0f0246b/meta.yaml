@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/7bc7441c2562490a848ff7fbe0f0246b/artifacts
+end_time: 1741209809063
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 7bc7441c2562490a848ff7fbe0f0246b
+run_name: tasteful-snake-505
+run_uuid: 7bc7441c2562490a848ff7fbe0f0246b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209808134
+status: 3
+tags: []
+user_id: felip

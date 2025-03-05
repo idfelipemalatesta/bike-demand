@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/5a29a900d1d24475985747360ab2a53a/artifacts
+end_time: 1741208049281
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 5a29a900d1d24475985747360ab2a53a
+run_name: capable-moose-227
+run_uuid: 5a29a900d1d24475985747360ab2a53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208046827
+status: 3
+tags: []
+user_id: felip

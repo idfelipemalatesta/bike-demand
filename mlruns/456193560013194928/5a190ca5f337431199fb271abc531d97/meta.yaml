@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/5a190ca5f337431199fb271abc531d97/artifacts
+end_time: 1741208500230
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 5a190ca5f337431199fb271abc531d97
+run_name: fun-crow-953
+run_uuid: 5a190ca5f337431199fb271abc531d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208497938
+status: 3
+tags: []
+user_id: felip

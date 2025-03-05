@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/d4c3aa804fce447392d66fda82249e8f/artifacts
+end_time: 1741208080867
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: d4c3aa804fce447392d66fda82249e8f
+run_name: thundering-kit-108
+run_uuid: d4c3aa804fce447392d66fda82249e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208080523
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/cbefde9c1dee4a5cacadb1f8cfa24ccb/artifacts
+end_time: 1741209856223
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: cbefde9c1dee4a5cacadb1f8cfa24ccb
+run_name: traveling-rook-74
+run_uuid: cbefde9c1dee4a5cacadb1f8cfa24ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209855485
+status: 3
+tags: []
+user_id: felip

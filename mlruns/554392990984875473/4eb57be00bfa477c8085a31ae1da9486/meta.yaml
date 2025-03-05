@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/4eb57be00bfa477c8085a31ae1da9486/artifacts
+end_time: 1741209808037
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 4eb57be00bfa477c8085a31ae1da9486
+run_name: enthused-rat-201
+run_uuid: 4eb57be00bfa477c8085a31ae1da9486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209800318
+status: 3
+tags: []
+user_id: felip

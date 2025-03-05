@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/7d37344f324047f5acff871a25ba5000/artifacts
+end_time: 1741207995433
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 7d37344f324047f5acff871a25ba5000
+run_name: thundering-chimp-744
+run_uuid: 7d37344f324047f5acff871a25ba5000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741207995012
+status: 3
+tags: []
+user_id: felip

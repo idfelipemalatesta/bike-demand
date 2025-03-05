@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/100c1ad5accc4d9183028f521fd5b8bd/artifacts
+end_time: 1741208195478
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 100c1ad5accc4d9183028f521fd5b8bd
+run_name: popular-ram-39
+run_uuid: 100c1ad5accc4d9183028f521fd5b8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208193143
+status: 3
+tags: []
+user_id: felip

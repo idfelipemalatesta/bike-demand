@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/1020711e4c75460b90e0989bd391533f/artifacts
+end_time: 1741208650584
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 1020711e4c75460b90e0989bd391533f
+run_name: worried-kite-821
+run_uuid: 1020711e4c75460b90e0989bd391533f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208648521
+status: 3
+tags: []
+user_id: felip

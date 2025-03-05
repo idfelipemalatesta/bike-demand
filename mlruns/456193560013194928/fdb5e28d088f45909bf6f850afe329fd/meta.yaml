@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/fdb5e28d088f45909bf6f850afe329fd/artifacts
+end_time: 1741209524791
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: fdb5e28d088f45909bf6f850afe329fd
+run_name: loud-shrew-554
+run_uuid: fdb5e28d088f45909bf6f850afe329fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209524337
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/2ccf8275dc584f37aa163de5a9434c84/artifacts
+end_time: 1741208173065
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 2ccf8275dc584f37aa163de5a9434c84
+run_name: worried-mole-253
+run_uuid: 2ccf8275dc584f37aa163de5a9434c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208170790
+status: 3
+tags: []
+user_id: felip

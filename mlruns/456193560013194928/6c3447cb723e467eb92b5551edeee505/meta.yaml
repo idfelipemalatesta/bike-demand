@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/6c3447cb723e467eb92b5551edeee505/artifacts
+end_time: 1741208108732
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 6c3447cb723e467eb92b5551edeee505
+run_name: legendary-bird-188
+run_uuid: 6c3447cb723e467eb92b5551edeee505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208106532
+status: 3
+tags: []
+user_id: felip

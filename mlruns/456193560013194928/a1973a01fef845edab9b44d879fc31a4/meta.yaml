@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a1973a01fef845edab9b44d879fc31a4/artifacts
+end_time: 1741208904629
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a1973a01fef845edab9b44d879fc31a4
+run_name: amusing-elk-938
+run_uuid: a1973a01fef845edab9b44d879fc31a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208902232
+status: 3
+tags: []
+user_id: felip

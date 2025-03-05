@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/788cf0b4d47b45d7aa7fdac670a0a879/artifacts
+end_time: 1741208163804
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 788cf0b4d47b45d7aa7fdac670a0a879
+run_name: mysterious-seal-426
+run_uuid: 788cf0b4d47b45d7aa7fdac670a0a879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208161450
+status: 3
+tags: []
+user_id: felip

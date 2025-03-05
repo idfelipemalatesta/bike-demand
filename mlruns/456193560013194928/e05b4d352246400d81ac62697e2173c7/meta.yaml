@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/e05b4d352246400d81ac62697e2173c7/artifacts
+end_time: 1741208023699
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: e05b4d352246400d81ac62697e2173c7
+run_name: languid-swan-316
+run_uuid: e05b4d352246400d81ac62697e2173c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208021160
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/1d8c3aa5e9db49ceb6d7d9ba90c0d572/artifacts
+end_time: 1741208785509
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 1d8c3aa5e9db49ceb6d7d9ba90c0d572
+run_name: fearless-mouse-456
+run_uuid: 1d8c3aa5e9db49ceb6d7d9ba90c0d572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208783154
+status: 3
+tags: []
+user_id: felip

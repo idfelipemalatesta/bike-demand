@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/9134f4089d6c46758a4021de3d2867c2/artifacts
+end_time: 1741209443037
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 9134f4089d6c46758a4021de3d2867c2
+run_name: delightful-flea-652
+run_uuid: 9134f4089d6c46758a4021de3d2867c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209442736
+status: 3
+tags: []
+user_id: felip

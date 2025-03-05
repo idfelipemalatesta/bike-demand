@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f408d528c6fb4552a779286468a49e18/artifacts
+end_time: 1741208664735
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f408d528c6fb4552a779286468a49e18
+run_name: delightful-carp-875
+run_uuid: f408d528c6fb4552a779286468a49e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208662116
+status: 3
+tags: []
+user_id: felip

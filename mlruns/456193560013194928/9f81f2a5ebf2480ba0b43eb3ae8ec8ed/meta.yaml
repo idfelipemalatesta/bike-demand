@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/9f81f2a5ebf2480ba0b43eb3ae8ec8ed/artifacts
+end_time: 1741209447270
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 9f81f2a5ebf2480ba0b43eb3ae8ec8ed
+run_name: luxuriant-cow-605
+run_uuid: 9f81f2a5ebf2480ba0b43eb3ae8ec8ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209446878
+status: 3
+tags: []
+user_id: felip

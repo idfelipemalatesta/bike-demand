@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/2370bf4c13144980bb2ba3e72d0977d2/artifacts
+end_time: 1741208273130
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 2370bf4c13144980bb2ba3e72d0977d2
+run_name: smiling-gnat-69
+run_uuid: 2370bf4c13144980bb2ba3e72d0977d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208270923
+status: 3
+tags: []
+user_id: felip

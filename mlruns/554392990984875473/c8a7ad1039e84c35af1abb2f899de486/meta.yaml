@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/c8a7ad1039e84c35af1abb2f899de486/artifacts
+end_time: 1741209632914
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: c8a7ad1039e84c35af1abb2f899de486
+run_name: dazzling-snake-948
+run_uuid: c8a7ad1039e84c35af1abb2f899de486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209632372
+status: 3
+tags: []
+user_id: felip

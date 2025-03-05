@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/d0b8fb1f6f6b481c8d4cac495942d7b0/artifacts
+end_time: 1741209536608
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: d0b8fb1f6f6b481c8d4cac495942d7b0
+run_name: unleashed-lark-205
+run_uuid: d0b8fb1f6f6b481c8d4cac495942d7b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209536257
+status: 3
+tags: []
+user_id: felip

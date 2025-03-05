@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/288f72da009646ff82cd42766baca3d5/artifacts
+end_time: 1741208817653
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 288f72da009646ff82cd42766baca3d5
+run_name: grandiose-frog-304
+run_uuid: 288f72da009646ff82cd42766baca3d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208815492
+status: 3
+tags: []
+user_id: felip

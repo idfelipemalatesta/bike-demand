@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/103960d9911c4c65833c98afd3ea8bb7/artifacts
+end_time: 1741208409756
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 103960d9911c4c65833c98afd3ea8bb7
+run_name: efficient-moose-352
+run_uuid: 103960d9911c4c65833c98afd3ea8bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208407388
+status: 3
+tags: []
+user_id: felip

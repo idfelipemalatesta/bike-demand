@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/38c2587286cf4a51b4bf46133a50ff4e/artifacts
+end_time: 1741208902134
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 38c2587286cf4a51b4bf46133a50ff4e
+run_name: victorious-goose-58
+run_uuid: 38c2587286cf4a51b4bf46133a50ff4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208899502
+status: 3
+tags: []
+user_id: felip

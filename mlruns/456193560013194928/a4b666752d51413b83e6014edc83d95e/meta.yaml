@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a4b666752d51413b83e6014edc83d95e/artifacts
+end_time: 1741208270502
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a4b666752d51413b83e6014edc83d95e
+run_name: fortunate-finch-208
+run_uuid: a4b666752d51413b83e6014edc83d95e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208268164
+status: 3
+tags: []
+user_id: felip

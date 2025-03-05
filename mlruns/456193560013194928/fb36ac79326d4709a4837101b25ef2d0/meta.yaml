@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/fb36ac79326d4709a4837101b25ef2d0/artifacts
+end_time: 1741208586698
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: fb36ac79326d4709a4837101b25ef2d0
+run_name: ambitious-stag-900
+run_uuid: fb36ac79326d4709a4837101b25ef2d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208584228
+status: 3
+tags: []
+user_id: felip

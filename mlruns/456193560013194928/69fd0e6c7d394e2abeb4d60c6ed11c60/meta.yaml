@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/69fd0e6c7d394e2abeb4d60c6ed11c60/artifacts
+end_time: 1741209032539
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 69fd0e6c7d394e2abeb4d60c6ed11c60
+run_name: classy-shad-999
+run_uuid: 69fd0e6c7d394e2abeb4d60c6ed11c60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209029815
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ff85bb179dd04bec90b2890f4d436a16/artifacts
+end_time: 1741209036016
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ff85bb179dd04bec90b2890f4d436a16
+run_name: aged-wasp-144
+run_uuid: ff85bb179dd04bec90b2890f4d436a16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209035449
+status: 3
+tags: []
+user_id: felip

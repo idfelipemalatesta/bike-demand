@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/58dab1b29f3f44ad83db949b7bcd03a1/artifacts
+end_time: 1741208378741
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 58dab1b29f3f44ad83db949b7bcd03a1
+run_name: awesome-goose-699
+run_uuid: 58dab1b29f3f44ad83db949b7bcd03a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208376231
+status: 3
+tags: []
+user_id: felip

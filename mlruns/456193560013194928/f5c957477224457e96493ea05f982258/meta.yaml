@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f5c957477224457e96493ea05f982258/artifacts
+end_time: 1741208434895
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f5c957477224457e96493ea05f982258
+run_name: stately-midge-185
+run_uuid: f5c957477224457e96493ea05f982258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208432219
+status: 3
+tags: []
+user_id: felip

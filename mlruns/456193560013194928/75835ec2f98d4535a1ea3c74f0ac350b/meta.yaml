@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/75835ec2f98d4535a1ea3c74f0ac350b/artifacts
+end_time: 1741208519373
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 75835ec2f98d4535a1ea3c74f0ac350b
+run_name: rambunctious-pig-802
+run_uuid: 75835ec2f98d4535a1ea3c74f0ac350b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208517204
+status: 3
+tags: []
+user_id: felip

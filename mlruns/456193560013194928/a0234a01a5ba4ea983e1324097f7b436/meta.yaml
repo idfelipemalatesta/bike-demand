@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a0234a01a5ba4ea983e1324097f7b436/artifacts
+end_time: 1741208120579
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a0234a01a5ba4ea983e1324097f7b436
+run_name: smiling-kite-198
+run_uuid: a0234a01a5ba4ea983e1324097f7b436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208118135
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/7e0a630f37a74f30a156067e0909264c/artifacts
+end_time: 1741208766289
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 7e0a630f37a74f30a156067e0909264c
+run_name: nosy-vole-791
+run_uuid: 7e0a630f37a74f30a156067e0909264c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208764171
+status: 3
+tags: []
+user_id: felip

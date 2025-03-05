@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/3419ec6fba814b1692f10334939b05b9/artifacts
+end_time: 1741209859794
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 3419ec6fba814b1692f10334939b05b9
+run_name: selective-goat-51
+run_uuid: 3419ec6fba814b1692f10334939b05b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209858758
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/2a20644481df447892b31f394b1586f1/artifacts
+end_time: 1741208918670
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 2a20644481df447892b31f394b1586f1
+run_name: mysterious-doe-347
+run_uuid: 2a20644481df447892b31f394b1586f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208916045
+status: 3
+tags: []
+user_id: felip

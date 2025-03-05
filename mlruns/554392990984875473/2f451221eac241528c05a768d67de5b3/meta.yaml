@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/2f451221eac241528c05a768d67de5b3/artifacts
+end_time: 1741209753481
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 2f451221eac241528c05a768d67de5b3
+run_name: sneaky-bee-528
+run_uuid: 2f451221eac241528c05a768d67de5b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209753117
+status: 3
+tags: []
+user_id: felip

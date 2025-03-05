@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/9afc315346cb4e439a5594f12e69004b/artifacts
+end_time: 1741208143876
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 9afc315346cb4e439a5594f12e69004b
+run_name: unequaled-snipe-285
+run_uuid: 9afc315346cb4e439a5594f12e69004b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208141211
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/85ed0a6c9ca84380a86d835ec473ee73/artifacts
+end_time: 1741208880632
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 85ed0a6c9ca84380a86d835ec473ee73
+run_name: useful-shrike-783
+run_uuid: 85ed0a6c9ca84380a86d835ec473ee73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208877768
+status: 3
+tags: []
+user_id: felip

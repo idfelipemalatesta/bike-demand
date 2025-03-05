@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/e97bff8b35f846e7a230e89ffaf3d95b/artifacts
+end_time: 1741208060128
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: e97bff8b35f846e7a230e89ffaf3d95b
+run_name: nebulous-flea-821
+run_uuid: e97bff8b35f846e7a230e89ffaf3d95b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208057419
+status: 3
+tags: []
+user_id: felip

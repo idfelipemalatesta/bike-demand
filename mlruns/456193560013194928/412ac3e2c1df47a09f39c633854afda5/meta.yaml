@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/412ac3e2c1df47a09f39c633854afda5/artifacts
+end_time: 1741208832088
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 412ac3e2c1df47a09f39c633854afda5
+run_name: fortunate-roo-534
+run_uuid: 412ac3e2c1df47a09f39c633854afda5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208829746
+status: 3
+tags: []
+user_id: felip

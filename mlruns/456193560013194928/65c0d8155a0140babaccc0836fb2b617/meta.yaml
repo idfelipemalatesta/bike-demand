@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/65c0d8155a0140babaccc0836fb2b617/artifacts
+end_time: 1741208057324
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 65c0d8155a0140babaccc0836fb2b617
+run_name: enthused-calf-465
+run_uuid: 65c0d8155a0140babaccc0836fb2b617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208057077
+status: 3
+tags: []
+user_id: felip

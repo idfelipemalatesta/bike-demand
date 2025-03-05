@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/077988fda6ca4c61b9adad479b1ae543/artifacts
+end_time: 1741209452016
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 077988fda6ca4c61b9adad479b1ae543
+run_name: agreeable-shark-989
+run_uuid: 077988fda6ca4c61b9adad479b1ae543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209449688
+status: 3
+tags: []
+user_id: felip

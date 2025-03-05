@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/00e003c697054a6db121e53cdf41ff53/artifacts
+end_time: 1741208004719
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 00e003c697054a6db121e53cdf41ff53
+run_name: nervous-sow-221
+run_uuid: 00e003c697054a6db121e53cdf41ff53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208004475
+status: 3
+tags: []
+user_id: felip

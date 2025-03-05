@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/af1f5b11980b44edb065f0c7d40a5120/artifacts
+end_time: 1741208389138
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: af1f5b11980b44edb065f0c7d40a5120
+run_name: bittersweet-carp-391
+run_uuid: af1f5b11980b44edb065f0c7d40a5120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208386685
+status: 3
+tags: []
+user_id: felip

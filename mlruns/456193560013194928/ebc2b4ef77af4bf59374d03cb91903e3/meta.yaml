@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ebc2b4ef77af4bf59374d03cb91903e3/artifacts
+end_time: 1741208759346
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ebc2b4ef77af4bf59374d03cb91903e3
+run_name: treasured-zebra-822
+run_uuid: ebc2b4ef77af4bf59374d03cb91903e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208757967
+status: 3
+tags: []
+user_id: felip

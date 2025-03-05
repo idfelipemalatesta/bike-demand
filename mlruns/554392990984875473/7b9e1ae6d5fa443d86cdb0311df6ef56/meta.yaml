@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/7b9e1ae6d5fa443d86cdb0311df6ef56/artifacts
+end_time: 1741209854441
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 7b9e1ae6d5fa443d86cdb0311df6ef56
+run_name: able-dog-964
+run_uuid: 7b9e1ae6d5fa443d86cdb0311df6ef56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209853776
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/b4c02a0ce2d0499b8ec1cdec8047050a/artifacts
+end_time: 1741208018479
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: b4c02a0ce2d0499b8ec1cdec8047050a
+run_name: traveling-fly-30
+run_uuid: b4c02a0ce2d0499b8ec1cdec8047050a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208015733
+status: 3
+tags: []
+user_id: felip

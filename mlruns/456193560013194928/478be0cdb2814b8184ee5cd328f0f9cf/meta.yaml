@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/478be0cdb2814b8184ee5cd328f0f9cf/artifacts
+end_time: 1741208429739
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 478be0cdb2814b8184ee5cd328f0f9cf
+run_name: amazing-grouse-827
+run_uuid: 478be0cdb2814b8184ee5cd328f0f9cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208427464
+status: 3
+tags: []
+user_id: felip

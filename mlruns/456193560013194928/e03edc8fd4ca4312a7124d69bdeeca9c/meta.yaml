@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/e03edc8fd4ca4312a7124d69bdeeca9c/artifacts
+end_time: 1741209524240
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: e03edc8fd4ca4312a7124d69bdeeca9c
+run_name: glamorous-fawn-586
+run_uuid: e03edc8fd4ca4312a7124d69bdeeca9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209522160
+status: 3
+tags: []
+user_id: felip

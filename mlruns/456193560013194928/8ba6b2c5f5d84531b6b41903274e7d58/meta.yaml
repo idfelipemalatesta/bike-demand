@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/8ba6b2c5f5d84531b6b41903274e7d58/artifacts
+end_time: 1741208746787
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 8ba6b2c5f5d84531b6b41903274e7d58
+run_name: gaudy-crab-279
+run_uuid: 8ba6b2c5f5d84531b6b41903274e7d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208744687
+status: 3
+tags: []
+user_id: felip

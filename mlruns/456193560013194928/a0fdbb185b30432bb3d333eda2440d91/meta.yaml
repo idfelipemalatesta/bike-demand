@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a0fdbb185b30432bb3d333eda2440d91/artifacts
+end_time: 1741208810176
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a0fdbb185b30432bb3d333eda2440d91
+run_name: bedecked-jay-167
+run_uuid: a0fdbb185b30432bb3d333eda2440d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208809937
+status: 3
+tags: []
+user_id: felip

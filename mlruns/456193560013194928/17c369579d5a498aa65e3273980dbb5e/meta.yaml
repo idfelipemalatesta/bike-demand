@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/17c369579d5a498aa65e3273980dbb5e/artifacts
+end_time: 1741208575938
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 17c369579d5a498aa65e3273980dbb5e
+run_name: righteous-wolf-426
+run_uuid: 17c369579d5a498aa65e3273980dbb5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208573481
+status: 3
+tags: []
+user_id: felip

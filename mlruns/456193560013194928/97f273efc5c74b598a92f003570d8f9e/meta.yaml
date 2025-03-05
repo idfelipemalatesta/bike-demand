@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/97f273efc5c74b598a92f003570d8f9e/artifacts
+end_time: 1741209433429
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 97f273efc5c74b598a92f003570d8f9e
+run_name: marvelous-swan-970
+run_uuid: 97f273efc5c74b598a92f003570d8f9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209433117
+status: 3
+tags: []
+user_id: felip

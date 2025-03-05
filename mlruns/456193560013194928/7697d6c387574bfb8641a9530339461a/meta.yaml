@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/7697d6c387574bfb8641a9530339461a/artifacts
+end_time: 1741209473008
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 7697d6c387574bfb8641a9530339461a
+run_name: caring-fox-595
+run_uuid: 7697d6c387574bfb8641a9530339461a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209471538
+status: 3
+tags: []
+user_id: felip

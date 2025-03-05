@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/00420976831643d59565cb0f221f8dcf/artifacts
+end_time: 1741208956979
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 00420976831643d59565cb0f221f8dcf
+run_name: rogue-mole-971
+run_uuid: 00420976831643d59565cb0f221f8dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208954523
+status: 3
+tags: []
+user_id: felip

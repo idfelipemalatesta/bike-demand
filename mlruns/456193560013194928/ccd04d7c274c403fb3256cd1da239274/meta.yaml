@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ccd04d7c274c403fb3256cd1da239274/artifacts
+end_time: 1741208822815
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ccd04d7c274c403fb3256cd1da239274
+run_name: fearless-fly-95
+run_uuid: ccd04d7c274c403fb3256cd1da239274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208820311
+status: 3
+tags: []
+user_id: felip

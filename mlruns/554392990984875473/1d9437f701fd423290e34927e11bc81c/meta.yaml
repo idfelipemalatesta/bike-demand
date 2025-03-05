@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/1d9437f701fd423290e34927e11bc81c/artifacts
+end_time: 1741209641126
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 1d9437f701fd423290e34927e11bc81c
+run_name: welcoming-loon-561
+run_uuid: 1d9437f701fd423290e34927e11bc81c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209640756
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/067e4bbd388b4a51a90ca1412da100d2/artifacts
+end_time: 1741208054431
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 067e4bbd388b4a51a90ca1412da100d2
+run_name: fearless-crow-241
+run_uuid: 067e4bbd388b4a51a90ca1412da100d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208054139
+status: 3
+tags: []
+user_id: felip

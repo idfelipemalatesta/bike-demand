@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/179e69124832479785be088c842d5890/artifacts
+end_time: 1741208846405
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 179e69124832479785be088c842d5890
+run_name: placid-newt-581
+run_uuid: 179e69124832479785be088c842d5890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208844426
+status: 3
+tags: []
+user_id: felip

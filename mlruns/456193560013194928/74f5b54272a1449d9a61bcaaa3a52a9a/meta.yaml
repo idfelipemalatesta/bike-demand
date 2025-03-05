@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/74f5b54272a1449d9a61bcaaa3a52a9a/artifacts
+end_time: 1741208063112
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 74f5b54272a1449d9a61bcaaa3a52a9a
+run_name: abrasive-dog-169
+run_uuid: 74f5b54272a1449d9a61bcaaa3a52a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208060252
+status: 3
+tags: []
+user_id: felip

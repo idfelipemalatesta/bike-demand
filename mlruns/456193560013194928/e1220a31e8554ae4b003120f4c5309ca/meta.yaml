@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/e1220a31e8554ae4b003120f4c5309ca/artifacts
+end_time: 1741207994282
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: e1220a31e8554ae4b003120f4c5309ca
+run_name: big-seal-190
+run_uuid: e1220a31e8554ae4b003120f4c5309ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741207994081
+status: 3
+tags: []
+user_id: felip

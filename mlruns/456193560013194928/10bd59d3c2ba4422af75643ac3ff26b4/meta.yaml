@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/10bd59d3c2ba4422af75643ac3ff26b4/artifacts
+end_time: 1741208138144
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 10bd59d3c2ba4422af75643ac3ff26b4
+run_name: colorful-hawk-681
+run_uuid: 10bd59d3c2ba4422af75643ac3ff26b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208135799
+status: 3
+tags: []
+user_id: felip

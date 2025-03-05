@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/a02d21e84f694d558194627016efca75/artifacts
+end_time: 1741209849076
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: a02d21e84f694d558194627016efca75
+run_name: fun-ant-579
+run_uuid: a02d21e84f694d558194627016efca75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209848357
+status: 3
+tags: []
+user_id: felip

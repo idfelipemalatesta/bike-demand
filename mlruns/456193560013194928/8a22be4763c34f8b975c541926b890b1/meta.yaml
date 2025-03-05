@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/8a22be4763c34f8b975c541926b890b1/artifacts
+end_time: 1741208188424
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 8a22be4763c34f8b975c541926b890b1
+run_name: funny-flea-148
+run_uuid: 8a22be4763c34f8b975c541926b890b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208186311
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/cf3f8af413f24ae0883d3cc66a8a1ebf/artifacts
+end_time: 1741208998119
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: cf3f8af413f24ae0883d3cc66a8a1ebf
+run_name: delicate-gull-475
+run_uuid: cf3f8af413f24ae0883d3cc66a8a1ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208995179
+status: 3
+tags: []
+user_id: felip

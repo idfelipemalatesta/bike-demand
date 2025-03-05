@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/1bc89b8af975481b8663b0c6fd88e01a/artifacts
+end_time: 1741208458116
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 1bc89b8af975481b8663b0c6fd88e01a
+run_name: nimble-robin-218
+run_uuid: 1bc89b8af975481b8663b0c6fd88e01a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208455750
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/3f1b2129f2c8446aa035ca84f0d7b7fe/artifacts
+end_time: 1741208690076
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 3f1b2129f2c8446aa035ca84f0d7b7fe
+run_name: sassy-hawk-745
+run_uuid: 3f1b2129f2c8446aa035ca84f0d7b7fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208687818
+status: 3
+tags: []
+user_id: felip

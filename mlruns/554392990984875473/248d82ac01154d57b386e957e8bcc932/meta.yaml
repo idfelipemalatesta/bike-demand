@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/248d82ac01154d57b386e957e8bcc932/artifacts
+end_time: 1741209853679
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 248d82ac01154d57b386e957e8bcc932
+run_name: enchanting-robin-470
+run_uuid: 248d82ac01154d57b386e957e8bcc932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209852876
+status: 3
+tags: []
+user_id: felip

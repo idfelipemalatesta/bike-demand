@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/b668e4ec03a24d4d9fff08e9d5e74f25/artifacts
+end_time: 1741209631817
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: b668e4ec03a24d4d9fff08e9d5e74f25
+run_name: masked-ray-975
+run_uuid: b668e4ec03a24d4d9fff08e9d5e74f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209631469
+status: 3
+tags: []
+user_id: felip

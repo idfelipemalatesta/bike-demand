@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/15b9d9c9a06448c69e7442b78eeeb6f6/artifacts
+end_time: 1741208704069
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 15b9d9c9a06448c69e7442b78eeeb6f6
+run_name: painted-hog-109
+run_uuid: 15b9d9c9a06448c69e7442b78eeeb6f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208701686
+status: 3
+tags: []
+user_id: felip

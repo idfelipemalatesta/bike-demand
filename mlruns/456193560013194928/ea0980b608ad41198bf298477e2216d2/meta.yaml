@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ea0980b608ad41198bf298477e2216d2/artifacts
+end_time: 1741208557214
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ea0980b608ad41198bf298477e2216d2
+run_name: flawless-loon-932
+run_uuid: ea0980b608ad41198bf298477e2216d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208554706
+status: 3
+tags: []
+user_id: felip

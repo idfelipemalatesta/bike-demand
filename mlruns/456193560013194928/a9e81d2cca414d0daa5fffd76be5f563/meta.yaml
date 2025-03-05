@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/a9e81d2cca414d0daa5fffd76be5f563/artifacts
+end_time: 1741208096586
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: a9e81d2cca414d0daa5fffd76be5f563
+run_name: wise-fawn-94
+run_uuid: a9e81d2cca414d0daa5fffd76be5f563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208093878
+status: 3
+tags: []
+user_id: felip

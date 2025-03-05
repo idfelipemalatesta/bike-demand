@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/75426df1dc67472eb85a56b4a3296a91/artifacts
+end_time: 1741208039256
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 75426df1dc67472eb85a56b4a3296a91
+run_name: mercurial-mole-780
+run_uuid: 75426df1dc67472eb85a56b4a3296a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208037042
+status: 3
+tags: []
+user_id: felip

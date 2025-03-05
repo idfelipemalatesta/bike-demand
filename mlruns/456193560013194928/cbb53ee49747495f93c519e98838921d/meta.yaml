@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/cbb53ee49747495f93c519e98838921d/artifacts
+end_time: 1741208722685
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: cbb53ee49747495f93c519e98838921d
+run_name: industrious-mare-606
+run_uuid: cbb53ee49747495f93c519e98838921d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208722292
+status: 3
+tags: []
+user_id: felip

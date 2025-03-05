@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/bdd8e228533348c884bedc77ebd18b07/artifacts
+end_time: 1741208931229
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: bdd8e228533348c884bedc77ebd18b07
+run_name: nimble-snail-734
+run_uuid: bdd8e228533348c884bedc77ebd18b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208928375
+status: 3
+tags: []
+user_id: felip

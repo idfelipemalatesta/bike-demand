@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/2a6646a9df2e444e9b7a07f2a57a403f/artifacts
+end_time: 1741209836457
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 2a6646a9df2e444e9b7a07f2a57a403f
+run_name: spiffy-skink-833
+run_uuid: 2a6646a9df2e444e9b7a07f2a57a403f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209835616
+status: 3
+tags: []
+user_id: felip

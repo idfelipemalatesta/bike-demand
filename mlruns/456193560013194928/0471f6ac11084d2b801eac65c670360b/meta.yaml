@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/0471f6ac11084d2b801eac65c670360b/artifacts
+end_time: 1741208773724
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 0471f6ac11084d2b801eac65c670360b
+run_name: bouncy-pig-609
+run_uuid: 0471f6ac11084d2b801eac65c670360b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208771614
+status: 3
+tags: []
+user_id: felip

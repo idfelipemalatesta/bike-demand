@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/dd6faf54acb545e2bf6f2361b75446d7/artifacts
+end_time: 1741208548395
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: dd6faf54acb545e2bf6f2361b75446d7
+run_name: spiffy-finch-696
+run_uuid: dd6faf54acb545e2bf6f2361b75446d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208545813
+status: 3
+tags: []
+user_id: felip

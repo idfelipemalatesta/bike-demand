@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/c0270766ab314b69ae820b2b89405d2f/artifacts
+end_time: 1741209650717
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: c0270766ab314b69ae820b2b89405d2f
+run_name: worried-turtle-648
+run_uuid: c0270766ab314b69ae820b2b89405d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209650258
+status: 3
+tags: []
+user_id: felip

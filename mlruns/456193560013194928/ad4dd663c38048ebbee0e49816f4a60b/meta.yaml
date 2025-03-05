@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ad4dd663c38048ebbee0e49816f4a60b/artifacts
+end_time: 1741208417316
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ad4dd663c38048ebbee0e49816f4a60b
+run_name: luxuriant-hawk-515
+run_uuid: ad4dd663c38048ebbee0e49816f4a60b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208414902
+status: 3
+tags: []
+user_id: felip

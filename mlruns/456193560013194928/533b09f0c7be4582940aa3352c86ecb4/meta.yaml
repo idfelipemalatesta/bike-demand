@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/533b09f0c7be4582940aa3352c86ecb4/artifacts
+end_time: 1741208761555
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 533b09f0c7be4582940aa3352c86ecb4
+run_name: blushing-hound-169
+run_uuid: 533b09f0c7be4582940aa3352c86ecb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208759443
+status: 3
+tags: []
+user_id: felip

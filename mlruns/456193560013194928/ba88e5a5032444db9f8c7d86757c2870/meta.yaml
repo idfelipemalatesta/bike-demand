@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/ba88e5a5032444db9f8c7d86757c2870/artifacts
+end_time: 1741209457995
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: ba88e5a5032444db9f8c7d86757c2870
+run_name: bold-fly-57
+run_uuid: ba88e5a5032444db9f8c7d86757c2870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209455220
+status: 3
+tags: []
+user_id: felip

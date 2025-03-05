@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554392990984875473/0cbae7999cb64e048f98a9dcdd2dcccb/artifacts
+end_time: 1741209647684
+entry_point_name: ''
+experiment_id: '554392990984875473'
+lifecycle_stage: active
+run_id: 0cbae7999cb64e048f98a9dcdd2dcccb
+run_name: abrasive-foal-227
+run_uuid: 0cbae7999cb64e048f98a9dcdd2dcccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209647178
+status: 3
+tags: []
+user_id: felip

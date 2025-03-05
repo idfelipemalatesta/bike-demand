@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/daaa3b981de445a48f8531f42795dd85/artifacts
+end_time: 1741208644351
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: daaa3b981de445a48f8531f42795dd85
+run_name: selective-vole-610
+run_uuid: daaa3b981de445a48f8531f42795dd85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208642353
+status: 3
+tags: []
+user_id: felip

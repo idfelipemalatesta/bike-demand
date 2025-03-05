@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/f730d76071c84650a6cea825f0d792ad/artifacts
+end_time: 1741209112907
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: f730d76071c84650a6cea825f0d792ad
+run_name: indecisive-seal-751
+run_uuid: f730d76071c84650a6cea825f0d792ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741209110689
+status: 3
+tags: []
+user_id: felip

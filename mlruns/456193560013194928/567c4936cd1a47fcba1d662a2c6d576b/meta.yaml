@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/567c4936cd1a47fcba1d662a2c6d576b/artifacts
+end_time: 1741208776128
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 567c4936cd1a47fcba1d662a2c6d576b
+run_name: brawny-carp-885
+run_uuid: 567c4936cd1a47fcba1d662a2c6d576b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208773824
+status: 3
+tags: []
+user_id: felip

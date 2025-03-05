@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/456193560013194928/0d71c354dcc84bbdb0daefa1920a7e3e/artifacts
+end_time: 1741208034748
+entry_point_name: ''
+experiment_id: '456193560013194928'
+lifecycle_stage: active
+run_id: 0d71c354dcc84bbdb0daefa1920a7e3e
+run_name: puzzled-fly-377
+run_uuid: 0d71c354dcc84bbdb0daefa1920a7e3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741208034486
+status: 3
+tags: []
+user_id: felip
