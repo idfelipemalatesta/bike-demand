@@ -1,7 +1,11 @@
 # Regressão - Prever a Demanda de Bicicletas
 
 ## Objetivo do Projeto
-O objetivo do projeto está em demonstrar a habilidade na utilização de ferramentas de Data Science.
+O objetivo do projeto está em demonstrar a habilidade na utilização de ferramentas de Data Science. Para executar o treinamento:
+
+```
+python main.py
+```
 
 ## Ferramentas Utilizadas
 - **MLflow**: Ferramenta para gerenciar e registrar todas as trials e experimentos realizados durante o processo de otimização e treinamento dos modelos.
