@@ -1,7 +1,7 @@
 [project]
 name = "bike-demand"
 version = "0.1.0"
-description = "Add your description here"
+description = "MLflow, Optuna e XGBoost"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
